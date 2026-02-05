@@ -1,0 +1,153 @@
+{
+  "store_types": [
+    {
+      "type_id": "urban_flagship",
+      "name": "Urban Flagship",
+      "typical_sqft": 5000,
+      "sqft_range": [
+        4500,
+        6000
+      ],
+      "target_markets": [
+        "New York",
+        "Chicago",
+        "San Francisco",
+        "Boston"
+      ],
+      "typical_use_cases": [
+        "High-traffic urban locations",
+        "Brand showcases",
+        "Market entry"
+      ],
+      "key_features": [
+        "Premium finishes and fixtures",
+        "Advanced technology package",
+        "Enhanced lighting design",
+        "Digital experience zones"
+      ],
+      "cost_drivers": [
+        "Premium materials",
+        "Urban labor rates",
+        "Complex permitting"
+      ]
+    },
+    {
+      "type_id": "suburban_standard",
+      "name": "Suburban Standard",
+      "typical_sqft": 3500,
+      "sqft_range": [
+        3000,
+        4000
+      ],
+      "target_markets": [
+        "Columbus",
+        "Cincinnati",
+        "Indianapolis",
+        "Louisville"
+      ],
+      "typical_use_cases": [
+        "Mall locations",
+        "Shopping centers",
+        "Standard rollout"
+      ],
+      "key_features": [
+        "Standard fixtures and finishes",
+        "Base technology package",
+        "Standard lighting",
+        "Traditional layout"
+      ],
+      "cost_drivers": [
+        "Material costs",
+        "Standard labor",
+        "Landlord requirements"
+      ]
+    },
+    {
+      "type_id": "express_compact",
+      "name": "Express/Compact",
+      "typical_sqft": 2000,
+      "sqft_range": [
+        1500,
+        2500
+      ],
+      "target_markets": [
+        "Secondary markets",
+        "Airport locations",
+        "Outlet centers"
+      ],
+      "typical_use_cases": [
+        "Quick market entry",
+        "Test markets",
+        "Cost-optimized"
+      ],
+      "key_features": [
+        "Essential fixtures only",
+        "Minimal technology",
+        "Cost-effective finishes",
+        "Simplified layout"
+      ],
+      "cost_drivers": [
+        "Efficiency",
+        "Material minimization",
+        "Fast construction"
+      ]
+    },
+    {
+      "type_id": "remodel_refresh",
+      "name": "Remodel/Refresh",
+      "typical_sqft": 3500,
+      "sqft_range": [
+        2000,
+        5000
+      ],
+      "target_markets": [
+        "All markets"
+      ],
+      "typical_use_cases": [
+        "Store updates",
+        "Brand refresh",
+        "Technology upgrade"
+      ],
+      "key_features": [
+        "Selective category updates",
+        "Existing infrastructure reuse",
+        "Phased construction",
+        "Minimal disruption"
+      ],
+      "cost_drivers": [
+        "Demolition",
+        "Working around existing",
+        "Phasing complexity"
+      ]
+    },
+    {
+      "type_id": "prototype_innovation",
+      "name": "Prototype/Innovation",
+      "typical_sqft": 4000,
+      "sqft_range": [
+        3500,
+        5000
+      ],
+      "target_markets": [
+        "Select test markets"
+      ],
+      "typical_use_cases": [
+        "New concept testing",
+        "Format innovation",
+        "Future rollout development"
+      ],
+      "key_features": [
+        "Custom fixtures",
+        "Advanced technology",
+        "Experimental layouts",
+        "Premium everything"
+      ],
+      "cost_drivers": [
+        "Custom design",
+        "R&D costs",
+        "Trial and error",
+        "Documentation"
+      ]
+    }
+  ]
+}

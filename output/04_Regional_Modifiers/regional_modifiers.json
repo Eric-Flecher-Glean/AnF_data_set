@@ -1,0 +1,154 @@
+{
+  "markets": [
+    {
+      "market": "Columbus",
+      "state": "OH",
+      "tier": "secondary",
+      "modifiers": {
+        "construction": 1.0,
+        "electrical": 1.03,
+        "hvac": 1.02,
+        "plumbing": 1.01,
+        "fixtures": 1.0,
+        "technology": 1.0,
+        "soft_costs": 1.02
+      },
+      "notes": "Baseline market, good vendor competition"
+    },
+    {
+      "market": "Cincinnati",
+      "state": "OH",
+      "tier": "secondary",
+      "modifiers": {
+        "construction": 1.05,
+        "electrical": 1.08,
+        "hvac": 1.04,
+        "plumbing": 1.03,
+        "fixtures": 1.0,
+        "technology": 1.0,
+        "soft_costs": 1.03
+      },
+      "notes": "Union labor requirements increase electrical costs"
+    },
+    {
+      "market": "Cleveland",
+      "state": "OH",
+      "tier": "secondary",
+      "modifiers": {
+        "construction": 1.04,
+        "electrical": 1.06,
+        "hvac": 1.03,
+        "plumbing": 1.02,
+        "fixtures": 1.0,
+        "technology": 1.0,
+        "soft_costs": 1.03
+      },
+      "notes": "Moderate cost market"
+    },
+    {
+      "market": "Pittsburgh",
+      "state": "PA",
+      "tier": "secondary",
+      "modifiers": {
+        "construction": 1.07,
+        "electrical": 1.09,
+        "hvac": 1.05,
+        "plumbing": 1.04,
+        "fixtures": 1.02,
+        "technology": 1.0,
+        "soft_costs": 1.05
+      },
+      "notes": "Higher labor costs, union presence"
+    },
+    {
+      "market": "Indianapolis",
+      "state": "IN",
+      "tier": "secondary",
+      "modifiers": {
+        "construction": 0.97,
+        "electrical": 0.99,
+        "hvac": 0.98,
+        "plumbing": 0.98,
+        "fixtures": 1.0,
+        "technology": 1.0,
+        "soft_costs": 1.0
+      },
+      "notes": "Cost-effective market, good vendor availability"
+    },
+    {
+      "market": "Louisville",
+      "state": "KY",
+      "tier": "tertiary",
+      "modifiers": {
+        "construction": 0.94,
+        "electrical": 0.96,
+        "hvac": 0.95,
+        "plumbing": 0.95,
+        "fixtures": 1.0,
+        "technology": 1.0,
+        "soft_costs": 0.98
+      },
+      "notes": "Lower cost market"
+    },
+    {
+      "market": "Detroit",
+      "state": "MI",
+      "tier": "secondary",
+      "modifiers": {
+        "construction": 1.08,
+        "electrical": 1.12,
+        "hvac": 1.06,
+        "plumbing": 1.05,
+        "fixtures": 1.0,
+        "technology": 1.0,
+        "soft_costs": 1.06
+      },
+      "notes": "High union presence, regulatory complexity"
+    },
+    {
+      "market": "Chicago",
+      "state": "IL",
+      "tier": "primary",
+      "modifiers": {
+        "construction": 1.25,
+        "electrical": 1.35,
+        "hvac": 1.22,
+        "plumbing": 1.2,
+        "fixtures": 1.05,
+        "technology": 1.0,
+        "soft_costs": 1.15
+      },
+      "notes": "Major urban market, high labor costs, complex permitting"
+    },
+    {
+      "market": "New York",
+      "state": "NY",
+      "tier": "primary",
+      "modifiers": {
+        "construction": 1.45,
+        "electrical": 1.55,
+        "hvac": 1.4,
+        "plumbing": 1.38,
+        "fixtures": 1.1,
+        "technology": 1.05,
+        "soft_costs": 1.25
+      },
+      "notes": "Highest cost market, union mandates, complex logistics"
+    },
+    {
+      "market": "San Francisco",
+      "state": "CA",
+      "tier": "primary",
+      "modifiers": {
+        "construction": 1.5,
+        "electrical": 1.52,
+        "hvac": 1.45,
+        "plumbing": 1.42,
+        "fixtures": 1.08,
+        "technology": 1.03,
+        "soft_costs": 1.28
+      },
+      "notes": "Extreme high cost, seismic requirements, permit complexity"
+    }
+  ]
+}

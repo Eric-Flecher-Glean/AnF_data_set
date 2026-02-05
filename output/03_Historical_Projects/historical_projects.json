@@ -1,0 +1,3844 @@
+{
+  "projects": [
+    {
+      "store_id": "Store-50",
+      "store_type": "suburban_standard",
+      "square_footage": 3500,
+      "market": "Cleveland",
+      "completion_date": "2024-06-21",
+      "total_cost": 647021,
+      "cost_per_sqft": 184.86,
+      "categories": {
+        "construction": 226457,
+        "electrical": 77642,
+        "hvac": 51761,
+        "plumbing": 32351,
+        "fixtures": 161755,
+        "technology": 51761,
+        "soft_costs": 45291
+      },
+      "timeline_days": 117,
+      "variance_from_budget": 2,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-51",
+      "store_type": "suburban_standard",
+      "square_footage": 3500,
+      "market": "Louisville",
+      "completion_date": "2024-09-06",
+      "total_cost": 597678,
+      "cost_per_sqft": 170.77,
+      "categories": {
+        "construction": 209187,
+        "electrical": 71721,
+        "hvac": 47814,
+        "plumbing": 29883,
+        "fixtures": 149419,
+        "technology": 47814,
+        "soft_costs": 41837
+      },
+      "timeline_days": 75,
+      "variance_from_budget": 2,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-52",
+      "store_type": "suburban_standard",
+      "square_footage": 3500,
+      "market": "Columbus",
+      "completion_date": "2024-12-17",
+      "total_cost": 740420,
+      "cost_per_sqft": 211.55,
+      "categories": {
+        "construction": 259146,
+        "electrical": 88850,
+        "hvac": 59233,
+        "plumbing": 37021,
+        "fixtures": 185105,
+        "technology": 59233,
+        "soft_costs": 51829
+      },
+      "timeline_days": 90,
+      "variance_from_budget": 6,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-53",
+      "store_type": "suburban_standard",
+      "square_footage": 3500,
+      "market": "Cincinnati",
+      "completion_date": "2024-08-17",
+      "total_cost": 670254,
+      "cost_per_sqft": 191.5,
+      "categories": {
+        "construction": 234588,
+        "electrical": 80430,
+        "hvac": 53620,
+        "plumbing": 33512,
+        "fixtures": 167563,
+        "technology": 53620,
+        "soft_costs": 46917
+      },
+      "timeline_days": 105,
+      "variance_from_budget": 10,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-54",
+      "store_type": "suburban_standard",
+      "square_footage": 3500,
+      "market": "Cincinnati",
+      "completion_date": "2024-08-18",
+      "total_cost": 727850,
+      "cost_per_sqft": 207.96,
+      "categories": {
+        "construction": 254747,
+        "electrical": 87342,
+        "hvac": 58228,
+        "plumbing": 36392,
+        "fixtures": 181962,
+        "technology": 58228,
+        "soft_costs": 50949
+      },
+      "timeline_days": 79,
+      "variance_from_budget": 10,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-55",
+      "store_type": "suburban_standard",
+      "square_footage": 3500,
+      "market": "Cincinnati",
+      "completion_date": "2024-03-24",
+      "total_cost": 567923,
+      "cost_per_sqft": 162.26,
+      "categories": {
+        "construction": 198773,
+        "electrical": 68150,
+        "hvac": 45433,
+        "plumbing": 28396,
+        "fixtures": 141980,
+        "technology": 45433,
+        "soft_costs": 39754
+      },
+      "timeline_days": 79,
+      "variance_from_budget": -3,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-56",
+      "store_type": "suburban_standard",
+      "square_footage": 3500,
+      "market": "Louisville",
+      "completion_date": "2024-01-16",
+      "total_cost": 738004,
+      "cost_per_sqft": 210.86,
+      "categories": {
+        "construction": 258301,
+        "electrical": 88560,
+        "hvac": 59040,
+        "plumbing": 36900,
+        "fixtures": 184501,
+        "technology": 59040,
+        "soft_costs": 51660
+      },
+      "timeline_days": 101,
+      "variance_from_budget": 4,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-57",
+      "store_type": "suburban_standard",
+      "square_footage": 3500,
+      "market": "Louisville",
+      "completion_date": "2024-10-01",
+      "total_cost": 558643,
+      "cost_per_sqft": 159.61,
+      "categories": {
+        "construction": 195525,
+        "electrical": 67037,
+        "hvac": 44691,
+        "plumbing": 27932,
+        "fixtures": 139660,
+        "technology": 44691,
+        "soft_costs": 39105
+      },
+      "timeline_days": 74,
+      "variance_from_budget": 5,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-58",
+      "store_type": "suburban_standard",
+      "square_footage": 3500,
+      "market": "Cincinnati",
+      "completion_date": "2024-12-21",
+      "total_cost": 663187,
+      "cost_per_sqft": 189.48,
+      "categories": {
+        "construction": 232115,
+        "electrical": 79582,
+        "hvac": 53054,
+        "plumbing": 33159,
+        "fixtures": 165796,
+        "technology": 53054,
+        "soft_costs": 46423
+      },
+      "timeline_days": 120,
+      "variance_from_budget": 1,
+      "lessons_learned": [
+        "Delayed by permit issues",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-59",
+      "store_type": "suburban_standard",
+      "square_footage": 3500,
+      "market": "Pittsburgh",
+      "completion_date": "2024-08-01",
+      "total_cost": 593923,
+      "cost_per_sqft": 169.69,
+      "categories": {
+        "construction": 207873,
+        "electrical": 71270,
+        "hvac": 47513,
+        "plumbing": 29696,
+        "fixtures": 148480,
+        "technology": 47513,
+        "soft_costs": 41574
+      },
+      "timeline_days": 68,
+      "variance_from_budget": 4,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-60",
+      "store_type": "suburban_standard",
+      "square_footage": 3500,
+      "market": "Louisville",
+      "completion_date": "2024-03-09",
+      "total_cost": 610166,
+      "cost_per_sqft": 174.33,
+      "categories": {
+        "construction": 213558,
+        "electrical": 73219,
+        "hvac": 48813,
+        "plumbing": 30508,
+        "fixtures": 152541,
+        "technology": 48813,
+        "soft_costs": 42711
+      },
+      "timeline_days": 74,
+      "variance_from_budget": 10,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-61",
+      "store_type": "suburban_standard",
+      "square_footage": 3500,
+      "market": "Louisville",
+      "completion_date": "2024-04-26",
+      "total_cost": 646429,
+      "cost_per_sqft": 184.69,
+      "categories": {
+        "construction": 226250,
+        "electrical": 77571,
+        "hvac": 51714,
+        "plumbing": 32321,
+        "fixtures": 161607,
+        "technology": 51714,
+        "soft_costs": 45250
+      },
+      "timeline_days": 118,
+      "variance_from_budget": 5,
+      "lessons_learned": [
+        "Delayed by permit issues",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-62",
+      "store_type": "suburban_standard",
+      "square_footage": 3500,
+      "market": "Cincinnati",
+      "completion_date": "2024-02-27",
+      "total_cost": 730637,
+      "cost_per_sqft": 208.75,
+      "categories": {
+        "construction": 255722,
+        "electrical": 87676,
+        "hvac": 58450,
+        "plumbing": 36531,
+        "fixtures": 182659,
+        "technology": 58450,
+        "soft_costs": 51144
+      },
+      "timeline_days": 75,
+      "variance_from_budget": 9,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-63",
+      "store_type": "suburban_standard",
+      "square_footage": 3500,
+      "market": "Cleveland",
+      "completion_date": "2024-05-16",
+      "total_cost": 636843,
+      "cost_per_sqft": 181.96,
+      "categories": {
+        "construction": 222895,
+        "electrical": 76421,
+        "hvac": 50947,
+        "plumbing": 31842,
+        "fixtures": 159210,
+        "technology": 50947,
+        "soft_costs": 44579
+      },
+      "timeline_days": 102,
+      "variance_from_budget": -3,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor substitution required"
+      ]
+    },
+    {
+      "store_id": "Store-64",
+      "store_type": "suburban_standard",
+      "square_footage": 3500,
+      "market": "Pittsburgh",
+      "completion_date": "2024-10-13",
+      "total_cost": 642868,
+      "cost_per_sqft": 183.68,
+      "categories": {
+        "construction": 225003,
+        "electrical": 77144,
+        "hvac": 51429,
+        "plumbing": 32143,
+        "fixtures": 160717,
+        "technology": 51429,
+        "soft_costs": 45000
+      },
+      "timeline_days": 94,
+      "variance_from_budget": -5,
+      "lessons_learned": [
+        "Delayed by permit issues",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-65",
+      "store_type": "suburban_standard",
+      "square_footage": 3500,
+      "market": "Cleveland",
+      "completion_date": "2024-09-28",
+      "total_cost": 630939,
+      "cost_per_sqft": 180.27,
+      "categories": {
+        "construction": 220828,
+        "electrical": 75712,
+        "hvac": 50475,
+        "plumbing": 31546,
+        "fixtures": 157734,
+        "technology": 50475,
+        "soft_costs": 44165
+      },
+      "timeline_days": 74,
+      "variance_from_budget": 9,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-66",
+      "store_type": "suburban_standard",
+      "square_footage": 3500,
+      "market": "Indianapolis",
+      "completion_date": "2024-04-26",
+      "total_cost": 564129,
+      "cost_per_sqft": 161.18,
+      "categories": {
+        "construction": 197445,
+        "electrical": 67695,
+        "hvac": 45130,
+        "plumbing": 28206,
+        "fixtures": 141032,
+        "technology": 45130,
+        "soft_costs": 39489
+      },
+      "timeline_days": 88,
+      "variance_from_budget": 4,
+      "lessons_learned": [
+        "Delayed by permit issues",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-67",
+      "store_type": "suburban_standard",
+      "square_footage": 3500,
+      "market": "Detroit",
+      "completion_date": "2024-07-15",
+      "total_cost": 564903,
+      "cost_per_sqft": 161.4,
+      "categories": {
+        "construction": 197716,
+        "electrical": 67788,
+        "hvac": 45192,
+        "plumbing": 28245,
+        "fixtures": 141225,
+        "technology": 45192,
+        "soft_costs": 39543
+      },
+      "timeline_days": 86,
+      "variance_from_budget": 3,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-68",
+      "store_type": "suburban_standard",
+      "square_footage": 3500,
+      "market": "Pittsburgh",
+      "completion_date": "2024-12-27",
+      "total_cost": 694444,
+      "cost_per_sqft": 198.41,
+      "categories": {
+        "construction": 243055,
+        "electrical": 83333,
+        "hvac": 55555,
+        "plumbing": 34722,
+        "fixtures": 173611,
+        "technology": 55555,
+        "soft_costs": 48611
+      },
+      "timeline_days": 118,
+      "variance_from_budget": -2,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-69",
+      "store_type": "suburban_standard",
+      "square_footage": 3500,
+      "market": "Columbus",
+      "completion_date": "2024-03-03",
+      "total_cost": 683288,
+      "cost_per_sqft": 195.23,
+      "categories": {
+        "construction": 239150,
+        "electrical": 81994,
+        "hvac": 54663,
+        "plumbing": 34164,
+        "fixtures": 170822,
+        "technology": 54663,
+        "soft_costs": 47830
+      },
+      "timeline_days": 98,
+      "variance_from_budget": 6,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-70",
+      "store_type": "suburban_standard",
+      "square_footage": 3500,
+      "market": "Cleveland",
+      "completion_date": "2024-12-15",
+      "total_cost": 727097,
+      "cost_per_sqft": 207.74,
+      "categories": {
+        "construction": 254483,
+        "electrical": 87251,
+        "hvac": 58167,
+        "plumbing": 36354,
+        "fixtures": 181774,
+        "technology": 58167,
+        "soft_costs": 50896
+      },
+      "timeline_days": 88,
+      "variance_from_budget": -1,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor substitution required"
+      ]
+    },
+    {
+      "store_id": "Store-71",
+      "store_type": "suburban_standard",
+      "square_footage": 3500,
+      "market": "Louisville",
+      "completion_date": "2024-01-09",
+      "total_cost": 613264,
+      "cost_per_sqft": 175.22,
+      "categories": {
+        "construction": 214642,
+        "electrical": 73591,
+        "hvac": 49061,
+        "plumbing": 30663,
+        "fixtures": 153316,
+        "technology": 49061,
+        "soft_costs": 42928
+      },
+      "timeline_days": 69,
+      "variance_from_budget": 1,
+      "lessons_learned": [
+        "Delayed by permit issues",
+        "Vendor substitution required"
+      ]
+    },
+    {
+      "store_id": "Store-72",
+      "store_type": "suburban_standard",
+      "square_footage": 3500,
+      "market": "Louisville",
+      "completion_date": "2024-12-06",
+      "total_cost": 564638,
+      "cost_per_sqft": 161.33,
+      "categories": {
+        "construction": 197623,
+        "electrical": 67756,
+        "hvac": 45171,
+        "plumbing": 28231,
+        "fixtures": 141159,
+        "technology": 45171,
+        "soft_costs": 39524
+      },
+      "timeline_days": 82,
+      "variance_from_budget": 6,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-73",
+      "store_type": "suburban_standard",
+      "square_footage": 3500,
+      "market": "Louisville",
+      "completion_date": "2024-08-19",
+      "total_cost": 604729,
+      "cost_per_sqft": 172.78,
+      "categories": {
+        "construction": 211655,
+        "electrical": 72567,
+        "hvac": 48378,
+        "plumbing": 30236,
+        "fixtures": 151182,
+        "technology": 48378,
+        "soft_costs": 42331
+      },
+      "timeline_days": 71,
+      "variance_from_budget": 9,
+      "lessons_learned": [
+        "Delayed by permit issues",
+        "Vendor substitution required"
+      ]
+    },
+    {
+      "store_id": "Store-74",
+      "store_type": "suburban_standard",
+      "square_footage": 3500,
+      "market": "Louisville",
+      "completion_date": "2024-02-11",
+      "total_cost": 717377,
+      "cost_per_sqft": 204.96,
+      "categories": {
+        "construction": 251081,
+        "electrical": 86085,
+        "hvac": 57390,
+        "plumbing": 35868,
+        "fixtures": 179344,
+        "technology": 57390,
+        "soft_costs": 50216
+      },
+      "timeline_days": 67,
+      "variance_from_budget": 4,
+      "lessons_learned": [
+        "Delayed by permit issues",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-75",
+      "store_type": "suburban_standard",
+      "square_footage": 3500,
+      "market": "Indianapolis",
+      "completion_date": "2024-08-02",
+      "total_cost": 637951,
+      "cost_per_sqft": 182.27,
+      "categories": {
+        "construction": 223282,
+        "electrical": 76554,
+        "hvac": 51036,
+        "plumbing": 31897,
+        "fixtures": 159487,
+        "technology": 51036,
+        "soft_costs": 44656
+      },
+      "timeline_days": 106,
+      "variance_from_budget": 10,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-76",
+      "store_type": "suburban_standard",
+      "square_footage": 3500,
+      "market": "Indianapolis",
+      "completion_date": "2024-04-10",
+      "total_cost": 622355,
+      "cost_per_sqft": 177.82,
+      "categories": {
+        "construction": 217824,
+        "electrical": 74682,
+        "hvac": 49788,
+        "plumbing": 31117,
+        "fixtures": 155588,
+        "technology": 49788,
+        "soft_costs": 43564
+      },
+      "timeline_days": 63,
+      "variance_from_budget": 8,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-77",
+      "store_type": "suburban_standard",
+      "square_footage": 3500,
+      "market": "Cleveland",
+      "completion_date": "2024-04-08",
+      "total_cost": 705603,
+      "cost_per_sqft": 201.6,
+      "categories": {
+        "construction": 246961,
+        "electrical": 84672,
+        "hvac": 56448,
+        "plumbing": 35280,
+        "fixtures": 176400,
+        "technology": 56448,
+        "soft_costs": 49392
+      },
+      "timeline_days": 72,
+      "variance_from_budget": -2,
+      "lessons_learned": [
+        "Delayed by permit issues",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-78",
+      "store_type": "suburban_standard",
+      "square_footage": 3500,
+      "market": "Columbus",
+      "completion_date": "2024-05-22",
+      "total_cost": 708587,
+      "cost_per_sqft": 202.45,
+      "categories": {
+        "construction": 248005,
+        "electrical": 85030,
+        "hvac": 56686,
+        "plumbing": 35429,
+        "fixtures": 177146,
+        "technology": 56686,
+        "soft_costs": 49601
+      },
+      "timeline_days": 106,
+      "variance_from_budget": 3,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-79",
+      "store_type": "suburban_standard",
+      "square_footage": 3500,
+      "market": "Cleveland",
+      "completion_date": "2024-10-06",
+      "total_cost": 578606,
+      "cost_per_sqft": 165.32,
+      "categories": {
+        "construction": 202512,
+        "electrical": 69432,
+        "hvac": 46288,
+        "plumbing": 28930,
+        "fixtures": 144651,
+        "technology": 46288,
+        "soft_costs": 40502
+      },
+      "timeline_days": 75,
+      "variance_from_budget": 2,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-80",
+      "store_type": "suburban_standard",
+      "square_footage": 3500,
+      "market": "Louisville",
+      "completion_date": "2024-12-28",
+      "total_cost": 603112,
+      "cost_per_sqft": 172.32,
+      "categories": {
+        "construction": 211089,
+        "electrical": 72373,
+        "hvac": 48248,
+        "plumbing": 30155,
+        "fixtures": 150778,
+        "technology": 48248,
+        "soft_costs": 42217
+      },
+      "timeline_days": 86,
+      "variance_from_budget": 6,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-81",
+      "store_type": "suburban_standard",
+      "square_footage": 3500,
+      "market": "Indianapolis",
+      "completion_date": "2024-06-18",
+      "total_cost": 648653,
+      "cost_per_sqft": 185.33,
+      "categories": {
+        "construction": 227028,
+        "electrical": 77838,
+        "hvac": 51892,
+        "plumbing": 32432,
+        "fixtures": 162163,
+        "technology": 51892,
+        "soft_costs": 45405
+      },
+      "timeline_days": 94,
+      "variance_from_budget": 7,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor substitution required"
+      ]
+    },
+    {
+      "store_id": "Store-82",
+      "store_type": "suburban_standard",
+      "square_footage": 3500,
+      "market": "Indianapolis",
+      "completion_date": "2024-09-10",
+      "total_cost": 578486,
+      "cost_per_sqft": 165.28,
+      "categories": {
+        "construction": 202470,
+        "electrical": 69418,
+        "hvac": 46278,
+        "plumbing": 28924,
+        "fixtures": 144621,
+        "technology": 46278,
+        "soft_costs": 40494
+      },
+      "timeline_days": 112,
+      "variance_from_budget": 0,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-83",
+      "store_type": "suburban_standard",
+      "square_footage": 3500,
+      "market": "Detroit",
+      "completion_date": "2024-08-03",
+      "total_cost": 646753,
+      "cost_per_sqft": 184.79,
+      "categories": {
+        "construction": 226363,
+        "electrical": 77610,
+        "hvac": 51740,
+        "plumbing": 32337,
+        "fixtures": 161688,
+        "technology": 51740,
+        "soft_costs": 45272
+      },
+      "timeline_days": 68,
+      "variance_from_budget": 7,
+      "lessons_learned": [
+        "Delayed by permit issues",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-84",
+      "store_type": "suburban_standard",
+      "square_footage": 3500,
+      "market": "Detroit",
+      "completion_date": "2024-01-16",
+      "total_cost": 692474,
+      "cost_per_sqft": 197.85,
+      "categories": {
+        "construction": 242365,
+        "electrical": 83096,
+        "hvac": 55397,
+        "plumbing": 34623,
+        "fixtures": 173118,
+        "technology": 55397,
+        "soft_costs": 48473
+      },
+      "timeline_days": 60,
+      "variance_from_budget": 5,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-85",
+      "store_type": "suburban_standard",
+      "square_footage": 3500,
+      "market": "Louisville",
+      "completion_date": "2024-02-11",
+      "total_cost": 589145,
+      "cost_per_sqft": 168.33,
+      "categories": {
+        "construction": 206200,
+        "electrical": 70697,
+        "hvac": 47131,
+        "plumbing": 29457,
+        "fixtures": 147286,
+        "technology": 47131,
+        "soft_costs": 41240
+      },
+      "timeline_days": 117,
+      "variance_from_budget": 1,
+      "lessons_learned": [
+        "Delayed by permit issues",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-86",
+      "store_type": "suburban_standard",
+      "square_footage": 3500,
+      "market": "Columbus",
+      "completion_date": "2024-09-27",
+      "total_cost": 704128,
+      "cost_per_sqft": 201.18,
+      "categories": {
+        "construction": 246444,
+        "electrical": 84495,
+        "hvac": 56330,
+        "plumbing": 35206,
+        "fixtures": 176032,
+        "technology": 56330,
+        "soft_costs": 49288
+      },
+      "timeline_days": 80,
+      "variance_from_budget": -5,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-87",
+      "store_type": "suburban_standard",
+      "square_footage": 3500,
+      "market": "Cincinnati",
+      "completion_date": "2024-09-04",
+      "total_cost": 578726,
+      "cost_per_sqft": 165.35,
+      "categories": {
+        "construction": 202554,
+        "electrical": 69447,
+        "hvac": 46298,
+        "plumbing": 28936,
+        "fixtures": 144681,
+        "technology": 46298,
+        "soft_costs": 40510
+      },
+      "timeline_days": 77,
+      "variance_from_budget": 5,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-88",
+      "store_type": "suburban_standard",
+      "square_footage": 3500,
+      "market": "Cincinnati",
+      "completion_date": "2024-06-06",
+      "total_cost": 627587,
+      "cost_per_sqft": 179.31,
+      "categories": {
+        "construction": 219655,
+        "electrical": 75310,
+        "hvac": 50206,
+        "plumbing": 31379,
+        "fixtures": 156896,
+        "technology": 50206,
+        "soft_costs": 43931
+      },
+      "timeline_days": 100,
+      "variance_from_budget": -5,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-89",
+      "store_type": "suburban_standard",
+      "square_footage": 3500,
+      "market": "Louisville",
+      "completion_date": "2024-12-09",
+      "total_cost": 566126,
+      "cost_per_sqft": 161.75,
+      "categories": {
+        "construction": 198144,
+        "electrical": 67935,
+        "hvac": 45290,
+        "plumbing": 28306,
+        "fixtures": 141531,
+        "technology": 45290,
+        "soft_costs": 39628
+      },
+      "timeline_days": 68,
+      "variance_from_budget": 6,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor substitution required"
+      ]
+    },
+    {
+      "store_id": "Store-90",
+      "store_type": "suburban_standard",
+      "square_footage": 3500,
+      "market": "Columbus",
+      "completion_date": "2024-08-22",
+      "total_cost": 589937,
+      "cost_per_sqft": 168.55,
+      "categories": {
+        "construction": 206477,
+        "electrical": 70792,
+        "hvac": 47194,
+        "plumbing": 29496,
+        "fixtures": 147484,
+        "technology": 47194,
+        "soft_costs": 41295
+      },
+      "timeline_days": 96,
+      "variance_from_budget": 4,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-91",
+      "store_type": "suburban_standard",
+      "square_footage": 3500,
+      "market": "Cincinnati",
+      "completion_date": "2024-11-22",
+      "total_cost": 566598,
+      "cost_per_sqft": 161.89,
+      "categories": {
+        "construction": 198309,
+        "electrical": 67991,
+        "hvac": 45327,
+        "plumbing": 28329,
+        "fixtures": 141649,
+        "technology": 45327,
+        "soft_costs": 39661
+      },
+      "timeline_days": 70,
+      "variance_from_budget": 7,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-92",
+      "store_type": "suburban_standard",
+      "square_footage": 3500,
+      "market": "Louisville",
+      "completion_date": "2024-09-18",
+      "total_cost": 632162,
+      "cost_per_sqft": 180.62,
+      "categories": {
+        "construction": 221256,
+        "electrical": 75859,
+        "hvac": 50572,
+        "plumbing": 31608,
+        "fixtures": 158040,
+        "technology": 50572,
+        "soft_costs": 44251
+      },
+      "timeline_days": 110,
+      "variance_from_budget": 3,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-93",
+      "store_type": "suburban_standard",
+      "square_footage": 3500,
+      "market": "Indianapolis",
+      "completion_date": "2024-10-24",
+      "total_cost": 727597,
+      "cost_per_sqft": 207.88,
+      "categories": {
+        "construction": 254658,
+        "electrical": 87311,
+        "hvac": 58207,
+        "plumbing": 36379,
+        "fixtures": 181899,
+        "technology": 58207,
+        "soft_costs": 50931
+      },
+      "timeline_days": 82,
+      "variance_from_budget": -2,
+      "lessons_learned": [
+        "Delayed by permit issues",
+        "Vendor substitution required"
+      ]
+    },
+    {
+      "store_id": "Store-94",
+      "store_type": "suburban_standard",
+      "square_footage": 3500,
+      "market": "Columbus",
+      "completion_date": "2024-05-10",
+      "total_cost": 656591,
+      "cost_per_sqft": 187.6,
+      "categories": {
+        "construction": 229806,
+        "electrical": 78790,
+        "hvac": 52527,
+        "plumbing": 32829,
+        "fixtures": 164147,
+        "technology": 52527,
+        "soft_costs": 45961
+      },
+      "timeline_days": 87,
+      "variance_from_budget": -5,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-95",
+      "store_type": "suburban_standard",
+      "square_footage": 3500,
+      "market": "Louisville",
+      "completion_date": "2024-12-18",
+      "total_cost": 698036,
+      "cost_per_sqft": 199.44,
+      "categories": {
+        "construction": 244312,
+        "electrical": 83764,
+        "hvac": 55842,
+        "plumbing": 34901,
+        "fixtures": 174509,
+        "technology": 55842,
+        "soft_costs": 48862
+      },
+      "timeline_days": 110,
+      "variance_from_budget": -1,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor substitution required"
+      ]
+    },
+    {
+      "store_id": "Store-96",
+      "store_type": "suburban_standard",
+      "square_footage": 3500,
+      "market": "Pittsburgh",
+      "completion_date": "2024-07-07",
+      "total_cost": 622362,
+      "cost_per_sqft": 177.82,
+      "categories": {
+        "construction": 217826,
+        "electrical": 74683,
+        "hvac": 49788,
+        "plumbing": 31118,
+        "fixtures": 155590,
+        "technology": 49788,
+        "soft_costs": 43565
+      },
+      "timeline_days": 66,
+      "variance_from_budget": 5,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-97",
+      "store_type": "suburban_standard",
+      "square_footage": 3500,
+      "market": "Detroit",
+      "completion_date": "2024-06-27",
+      "total_cost": 588163,
+      "cost_per_sqft": 168.05,
+      "categories": {
+        "construction": 205857,
+        "electrical": 70579,
+        "hvac": 47053,
+        "plumbing": 29408,
+        "fixtures": 147040,
+        "technology": 47053,
+        "soft_costs": 41171
+      },
+      "timeline_days": 112,
+      "variance_from_budget": -4,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-98",
+      "store_type": "suburban_standard",
+      "square_footage": 3500,
+      "market": "Detroit",
+      "completion_date": "2024-01-12",
+      "total_cost": 619605,
+      "cost_per_sqft": 177.03,
+      "categories": {
+        "construction": 216861,
+        "electrical": 74352,
+        "hvac": 49568,
+        "plumbing": 30980,
+        "fixtures": 154901,
+        "technology": 49568,
+        "soft_costs": 43372
+      },
+      "timeline_days": 86,
+      "variance_from_budget": -4,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-99",
+      "store_type": "suburban_standard",
+      "square_footage": 3500,
+      "market": "Cincinnati",
+      "completion_date": "2024-10-06",
+      "total_cost": 628847,
+      "cost_per_sqft": 179.67,
+      "categories": {
+        "construction": 220096,
+        "electrical": 75461,
+        "hvac": 50307,
+        "plumbing": 31442,
+        "fixtures": 157211,
+        "technology": 50307,
+        "soft_costs": 44019
+      },
+      "timeline_days": 74,
+      "variance_from_budget": 2,
+      "lessons_learned": [
+        "Delayed by permit issues",
+        "Vendor substitution required"
+      ]
+    },
+    {
+      "store_id": "Store-100",
+      "store_type": "suburban_standard",
+      "square_footage": 3500,
+      "market": "Indianapolis",
+      "completion_date": "2024-03-23",
+      "total_cost": 578671,
+      "cost_per_sqft": 165.33,
+      "categories": {
+        "construction": 202534,
+        "electrical": 69440,
+        "hvac": 46293,
+        "plumbing": 28933,
+        "fixtures": 144667,
+        "technology": 46293,
+        "soft_costs": 40506
+      },
+      "timeline_days": 85,
+      "variance_from_budget": 6,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-101",
+      "store_type": "suburban_standard",
+      "square_footage": 3500,
+      "market": "Cincinnati",
+      "completion_date": "2024-09-12",
+      "total_cost": 663263,
+      "cost_per_sqft": 189.5,
+      "categories": {
+        "construction": 232142,
+        "electrical": 79591,
+        "hvac": 53061,
+        "plumbing": 33163,
+        "fixtures": 165815,
+        "technology": 53061,
+        "soft_costs": 46428
+      },
+      "timeline_days": 89,
+      "variance_from_budget": -4,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-102",
+      "store_type": "suburban_standard",
+      "square_footage": 3500,
+      "market": "Louisville",
+      "completion_date": "2024-06-06",
+      "total_cost": 579157,
+      "cost_per_sqft": 165.47,
+      "categories": {
+        "construction": 202704,
+        "electrical": 69498,
+        "hvac": 46332,
+        "plumbing": 28957,
+        "fixtures": 144789,
+        "technology": 46332,
+        "soft_costs": 40540
+      },
+      "timeline_days": 95,
+      "variance_from_budget": 0,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-103",
+      "store_type": "suburban_standard",
+      "square_footage": 3500,
+      "market": "Indianapolis",
+      "completion_date": "2024-12-23",
+      "total_cost": 740555,
+      "cost_per_sqft": 211.59,
+      "categories": {
+        "construction": 259194,
+        "electrical": 88866,
+        "hvac": 59244,
+        "plumbing": 37027,
+        "fixtures": 185138,
+        "technology": 59244,
+        "soft_costs": 51838
+      },
+      "timeline_days": 107,
+      "variance_from_budget": 1,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-104",
+      "store_type": "suburban_standard",
+      "square_footage": 3500,
+      "market": "Detroit",
+      "completion_date": "2024-04-24",
+      "total_cost": 736847,
+      "cost_per_sqft": 210.53,
+      "categories": {
+        "construction": 257896,
+        "electrical": 88421,
+        "hvac": 58947,
+        "plumbing": 36842,
+        "fixtures": 184211,
+        "technology": 58947,
+        "soft_costs": 51579
+      },
+      "timeline_days": 109,
+      "variance_from_budget": 2,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor substitution required"
+      ]
+    },
+    {
+      "store_id": "Store-105",
+      "store_type": "suburban_standard",
+      "square_footage": 3500,
+      "market": "Cleveland",
+      "completion_date": "2024-10-26",
+      "total_cost": 720945,
+      "cost_per_sqft": 205.98,
+      "categories": {
+        "construction": 252330,
+        "electrical": 86513,
+        "hvac": 57675,
+        "plumbing": 36047,
+        "fixtures": 180236,
+        "technology": 57675,
+        "soft_costs": 50466
+      },
+      "timeline_days": 66,
+      "variance_from_budget": -5,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-106",
+      "store_type": "suburban_standard",
+      "square_footage": 3500,
+      "market": "Indianapolis",
+      "completion_date": "2024-01-18",
+      "total_cost": 688425,
+      "cost_per_sqft": 196.69,
+      "categories": {
+        "construction": 240948,
+        "electrical": 82611,
+        "hvac": 55074,
+        "plumbing": 34421,
+        "fixtures": 172106,
+        "technology": 55074,
+        "soft_costs": 48189
+      },
+      "timeline_days": 120,
+      "variance_from_budget": 10,
+      "lessons_learned": [
+        "Delayed by permit issues",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-107",
+      "store_type": "suburban_standard",
+      "square_footage": 3500,
+      "market": "Louisville",
+      "completion_date": "2024-12-22",
+      "total_cost": 598254,
+      "cost_per_sqft": 170.93,
+      "categories": {
+        "construction": 209388,
+        "electrical": 71790,
+        "hvac": 47860,
+        "plumbing": 29912,
+        "fixtures": 149563,
+        "technology": 47860,
+        "soft_costs": 41877
+      },
+      "timeline_days": 87,
+      "variance_from_budget": 10,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-108",
+      "store_type": "suburban_standard",
+      "square_footage": 3500,
+      "market": "Detroit",
+      "completion_date": "2024-02-22",
+      "total_cost": 575728,
+      "cost_per_sqft": 164.49,
+      "categories": {
+        "construction": 201504,
+        "electrical": 69087,
+        "hvac": 46058,
+        "plumbing": 28786,
+        "fixtures": 143932,
+        "technology": 46058,
+        "soft_costs": 40300
+      },
+      "timeline_days": 84,
+      "variance_from_budget": 3,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-109",
+      "store_type": "suburban_standard",
+      "square_footage": 3500,
+      "market": "Indianapolis",
+      "completion_date": "2024-08-18",
+      "total_cost": 604684,
+      "cost_per_sqft": 172.77,
+      "categories": {
+        "construction": 211639,
+        "electrical": 72562,
+        "hvac": 48374,
+        "plumbing": 30234,
+        "fixtures": 151171,
+        "technology": 48374,
+        "soft_costs": 42327
+      },
+      "timeline_days": 63,
+      "variance_from_budget": -2,
+      "lessons_learned": [
+        "Delayed by permit issues",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-110",
+      "store_type": "suburban_standard",
+      "square_footage": 3500,
+      "market": "Indianapolis",
+      "completion_date": "2024-10-08",
+      "total_cost": 731855,
+      "cost_per_sqft": 209.1,
+      "categories": {
+        "construction": 256149,
+        "electrical": 87822,
+        "hvac": 58548,
+        "plumbing": 36592,
+        "fixtures": 182963,
+        "technology": 58548,
+        "soft_costs": 51229
+      },
+      "timeline_days": 86,
+      "variance_from_budget": 10,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-111",
+      "store_type": "suburban_standard",
+      "square_footage": 3500,
+      "market": "Cincinnati",
+      "completion_date": "2024-06-16",
+      "total_cost": 711052,
+      "cost_per_sqft": 203.16,
+      "categories": {
+        "construction": 248868,
+        "electrical": 85326,
+        "hvac": 56884,
+        "plumbing": 35552,
+        "fixtures": 177763,
+        "technology": 56884,
+        "soft_costs": 49773
+      },
+      "timeline_days": 72,
+      "variance_from_budget": 7,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-112",
+      "store_type": "suburban_standard",
+      "square_footage": 3500,
+      "market": "Pittsburgh",
+      "completion_date": "2024-10-20",
+      "total_cost": 643857,
+      "cost_per_sqft": 183.96,
+      "categories": {
+        "construction": 225349,
+        "electrical": 77262,
+        "hvac": 51508,
+        "plumbing": 32192,
+        "fixtures": 160964,
+        "technology": 51508,
+        "soft_costs": 45069
+      },
+      "timeline_days": 79,
+      "variance_from_budget": 9,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-113",
+      "store_type": "suburban_standard",
+      "square_footage": 3500,
+      "market": "Detroit",
+      "completion_date": "2024-12-09",
+      "total_cost": 556310,
+      "cost_per_sqft": 158.95,
+      "categories": {
+        "construction": 194708,
+        "electrical": 66757,
+        "hvac": 44504,
+        "plumbing": 27815,
+        "fixtures": 139077,
+        "technology": 44504,
+        "soft_costs": 38941
+      },
+      "timeline_days": 61,
+      "variance_from_budget": 10,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-114",
+      "store_type": "suburban_standard",
+      "square_footage": 3500,
+      "market": "Columbus",
+      "completion_date": "2024-06-22",
+      "total_cost": 597176,
+      "cost_per_sqft": 170.62,
+      "categories": {
+        "construction": 209011,
+        "electrical": 71661,
+        "hvac": 47774,
+        "plumbing": 29858,
+        "fixtures": 149294,
+        "technology": 47774,
+        "soft_costs": 41802
+      },
+      "timeline_days": 75,
+      "variance_from_budget": -4,
+      "lessons_learned": [
+        "Delayed by permit issues",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-115",
+      "store_type": "suburban_standard",
+      "square_footage": 3500,
+      "market": "Cincinnati",
+      "completion_date": "2024-02-18",
+      "total_cost": 724404,
+      "cost_per_sqft": 206.97,
+      "categories": {
+        "construction": 253541,
+        "electrical": 86928,
+        "hvac": 57952,
+        "plumbing": 36220,
+        "fixtures": 181101,
+        "technology": 57952,
+        "soft_costs": 50708
+      },
+      "timeline_days": 67,
+      "variance_from_budget": 5,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-116",
+      "store_type": "suburban_standard",
+      "square_footage": 3500,
+      "market": "Louisville",
+      "completion_date": "2024-09-24",
+      "total_cost": 709923,
+      "cost_per_sqft": 202.84,
+      "categories": {
+        "construction": 248473,
+        "electrical": 85190,
+        "hvac": 56793,
+        "plumbing": 35496,
+        "fixtures": 177480,
+        "technology": 56793,
+        "soft_costs": 49694
+      },
+      "timeline_days": 79,
+      "variance_from_budget": -5,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor substitution required"
+      ]
+    },
+    {
+      "store_id": "Store-117",
+      "store_type": "suburban_standard",
+      "square_footage": 3500,
+      "market": "Cincinnati",
+      "completion_date": "2024-04-13",
+      "total_cost": 597015,
+      "cost_per_sqft": 170.58,
+      "categories": {
+        "construction": 208955,
+        "electrical": 71641,
+        "hvac": 47761,
+        "plumbing": 29850,
+        "fixtures": 149253,
+        "technology": 47761,
+        "soft_costs": 41791
+      },
+      "timeline_days": 113,
+      "variance_from_budget": 0,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-118",
+      "store_type": "suburban_standard",
+      "square_footage": 3500,
+      "market": "Cincinnati",
+      "completion_date": "2024-05-04",
+      "total_cost": 688483,
+      "cost_per_sqft": 196.71,
+      "categories": {
+        "construction": 240969,
+        "electrical": 82617,
+        "hvac": 55078,
+        "plumbing": 34424,
+        "fixtures": 172120,
+        "technology": 55078,
+        "soft_costs": 48193
+      },
+      "timeline_days": 104,
+      "variance_from_budget": 6,
+      "lessons_learned": [
+        "Delayed by permit issues",
+        "Vendor substitution required"
+      ]
+    },
+    {
+      "store_id": "Store-119",
+      "store_type": "suburban_standard",
+      "square_footage": 3500,
+      "market": "Cincinnati",
+      "completion_date": "2024-12-26",
+      "total_cost": 730311,
+      "cost_per_sqft": 208.66,
+      "categories": {
+        "construction": 255608,
+        "electrical": 87637,
+        "hvac": 58424,
+        "plumbing": 36515,
+        "fixtures": 182577,
+        "technology": 58424,
+        "soft_costs": 51121
+      },
+      "timeline_days": 119,
+      "variance_from_budget": 8,
+      "lessons_learned": [
+        "Delayed by permit issues",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-120",
+      "store_type": "suburban_standard",
+      "square_footage": 3500,
+      "market": "Cincinnati",
+      "completion_date": "2024-11-24",
+      "total_cost": 650401,
+      "cost_per_sqft": 185.83,
+      "categories": {
+        "construction": 227640,
+        "electrical": 78048,
+        "hvac": 52032,
+        "plumbing": 32520,
+        "fixtures": 162600,
+        "technology": 52032,
+        "soft_costs": 45528
+      },
+      "timeline_days": 97,
+      "variance_from_budget": 9,
+      "lessons_learned": [
+        "Delayed by permit issues",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-121",
+      "store_type": "suburban_standard",
+      "square_footage": 3500,
+      "market": "Louisville",
+      "completion_date": "2024-07-21",
+      "total_cost": 567333,
+      "cost_per_sqft": 162.1,
+      "categories": {
+        "construction": 198566,
+        "electrical": 68079,
+        "hvac": 45386,
+        "plumbing": 28366,
+        "fixtures": 141833,
+        "technology": 45386,
+        "soft_costs": 39713
+      },
+      "timeline_days": 118,
+      "variance_from_budget": 0,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-122",
+      "store_type": "suburban_standard",
+      "square_footage": 3500,
+      "market": "Louisville",
+      "completion_date": "2024-05-03",
+      "total_cost": 649446,
+      "cost_per_sqft": 185.56,
+      "categories": {
+        "construction": 227306,
+        "electrical": 77933,
+        "hvac": 51955,
+        "plumbing": 32472,
+        "fixtures": 162361,
+        "technology": 51955,
+        "soft_costs": 45461
+      },
+      "timeline_days": 106,
+      "variance_from_budget": 6,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-123",
+      "store_type": "suburban_standard",
+      "square_footage": 3500,
+      "market": "Columbus",
+      "completion_date": "2024-07-09",
+      "total_cost": 560546,
+      "cost_per_sqft": 160.16,
+      "categories": {
+        "construction": 196191,
+        "electrical": 67265,
+        "hvac": 44843,
+        "plumbing": 28027,
+        "fixtures": 140136,
+        "technology": 44843,
+        "soft_costs": 39238
+      },
+      "timeline_days": 66,
+      "variance_from_budget": -4,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-124",
+      "store_type": "suburban_standard",
+      "square_footage": 3500,
+      "market": "Louisville",
+      "completion_date": "2024-01-06",
+      "total_cost": 737006,
+      "cost_per_sqft": 210.57,
+      "categories": {
+        "construction": 257952,
+        "electrical": 88440,
+        "hvac": 58960,
+        "plumbing": 36850,
+        "fixtures": 184251,
+        "technology": 58960,
+        "soft_costs": 51590
+      },
+      "timeline_days": 120,
+      "variance_from_budget": -4,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-125",
+      "store_type": "suburban_standard",
+      "square_footage": 3500,
+      "market": "Cincinnati",
+      "completion_date": "2024-10-10",
+      "total_cost": 725211,
+      "cost_per_sqft": 207.2,
+      "categories": {
+        "construction": 253823,
+        "electrical": 87025,
+        "hvac": 58016,
+        "plumbing": 36260,
+        "fixtures": 181302,
+        "technology": 58016,
+        "soft_costs": 50764
+      },
+      "timeline_days": 96,
+      "variance_from_budget": 0,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-126",
+      "store_type": "suburban_standard",
+      "square_footage": 3500,
+      "market": "Louisville",
+      "completion_date": "2024-10-15",
+      "total_cost": 661598,
+      "cost_per_sqft": 189.03,
+      "categories": {
+        "construction": 231559,
+        "electrical": 79391,
+        "hvac": 52927,
+        "plumbing": 33079,
+        "fixtures": 165399,
+        "technology": 52927,
+        "soft_costs": 46311
+      },
+      "timeline_days": 75,
+      "variance_from_budget": 0,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-127",
+      "store_type": "suburban_standard",
+      "square_footage": 3500,
+      "market": "Louisville",
+      "completion_date": "2024-10-19",
+      "total_cost": 559033,
+      "cost_per_sqft": 159.72,
+      "categories": {
+        "construction": 195661,
+        "electrical": 67083,
+        "hvac": 44722,
+        "plumbing": 27951,
+        "fixtures": 139758,
+        "technology": 44722,
+        "soft_costs": 39132
+      },
+      "timeline_days": 112,
+      "variance_from_budget": -2,
+      "lessons_learned": [
+        "Delayed by permit issues",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-128",
+      "store_type": "suburban_standard",
+      "square_footage": 3500,
+      "market": "Cincinnati",
+      "completion_date": "2024-07-17",
+      "total_cost": 732976,
+      "cost_per_sqft": 209.42,
+      "categories": {
+        "construction": 256541,
+        "electrical": 87957,
+        "hvac": 58638,
+        "plumbing": 36648,
+        "fixtures": 183244,
+        "technology": 58638,
+        "soft_costs": 51308
+      },
+      "timeline_days": 83,
+      "variance_from_budget": -1,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-129",
+      "store_type": "suburban_standard",
+      "square_footage": 3500,
+      "market": "Detroit",
+      "completion_date": "2024-09-09",
+      "total_cost": 664224,
+      "cost_per_sqft": 189.78,
+      "categories": {
+        "construction": 232478,
+        "electrical": 79706,
+        "hvac": 53137,
+        "plumbing": 33211,
+        "fixtures": 166056,
+        "technology": 53137,
+        "soft_costs": 46495
+      },
+      "timeline_days": 62,
+      "variance_from_budget": 7,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-130",
+      "store_type": "urban_flagship",
+      "square_footage": 5000,
+      "market": "Cleveland",
+      "completion_date": "2024-12-22",
+      "total_cost": 1433455,
+      "cost_per_sqft": 286.69,
+      "categories": {
+        "construction": 501709,
+        "electrical": 172014,
+        "hvac": 114676,
+        "plumbing": 71672,
+        "fixtures": 358363,
+        "technology": 114676,
+        "soft_costs": 100341
+      },
+      "timeline_days": 111,
+      "variance_from_budget": 9,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor substitution required"
+      ]
+    },
+    {
+      "store_id": "Store-131",
+      "store_type": "urban_flagship",
+      "square_footage": 5000,
+      "market": "Detroit",
+      "completion_date": "2024-09-03",
+      "total_cost": 1346098,
+      "cost_per_sqft": 269.22,
+      "categories": {
+        "construction": 471134,
+        "electrical": 161531,
+        "hvac": 107687,
+        "plumbing": 67304,
+        "fixtures": 336524,
+        "technology": 107687,
+        "soft_costs": 94226
+      },
+      "timeline_days": 85,
+      "variance_from_budget": 4,
+      "lessons_learned": [
+        "Delayed by permit issues",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-132",
+      "store_type": "urban_flagship",
+      "square_footage": 5000,
+      "market": "Indianapolis",
+      "completion_date": "2024-01-06",
+      "total_cost": 1387563,
+      "cost_per_sqft": 277.51,
+      "categories": {
+        "construction": 485647,
+        "electrical": 166507,
+        "hvac": 111005,
+        "plumbing": 69378,
+        "fixtures": 346890,
+        "technology": 111005,
+        "soft_costs": 97129
+      },
+      "timeline_days": 117,
+      "variance_from_budget": -4,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-133",
+      "store_type": "urban_flagship",
+      "square_footage": 5000,
+      "market": "Indianapolis",
+      "completion_date": "2024-06-25",
+      "total_cost": 1422363,
+      "cost_per_sqft": 284.47,
+      "categories": {
+        "construction": 497827,
+        "electrical": 170683,
+        "hvac": 113789,
+        "plumbing": 71118,
+        "fixtures": 355590,
+        "technology": 113789,
+        "soft_costs": 99565
+      },
+      "timeline_days": 99,
+      "variance_from_budget": 5,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-134",
+      "store_type": "urban_flagship",
+      "square_footage": 5000,
+      "market": "Cincinnati",
+      "completion_date": "2024-12-18",
+      "total_cost": 1418210,
+      "cost_per_sqft": 283.64,
+      "categories": {
+        "construction": 496373,
+        "electrical": 170185,
+        "hvac": 113456,
+        "plumbing": 70910,
+        "fixtures": 354552,
+        "technology": 113456,
+        "soft_costs": 99274
+      },
+      "timeline_days": 118,
+      "variance_from_budget": -1,
+      "lessons_learned": [
+        "Delayed by permit issues",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-135",
+      "store_type": "urban_flagship",
+      "square_footage": 5000,
+      "market": "Pittsburgh",
+      "completion_date": "2024-11-19",
+      "total_cost": 1497476,
+      "cost_per_sqft": 299.5,
+      "categories": {
+        "construction": 524116,
+        "electrical": 179697,
+        "hvac": 119798,
+        "plumbing": 74873,
+        "fixtures": 374369,
+        "technology": 119798,
+        "soft_costs": 104823
+      },
+      "timeline_days": 77,
+      "variance_from_budget": 10,
+      "lessons_learned": [
+        "Delayed by permit issues",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-136",
+      "store_type": "urban_flagship",
+      "square_footage": 5000,
+      "market": "Louisville",
+      "completion_date": "2024-01-14",
+      "total_cost": 1457368,
+      "cost_per_sqft": 291.47,
+      "categories": {
+        "construction": 510078,
+        "electrical": 174884,
+        "hvac": 116589,
+        "plumbing": 72868,
+        "fixtures": 364342,
+        "technology": 116589,
+        "soft_costs": 102015
+      },
+      "timeline_days": 91,
+      "variance_from_budget": 1,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor substitution required"
+      ]
+    },
+    {
+      "store_id": "Store-137",
+      "store_type": "urban_flagship",
+      "square_footage": 5000,
+      "market": "Indianapolis",
+      "completion_date": "2024-06-07",
+      "total_cost": 1242186,
+      "cost_per_sqft": 248.44,
+      "categories": {
+        "construction": 434765,
+        "electrical": 149062,
+        "hvac": 99374,
+        "plumbing": 62109,
+        "fixtures": 310546,
+        "technology": 99374,
+        "soft_costs": 86953
+      },
+      "timeline_days": 74,
+      "variance_from_budget": 10,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-138",
+      "store_type": "urban_flagship",
+      "square_footage": 5000,
+      "market": "Indianapolis",
+      "completion_date": "2024-12-10",
+      "total_cost": 1293944,
+      "cost_per_sqft": 258.79,
+      "categories": {
+        "construction": 452880,
+        "electrical": 155273,
+        "hvac": 103515,
+        "plumbing": 64697,
+        "fixtures": 323486,
+        "technology": 103515,
+        "soft_costs": 90576
+      },
+      "timeline_days": 73,
+      "variance_from_budget": 3,
+      "lessons_learned": [
+        "Delayed by permit issues",
+        "Vendor substitution required"
+      ]
+    },
+    {
+      "store_id": "Store-139",
+      "store_type": "urban_flagship",
+      "square_footage": 5000,
+      "market": "Pittsburgh",
+      "completion_date": "2024-10-18",
+      "total_cost": 1211895,
+      "cost_per_sqft": 242.38,
+      "categories": {
+        "construction": 424163,
+        "electrical": 145427,
+        "hvac": 96951,
+        "plumbing": 60594,
+        "fixtures": 302973,
+        "technology": 96951,
+        "soft_costs": 84832
+      },
+      "timeline_days": 98,
+      "variance_from_budget": 4,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-140",
+      "store_type": "urban_flagship",
+      "square_footage": 5000,
+      "market": "Columbus",
+      "completion_date": "2024-01-09",
+      "total_cost": 1541105,
+      "cost_per_sqft": 308.22,
+      "categories": {
+        "construction": 539386,
+        "electrical": 184932,
+        "hvac": 123288,
+        "plumbing": 77055,
+        "fixtures": 385276,
+        "technology": 123288,
+        "soft_costs": 107877
+      },
+      "timeline_days": 61,
+      "variance_from_budget": -4,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-141",
+      "store_type": "urban_flagship",
+      "square_footage": 5000,
+      "market": "Columbus",
+      "completion_date": "2024-10-26",
+      "total_cost": 1432404,
+      "cost_per_sqft": 286.48,
+      "categories": {
+        "construction": 501341,
+        "electrical": 171888,
+        "hvac": 114592,
+        "plumbing": 71620,
+        "fixtures": 358101,
+        "technology": 114592,
+        "soft_costs": 100268
+      },
+      "timeline_days": 90,
+      "variance_from_budget": 0,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-142",
+      "store_type": "urban_flagship",
+      "square_footage": 5000,
+      "market": "Pittsburgh",
+      "completion_date": "2024-11-16",
+      "total_cost": 1460306,
+      "cost_per_sqft": 292.06,
+      "categories": {
+        "construction": 511107,
+        "electrical": 175236,
+        "hvac": 116824,
+        "plumbing": 73015,
+        "fixtures": 365076,
+        "technology": 116824,
+        "soft_costs": 102221
+      },
+      "timeline_days": 70,
+      "variance_from_budget": 10,
+      "lessons_learned": [
+        "Delayed by permit issues",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-143",
+      "store_type": "urban_flagship",
+      "square_footage": 5000,
+      "market": "Detroit",
+      "completion_date": "2024-01-01",
+      "total_cost": 1598723,
+      "cost_per_sqft": 319.74,
+      "categories": {
+        "construction": 559553,
+        "electrical": 191846,
+        "hvac": 127897,
+        "plumbing": 79936,
+        "fixtures": 399680,
+        "technology": 127897,
+        "soft_costs": 111910
+      },
+      "timeline_days": 74,
+      "variance_from_budget": -1,
+      "lessons_learned": [
+        "Delayed by permit issues",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-144",
+      "store_type": "urban_flagship",
+      "square_footage": 5000,
+      "market": "Indianapolis",
+      "completion_date": "2024-02-28",
+      "total_cost": 1402884,
+      "cost_per_sqft": 280.58,
+      "categories": {
+        "construction": 491009,
+        "electrical": 168346,
+        "hvac": 112230,
+        "plumbing": 70144,
+        "fixtures": 350721,
+        "technology": 112230,
+        "soft_costs": 98201
+      },
+      "timeline_days": 106,
+      "variance_from_budget": 0,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor substitution required"
+      ]
+    },
+    {
+      "store_id": "Store-145",
+      "store_type": "urban_flagship",
+      "square_footage": 5000,
+      "market": "Detroit",
+      "completion_date": "2024-07-17",
+      "total_cost": 1583378,
+      "cost_per_sqft": 316.68,
+      "categories": {
+        "construction": 554182,
+        "electrical": 190005,
+        "hvac": 126670,
+        "plumbing": 79168,
+        "fixtures": 395844,
+        "technology": 126670,
+        "soft_costs": 110836
+      },
+      "timeline_days": 60,
+      "variance_from_budget": 9,
+      "lessons_learned": [
+        "Delayed by permit issues",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-146",
+      "store_type": "urban_flagship",
+      "square_footage": 5000,
+      "market": "Louisville",
+      "completion_date": "2024-06-25",
+      "total_cost": 1268250,
+      "cost_per_sqft": 253.65,
+      "categories": {
+        "construction": 443887,
+        "electrical": 152190,
+        "hvac": 101460,
+        "plumbing": 63412,
+        "fixtures": 317062,
+        "technology": 101460,
+        "soft_costs": 88777
+      },
+      "timeline_days": 111,
+      "variance_from_budget": -3,
+      "lessons_learned": [
+        "Delayed by permit issues",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-147",
+      "store_type": "urban_flagship",
+      "square_footage": 5000,
+      "market": "Cincinnati",
+      "completion_date": "2024-07-15",
+      "total_cost": 1469990,
+      "cost_per_sqft": 294.0,
+      "categories": {
+        "construction": 514496,
+        "electrical": 176398,
+        "hvac": 117599,
+        "plumbing": 73499,
+        "fixtures": 367497,
+        "technology": 117599,
+        "soft_costs": 102899
+      },
+      "timeline_days": 99,
+      "variance_from_budget": 9,
+      "lessons_learned": [
+        "Delayed by permit issues",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-148",
+      "store_type": "urban_flagship",
+      "square_footage": 5000,
+      "market": "Pittsburgh",
+      "completion_date": "2024-01-28",
+      "total_cost": 1383746,
+      "cost_per_sqft": 276.75,
+      "categories": {
+        "construction": 484311,
+        "electrical": 166049,
+        "hvac": 110699,
+        "plumbing": 69187,
+        "fixtures": 345936,
+        "technology": 110699,
+        "soft_costs": 96862
+      },
+      "timeline_days": 103,
+      "variance_from_budget": 7,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-149",
+      "store_type": "urban_flagship",
+      "square_footage": 5000,
+      "market": "Cleveland",
+      "completion_date": "2024-07-05",
+      "total_cost": 1241648,
+      "cost_per_sqft": 248.33,
+      "categories": {
+        "construction": 434576,
+        "electrical": 148997,
+        "hvac": 99331,
+        "plumbing": 62082,
+        "fixtures": 310412,
+        "technology": 99331,
+        "soft_costs": 86915
+      },
+      "timeline_days": 68,
+      "variance_from_budget": -4,
+      "lessons_learned": [
+        "Delayed by permit issues",
+        "Vendor substitution required"
+      ]
+    },
+    {
+      "store_id": "Store-150",
+      "store_type": "express_compact",
+      "square_footage": 2000,
+      "market": "Indianapolis",
+      "completion_date": "2024-04-08",
+      "total_cost": 318171,
+      "cost_per_sqft": 159.09,
+      "categories": {
+        "construction": 111359,
+        "electrical": 38180,
+        "hvac": 25453,
+        "plumbing": 15908,
+        "fixtures": 79542,
+        "technology": 25453,
+        "soft_costs": 22271
+      },
+      "timeline_days": 79,
+      "variance_from_budget": 10,
+      "lessons_learned": [
+        "Delayed by permit issues",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-151",
+      "store_type": "express_compact",
+      "square_footage": 2000,
+      "market": "Detroit",
+      "completion_date": "2024-12-21",
+      "total_cost": 307971,
+      "cost_per_sqft": 153.99,
+      "categories": {
+        "construction": 107789,
+        "electrical": 36956,
+        "hvac": 24637,
+        "plumbing": 15398,
+        "fixtures": 76992,
+        "technology": 24637,
+        "soft_costs": 21557
+      },
+      "timeline_days": 106,
+      "variance_from_budget": 1,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-152",
+      "store_type": "express_compact",
+      "square_footage": 2000,
+      "market": "Indianapolis",
+      "completion_date": "2024-11-05",
+      "total_cost": 331555,
+      "cost_per_sqft": 165.78,
+      "categories": {
+        "construction": 116044,
+        "electrical": 39786,
+        "hvac": 26524,
+        "plumbing": 16577,
+        "fixtures": 82888,
+        "technology": 26524,
+        "soft_costs": 23208
+      },
+      "timeline_days": 84,
+      "variance_from_budget": 1,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-153",
+      "store_type": "express_compact",
+      "square_footage": 2000,
+      "market": "Columbus",
+      "completion_date": "2024-01-09",
+      "total_cost": 332922,
+      "cost_per_sqft": 166.46,
+      "categories": {
+        "construction": 116522,
+        "electrical": 39950,
+        "hvac": 26633,
+        "plumbing": 16646,
+        "fixtures": 83230,
+        "technology": 26633,
+        "soft_costs": 23304
+      },
+      "timeline_days": 105,
+      "variance_from_budget": 8,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-154",
+      "store_type": "express_compact",
+      "square_footage": 2000,
+      "market": "Detroit",
+      "completion_date": "2024-07-16",
+      "total_cost": 264173,
+      "cost_per_sqft": 132.09,
+      "categories": {
+        "construction": 92460,
+        "electrical": 31700,
+        "hvac": 21133,
+        "plumbing": 13208,
+        "fixtures": 66043,
+        "technology": 21133,
+        "soft_costs": 18492
+      },
+      "timeline_days": 113,
+      "variance_from_budget": 1,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor substitution required"
+      ]
+    },
+    {
+      "store_id": "Store-155",
+      "store_type": "express_compact",
+      "square_footage": 2000,
+      "market": "Louisville",
+      "completion_date": "2024-05-22",
+      "total_cost": 297037,
+      "cost_per_sqft": 148.52,
+      "categories": {
+        "construction": 103962,
+        "electrical": 35644,
+        "hvac": 23762,
+        "plumbing": 14851,
+        "fixtures": 74259,
+        "technology": 23762,
+        "soft_costs": 20792
+      },
+      "timeline_days": 109,
+      "variance_from_budget": 8,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-156",
+      "store_type": "express_compact",
+      "square_footage": 2000,
+      "market": "Pittsburgh",
+      "completion_date": "2024-04-25",
+      "total_cost": 288936,
+      "cost_per_sqft": 144.47,
+      "categories": {
+        "construction": 101127,
+        "electrical": 34672,
+        "hvac": 23114,
+        "plumbing": 14446,
+        "fixtures": 72234,
+        "technology": 23114,
+        "soft_costs": 20225
+      },
+      "timeline_days": 82,
+      "variance_from_budget": -1,
+      "lessons_learned": [
+        "Delayed by permit issues",
+        "Vendor substitution required"
+      ]
+    },
+    {
+      "store_id": "Store-157",
+      "store_type": "express_compact",
+      "square_footage": 2000,
+      "market": "Cincinnati",
+      "completion_date": "2024-03-01",
+      "total_cost": 299712,
+      "cost_per_sqft": 149.86,
+      "categories": {
+        "construction": 104899,
+        "electrical": 35965,
+        "hvac": 23976,
+        "plumbing": 14985,
+        "fixtures": 74928,
+        "technology": 23976,
+        "soft_costs": 20979
+      },
+      "timeline_days": 61,
+      "variance_from_budget": 6,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-158",
+      "store_type": "express_compact",
+      "square_footage": 2000,
+      "market": "Cincinnati",
+      "completion_date": "2024-02-02",
+      "total_cost": 306029,
+      "cost_per_sqft": 153.01,
+      "categories": {
+        "construction": 107110,
+        "electrical": 36723,
+        "hvac": 24482,
+        "plumbing": 15301,
+        "fixtures": 76507,
+        "technology": 24482,
+        "soft_costs": 21422
+      },
+      "timeline_days": 86,
+      "variance_from_budget": 5,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-159",
+      "store_type": "express_compact",
+      "square_footage": 2000,
+      "market": "Pittsburgh",
+      "completion_date": "2024-08-08",
+      "total_cost": 280823,
+      "cost_per_sqft": 140.41,
+      "categories": {
+        "construction": 98288,
+        "electrical": 33698,
+        "hvac": 22465,
+        "plumbing": 14041,
+        "fixtures": 70205,
+        "technology": 22465,
+        "soft_costs": 19657
+      },
+      "timeline_days": 93,
+      "variance_from_budget": 1,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor substitution required"
+      ]
+    },
+    {
+      "store_id": "Store-160",
+      "store_type": "express_compact",
+      "square_footage": 2000,
+      "market": "Cleveland",
+      "completion_date": "2024-07-06",
+      "total_cost": 257160,
+      "cost_per_sqft": 128.58,
+      "categories": {
+        "construction": 90006,
+        "electrical": 30859,
+        "hvac": 20572,
+        "plumbing": 12858,
+        "fixtures": 64290,
+        "technology": 20572,
+        "soft_costs": 18001
+      },
+      "timeline_days": 118,
+      "variance_from_budget": 6,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-161",
+      "store_type": "express_compact",
+      "square_footage": 2000,
+      "market": "Louisville",
+      "completion_date": "2024-03-08",
+      "total_cost": 291584,
+      "cost_per_sqft": 145.79,
+      "categories": {
+        "construction": 102054,
+        "electrical": 34990,
+        "hvac": 23326,
+        "plumbing": 14579,
+        "fixtures": 72896,
+        "technology": 23326,
+        "soft_costs": 20410
+      },
+      "timeline_days": 119,
+      "variance_from_budget": 10,
+      "lessons_learned": [
+        "Delayed by permit issues",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-162",
+      "store_type": "express_compact",
+      "square_footage": 2000,
+      "market": "Pittsburgh",
+      "completion_date": "2024-04-17",
+      "total_cost": 251172,
+      "cost_per_sqft": 125.59,
+      "categories": {
+        "construction": 87910,
+        "electrical": 30140,
+        "hvac": 20093,
+        "plumbing": 12558,
+        "fixtures": 62793,
+        "technology": 20093,
+        "soft_costs": 17582
+      },
+      "timeline_days": 72,
+      "variance_from_budget": 8,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-163",
+      "store_type": "express_compact",
+      "square_footage": 2000,
+      "market": "Indianapolis",
+      "completion_date": "2024-10-06",
+      "total_cost": 293603,
+      "cost_per_sqft": 146.8,
+      "categories": {
+        "construction": 102761,
+        "electrical": 35232,
+        "hvac": 23488,
+        "plumbing": 14680,
+        "fixtures": 73400,
+        "technology": 23488,
+        "soft_costs": 20552
+      },
+      "timeline_days": 91,
+      "variance_from_budget": 4,
+      "lessons_learned": [
+        "Delayed by permit issues",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-164",
+      "store_type": "express_compact",
+      "square_footage": 2000,
+      "market": "Cleveland",
+      "completion_date": "2024-05-15",
+      "total_cost": 254794,
+      "cost_per_sqft": 127.4,
+      "categories": {
+        "construction": 89177,
+        "electrical": 30575,
+        "hvac": 20383,
+        "plumbing": 12739,
+        "fixtures": 63698,
+        "technology": 20383,
+        "soft_costs": 17835
+      },
+      "timeline_days": 91,
+      "variance_from_budget": 7,
+      "lessons_learned": [
+        "Delayed by permit issues",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-165",
+      "store_type": "express_compact",
+      "square_footage": 2000,
+      "market": "Pittsburgh",
+      "completion_date": "2024-07-03",
+      "total_cost": 247963,
+      "cost_per_sqft": 123.98,
+      "categories": {
+        "construction": 86787,
+        "electrical": 29755,
+        "hvac": 19837,
+        "plumbing": 12398,
+        "fixtures": 61990,
+        "technology": 19837,
+        "soft_costs": 17357
+      },
+      "timeline_days": 91,
+      "variance_from_budget": 2,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-166",
+      "store_type": "express_compact",
+      "square_footage": 2000,
+      "market": "Louisville",
+      "completion_date": "2024-07-14",
+      "total_cost": 262048,
+      "cost_per_sqft": 131.02,
+      "categories": {
+        "construction": 91716,
+        "electrical": 31445,
+        "hvac": 20963,
+        "plumbing": 13102,
+        "fixtures": 65512,
+        "technology": 20963,
+        "soft_costs": 18343
+      },
+      "timeline_days": 60,
+      "variance_from_budget": 5,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-167",
+      "store_type": "express_compact",
+      "square_footage": 2000,
+      "market": "Columbus",
+      "completion_date": "2024-06-14",
+      "total_cost": 266408,
+      "cost_per_sqft": 133.2,
+      "categories": {
+        "construction": 93242,
+        "electrical": 31968,
+        "hvac": 21312,
+        "plumbing": 13320,
+        "fixtures": 66602,
+        "technology": 21312,
+        "soft_costs": 18648
+      },
+      "timeline_days": 80,
+      "variance_from_budget": -3,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-168",
+      "store_type": "express_compact",
+      "square_footage": 2000,
+      "market": "Louisville",
+      "completion_date": "2024-06-13",
+      "total_cost": 311363,
+      "cost_per_sqft": 155.68,
+      "categories": {
+        "construction": 108977,
+        "electrical": 37363,
+        "hvac": 24909,
+        "plumbing": 15568,
+        "fixtures": 77840,
+        "technology": 24909,
+        "soft_costs": 21795
+      },
+      "timeline_days": 71,
+      "variance_from_budget": 2,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor substitution required"
+      ]
+    },
+    {
+      "store_id": "Store-169",
+      "store_type": "express_compact",
+      "square_footage": 2000,
+      "market": "Louisville",
+      "completion_date": "2024-03-18",
+      "total_cost": 268730,
+      "cost_per_sqft": 134.37,
+      "categories": {
+        "construction": 94055,
+        "electrical": 32247,
+        "hvac": 21498,
+        "plumbing": 13436,
+        "fixtures": 67182,
+        "technology": 21498,
+        "soft_costs": 18811
+      },
+      "timeline_days": 92,
+      "variance_from_budget": -2,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-170",
+      "store_type": "express_compact",
+      "square_footage": 2000,
+      "market": "Detroit",
+      "completion_date": "2024-10-11",
+      "total_cost": 315003,
+      "cost_per_sqft": 157.5,
+      "categories": {
+        "construction": 110251,
+        "electrical": 37800,
+        "hvac": 25200,
+        "plumbing": 15750,
+        "fixtures": 78750,
+        "technology": 25200,
+        "soft_costs": 22050
+      },
+      "timeline_days": 80,
+      "variance_from_budget": -3,
+      "lessons_learned": [
+        "Delayed by permit issues",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-171",
+      "store_type": "express_compact",
+      "square_footage": 2000,
+      "market": "Louisville",
+      "completion_date": "2024-07-14",
+      "total_cost": 314495,
+      "cost_per_sqft": 157.25,
+      "categories": {
+        "construction": 110073,
+        "electrical": 37739,
+        "hvac": 25159,
+        "plumbing": 15724,
+        "fixtures": 78623,
+        "technology": 25159,
+        "soft_costs": 22014
+      },
+      "timeline_days": 67,
+      "variance_from_budget": 9,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor substitution required"
+      ]
+    },
+    {
+      "store_id": "Store-172",
+      "store_type": "express_compact",
+      "square_footage": 2000,
+      "market": "Cincinnati",
+      "completion_date": "2024-05-28",
+      "total_cost": 277169,
+      "cost_per_sqft": 138.58,
+      "categories": {
+        "construction": 97009,
+        "electrical": 33260,
+        "hvac": 22173,
+        "plumbing": 13858,
+        "fixtures": 69292,
+        "technology": 22173,
+        "soft_costs": 19401
+      },
+      "timeline_days": 82,
+      "variance_from_budget": -4,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-173",
+      "store_type": "express_compact",
+      "square_footage": 2000,
+      "market": "Pittsburgh",
+      "completion_date": "2024-12-28",
+      "total_cost": 274699,
+      "cost_per_sqft": 137.35,
+      "categories": {
+        "construction": 96144,
+        "electrical": 32963,
+        "hvac": 21975,
+        "plumbing": 13734,
+        "fixtures": 68674,
+        "technology": 21975,
+        "soft_costs": 19228
+      },
+      "timeline_days": 92,
+      "variance_from_budget": 6,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-174",
+      "store_type": "express_compact",
+      "square_footage": 2000,
+      "market": "Indianapolis",
+      "completion_date": "2024-01-16",
+      "total_cost": 316456,
+      "cost_per_sqft": 158.23,
+      "categories": {
+        "construction": 110759,
+        "electrical": 37974,
+        "hvac": 25316,
+        "plumbing": 15822,
+        "fixtures": 79114,
+        "technology": 25316,
+        "soft_costs": 22151
+      },
+      "timeline_days": 83,
+      "variance_from_budget": -3,
+      "lessons_learned": [
+        "Delayed by permit issues",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-175",
+      "store_type": "express_compact",
+      "square_footage": 2000,
+      "market": "Columbus",
+      "completion_date": "2024-12-19",
+      "total_cost": 285124,
+      "cost_per_sqft": 142.56,
+      "categories": {
+        "construction": 99793,
+        "electrical": 34214,
+        "hvac": 22809,
+        "plumbing": 14256,
+        "fixtures": 71281,
+        "technology": 22809,
+        "soft_costs": 19958
+      },
+      "timeline_days": 104,
+      "variance_from_budget": 1,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-176",
+      "store_type": "express_compact",
+      "square_footage": 2000,
+      "market": "Detroit",
+      "completion_date": "2024-04-25",
+      "total_cost": 249083,
+      "cost_per_sqft": 124.54,
+      "categories": {
+        "construction": 87179,
+        "electrical": 29889,
+        "hvac": 19926,
+        "plumbing": 12454,
+        "fixtures": 62270,
+        "technology": 19926,
+        "soft_costs": 17435
+      },
+      "timeline_days": 67,
+      "variance_from_budget": 7,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-177",
+      "store_type": "express_compact",
+      "square_footage": 2000,
+      "market": "Indianapolis",
+      "completion_date": "2024-07-19",
+      "total_cost": 330702,
+      "cost_per_sqft": 165.35,
+      "categories": {
+        "construction": 115745,
+        "electrical": 39684,
+        "hvac": 26456,
+        "plumbing": 16535,
+        "fixtures": 82675,
+        "technology": 26456,
+        "soft_costs": 23149
+      },
+      "timeline_days": 72,
+      "variance_from_budget": 7,
+      "lessons_learned": [
+        "Delayed by permit issues",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-178",
+      "store_type": "express_compact",
+      "square_footage": 2000,
+      "market": "Louisville",
+      "completion_date": "2024-08-21",
+      "total_cost": 329030,
+      "cost_per_sqft": 164.51,
+      "categories": {
+        "construction": 115160,
+        "electrical": 39483,
+        "hvac": 26322,
+        "plumbing": 16451,
+        "fixtures": 82257,
+        "technology": 26322,
+        "soft_costs": 23032
+      },
+      "timeline_days": 75,
+      "variance_from_budget": 5,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-179",
+      "store_type": "express_compact",
+      "square_footage": 2000,
+      "market": "Cincinnati",
+      "completion_date": "2024-02-27",
+      "total_cost": 324930,
+      "cost_per_sqft": 162.47,
+      "categories": {
+        "construction": 113725,
+        "electrical": 38991,
+        "hvac": 25994,
+        "plumbing": 16246,
+        "fixtures": 81232,
+        "technology": 25994,
+        "soft_costs": 22745
+      },
+      "timeline_days": 64,
+      "variance_from_budget": -4,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-180",
+      "store_type": "remodel_refresh",
+      "square_footage": 3500,
+      "market": "Pittsburgh",
+      "completion_date": "2024-01-20",
+      "total_cost": 297012,
+      "cost_per_sqft": 84.86,
+      "categories": {
+        "construction": 103954,
+        "electrical": 35641,
+        "hvac": 23760,
+        "plumbing": 14850,
+        "fixtures": 74253,
+        "technology": 23760,
+        "soft_costs": 20790
+      },
+      "timeline_days": 76,
+      "variance_from_budget": -2,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-181",
+      "store_type": "remodel_refresh",
+      "square_footage": 3500,
+      "market": "Columbus",
+      "completion_date": "2024-01-11",
+      "total_cost": 340573,
+      "cost_per_sqft": 97.31,
+      "categories": {
+        "construction": 119200,
+        "electrical": 40868,
+        "hvac": 27245,
+        "plumbing": 17028,
+        "fixtures": 85143,
+        "technology": 27245,
+        "soft_costs": 23840
+      },
+      "timeline_days": 119,
+      "variance_from_budget": 5,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-182",
+      "store_type": "remodel_refresh",
+      "square_footage": 3500,
+      "market": "Cincinnati",
+      "completion_date": "2024-04-11",
+      "total_cost": 327718,
+      "cost_per_sqft": 93.63,
+      "categories": {
+        "construction": 114701,
+        "electrical": 39326,
+        "hvac": 26217,
+        "plumbing": 16385,
+        "fixtures": 81929,
+        "technology": 26217,
+        "soft_costs": 22940
+      },
+      "timeline_days": 82,
+      "variance_from_budget": 4,
+      "lessons_learned": [
+        "Delayed by permit issues",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-183",
+      "store_type": "remodel_refresh",
+      "square_footage": 3500,
+      "market": "Pittsburgh",
+      "completion_date": "2024-01-12",
+      "total_cost": 293392,
+      "cost_per_sqft": 83.83,
+      "categories": {
+        "construction": 102687,
+        "electrical": 35207,
+        "hvac": 23471,
+        "plumbing": 14669,
+        "fixtures": 73348,
+        "technology": 23471,
+        "soft_costs": 20537
+      },
+      "timeline_days": 79,
+      "variance_from_budget": 2,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor substitution required"
+      ]
+    },
+    {
+      "store_id": "Store-184",
+      "store_type": "remodel_refresh",
+      "square_footage": 3500,
+      "market": "Cincinnati",
+      "completion_date": "2024-12-23",
+      "total_cost": 310147,
+      "cost_per_sqft": 88.61,
+      "categories": {
+        "construction": 108551,
+        "electrical": 37217,
+        "hvac": 24811,
+        "plumbing": 15507,
+        "fixtures": 77536,
+        "technology": 24811,
+        "soft_costs": 21710
+      },
+      "timeline_days": 80,
+      "variance_from_budget": 5,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-185",
+      "store_type": "remodel_refresh",
+      "square_footage": 3500,
+      "market": "Detroit",
+      "completion_date": "2024-02-05",
+      "total_cost": 372422,
+      "cost_per_sqft": 106.41,
+      "categories": {
+        "construction": 130347,
+        "electrical": 44690,
+        "hvac": 29793,
+        "plumbing": 18621,
+        "fixtures": 93105,
+        "technology": 29793,
+        "soft_costs": 26069
+      },
+      "timeline_days": 69,
+      "variance_from_budget": 4,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-186",
+      "store_type": "remodel_refresh",
+      "square_footage": 3500,
+      "market": "Indianapolis",
+      "completion_date": "2024-09-25",
+      "total_cost": 316769,
+      "cost_per_sqft": 90.51,
+      "categories": {
+        "construction": 110869,
+        "electrical": 38012,
+        "hvac": 25341,
+        "plumbing": 15838,
+        "fixtures": 79192,
+        "technology": 25341,
+        "soft_costs": 22173
+      },
+      "timeline_days": 88,
+      "variance_from_budget": -2,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor substitution required"
+      ]
+    },
+    {
+      "store_id": "Store-187",
+      "store_type": "remodel_refresh",
+      "square_footage": 3500,
+      "market": "Indianapolis",
+      "completion_date": "2024-10-05",
+      "total_cost": 317660,
+      "cost_per_sqft": 90.76,
+      "categories": {
+        "construction": 111181,
+        "electrical": 38119,
+        "hvac": 25412,
+        "plumbing": 15883,
+        "fixtures": 79415,
+        "technology": 25412,
+        "soft_costs": 22236
+      },
+      "timeline_days": 97,
+      "variance_from_budget": -5,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-188",
+      "store_type": "remodel_refresh",
+      "square_footage": 3500,
+      "market": "Detroit",
+      "completion_date": "2024-04-09",
+      "total_cost": 361393,
+      "cost_per_sqft": 103.26,
+      "categories": {
+        "construction": 126487,
+        "electrical": 43367,
+        "hvac": 28911,
+        "plumbing": 18069,
+        "fixtures": 90348,
+        "technology": 28911,
+        "soft_costs": 25297
+      },
+      "timeline_days": 118,
+      "variance_from_budget": -5,
+      "lessons_learned": [
+        "Delayed by permit issues",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-189",
+      "store_type": "remodel_refresh",
+      "square_footage": 3500,
+      "market": "Pittsburgh",
+      "completion_date": "2024-05-05",
+      "total_cost": 330847,
+      "cost_per_sqft": 94.53,
+      "categories": {
+        "construction": 115796,
+        "electrical": 39701,
+        "hvac": 26467,
+        "plumbing": 16542,
+        "fixtures": 82711,
+        "technology": 26467,
+        "soft_costs": 23159
+      },
+      "timeline_days": 96,
+      "variance_from_budget": -2,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-190",
+      "store_type": "remodel_refresh",
+      "square_footage": 3500,
+      "market": "Detroit",
+      "completion_date": "2024-06-12",
+      "total_cost": 290065,
+      "cost_per_sqft": 82.88,
+      "categories": {
+        "construction": 101522,
+        "electrical": 34807,
+        "hvac": 23205,
+        "plumbing": 14503,
+        "fixtures": 72516,
+        "technology": 23205,
+        "soft_costs": 20304
+      },
+      "timeline_days": 73,
+      "variance_from_budget": 2,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-191",
+      "store_type": "remodel_refresh",
+      "square_footage": 3500,
+      "market": "Detroit",
+      "completion_date": "2024-09-28",
+      "total_cost": 358352,
+      "cost_per_sqft": 102.39,
+      "categories": {
+        "construction": 125423,
+        "electrical": 43002,
+        "hvac": 28668,
+        "plumbing": 17917,
+        "fixtures": 89588,
+        "technology": 28668,
+        "soft_costs": 25084
+      },
+      "timeline_days": 119,
+      "variance_from_budget": -1,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-192",
+      "store_type": "remodel_refresh",
+      "square_footage": 3500,
+      "market": "Cleveland",
+      "completion_date": "2024-02-15",
+      "total_cost": 319865,
+      "cost_per_sqft": 91.39,
+      "categories": {
+        "construction": 111952,
+        "electrical": 38383,
+        "hvac": 25589,
+        "plumbing": 15993,
+        "fixtures": 79966,
+        "technology": 25589,
+        "soft_costs": 22390
+      },
+      "timeline_days": 79,
+      "variance_from_budget": 8,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-193",
+      "store_type": "remodel_refresh",
+      "square_footage": 3500,
+      "market": "Detroit",
+      "completion_date": "2024-03-10",
+      "total_cost": 338663,
+      "cost_per_sqft": 96.76,
+      "categories": {
+        "construction": 118532,
+        "electrical": 40639,
+        "hvac": 27093,
+        "plumbing": 16933,
+        "fixtures": 84665,
+        "technology": 27093,
+        "soft_costs": 23706
+      },
+      "timeline_days": 95,
+      "variance_from_budget": 3,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-194",
+      "store_type": "remodel_refresh",
+      "square_footage": 3500,
+      "market": "Columbus",
+      "completion_date": "2024-10-05",
+      "total_cost": 363910,
+      "cost_per_sqft": 103.97,
+      "categories": {
+        "construction": 127368,
+        "electrical": 43669,
+        "hvac": 29112,
+        "plumbing": 18195,
+        "fixtures": 90977,
+        "technology": 29112,
+        "soft_costs": 25473
+      },
+      "timeline_days": 82,
+      "variance_from_budget": 7,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-195",
+      "store_type": "remodel_refresh",
+      "square_footage": 3500,
+      "market": "Columbus",
+      "completion_date": "2024-11-07",
+      "total_cost": 342027,
+      "cost_per_sqft": 97.72,
+      "categories": {
+        "construction": 119709,
+        "electrical": 41043,
+        "hvac": 27362,
+        "plumbing": 17101,
+        "fixtures": 85506,
+        "technology": 27362,
+        "soft_costs": 23941
+      },
+      "timeline_days": 117,
+      "variance_from_budget": 1,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-196",
+      "store_type": "remodel_refresh",
+      "square_footage": 3500,
+      "market": "Pittsburgh",
+      "completion_date": "2024-11-23",
+      "total_cost": 347402,
+      "cost_per_sqft": 99.26,
+      "categories": {
+        "construction": 121590,
+        "electrical": 41688,
+        "hvac": 27792,
+        "plumbing": 17370,
+        "fixtures": 86850,
+        "technology": 27792,
+        "soft_costs": 24318
+      },
+      "timeline_days": 61,
+      "variance_from_budget": 1,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-197",
+      "store_type": "remodel_refresh",
+      "square_footage": 3500,
+      "market": "Cincinnati",
+      "completion_date": "2024-03-01",
+      "total_cost": 336477,
+      "cost_per_sqft": 96.14,
+      "categories": {
+        "construction": 117766,
+        "electrical": 40377,
+        "hvac": 26918,
+        "plumbing": 16823,
+        "fixtures": 84119,
+        "technology": 26918,
+        "soft_costs": 23553
+      },
+      "timeline_days": 104,
+      "variance_from_budget": 1,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor substitution required"
+      ]
+    },
+    {
+      "store_id": "Store-198",
+      "store_type": "remodel_refresh",
+      "square_footage": 3500,
+      "market": "Pittsburgh",
+      "completion_date": "2024-08-04",
+      "total_cost": 287909,
+      "cost_per_sqft": 82.26,
+      "categories": {
+        "construction": 100768,
+        "electrical": 34549,
+        "hvac": 23032,
+        "plumbing": 14395,
+        "fixtures": 71977,
+        "technology": 23032,
+        "soft_costs": 20153
+      },
+      "timeline_days": 102,
+      "variance_from_budget": 10,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-199",
+      "store_type": "remodel_refresh",
+      "square_footage": 3500,
+      "market": "Indianapolis",
+      "completion_date": "2024-05-22",
+      "total_cost": 316963,
+      "cost_per_sqft": 90.56,
+      "categories": {
+        "construction": 110937,
+        "electrical": 38035,
+        "hvac": 25357,
+        "plumbing": 15848,
+        "fixtures": 79240,
+        "technology": 25357,
+        "soft_costs": 22187
+      },
+      "timeline_days": 105,
+      "variance_from_budget": 4,
+      "lessons_learned": [
+        "Delayed by permit issues",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-200",
+      "store_type": "remodel_refresh",
+      "square_footage": 3500,
+      "market": "Cincinnati",
+      "completion_date": "2024-12-23",
+      "total_cost": 287174,
+      "cost_per_sqft": 82.05,
+      "categories": {
+        "construction": 100510,
+        "electrical": 34460,
+        "hvac": 22973,
+        "plumbing": 14358,
+        "fixtures": 71793,
+        "technology": 22973,
+        "soft_costs": 20102
+      },
+      "timeline_days": 61,
+      "variance_from_budget": -1,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-201",
+      "store_type": "remodel_refresh",
+      "square_footage": 3500,
+      "market": "Cleveland",
+      "completion_date": "2024-07-01",
+      "total_cost": 289318,
+      "cost_per_sqft": 82.66,
+      "categories": {
+        "construction": 101261,
+        "electrical": 34718,
+        "hvac": 23145,
+        "plumbing": 14465,
+        "fixtures": 72329,
+        "technology": 23145,
+        "soft_costs": 20252
+      },
+      "timeline_days": 109,
+      "variance_from_budget": 4,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-202",
+      "store_type": "remodel_refresh",
+      "square_footage": 3500,
+      "market": "Pittsburgh",
+      "completion_date": "2024-08-14",
+      "total_cost": 358822,
+      "cost_per_sqft": 102.52,
+      "categories": {
+        "construction": 125587,
+        "electrical": 43058,
+        "hvac": 28705,
+        "plumbing": 17941,
+        "fixtures": 89705,
+        "technology": 28705,
+        "soft_costs": 25117
+      },
+      "timeline_days": 115,
+      "variance_from_budget": 1,
+      "lessons_learned": [
+        "Delayed by permit issues",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-203",
+      "store_type": "remodel_refresh",
+      "square_footage": 3500,
+      "market": "Detroit",
+      "completion_date": "2024-08-20",
+      "total_cost": 291678,
+      "cost_per_sqft": 83.34,
+      "categories": {
+        "construction": 102087,
+        "electrical": 35001,
+        "hvac": 23334,
+        "plumbing": 14583,
+        "fixtures": 72919,
+        "technology": 23334,
+        "soft_costs": 20417
+      },
+      "timeline_days": 119,
+      "variance_from_budget": 1,
+      "lessons_learned": [
+        "Delayed by permit issues",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-204",
+      "store_type": "remodel_refresh",
+      "square_footage": 3500,
+      "market": "Columbus",
+      "completion_date": "2024-10-07",
+      "total_cost": 322216,
+      "cost_per_sqft": 92.06,
+      "categories": {
+        "construction": 112775,
+        "electrical": 38665,
+        "hvac": 25777,
+        "plumbing": 16110,
+        "fixtures": 80554,
+        "technology": 25777,
+        "soft_costs": 22555
+      },
+      "timeline_days": 68,
+      "variance_from_budget": 8,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-205",
+      "store_type": "prototype_innovation",
+      "square_footage": 4000,
+      "market": "Pittsburgh",
+      "completion_date": "2024-02-18",
+      "total_cost": 1274422,
+      "cost_per_sqft": 318.61,
+      "categories": {
+        "construction": 446047,
+        "electrical": 152930,
+        "hvac": 101953,
+        "plumbing": 63721,
+        "fixtures": 318605,
+        "technology": 101953,
+        "soft_costs": 89209
+      },
+      "timeline_days": 114,
+      "variance_from_budget": 10,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-206",
+      "store_type": "prototype_innovation",
+      "square_footage": 4000,
+      "market": "Cleveland",
+      "completion_date": "2024-12-08",
+      "total_cost": 1108372,
+      "cost_per_sqft": 277.09,
+      "categories": {
+        "construction": 387930,
+        "electrical": 133004,
+        "hvac": 88669,
+        "plumbing": 55418,
+        "fixtures": 277093,
+        "technology": 88669,
+        "soft_costs": 77586
+      },
+      "timeline_days": 113,
+      "variance_from_budget": -1,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-207",
+      "store_type": "prototype_innovation",
+      "square_footage": 4000,
+      "market": "Pittsburgh",
+      "completion_date": "2024-10-28",
+      "total_cost": 1302330,
+      "cost_per_sqft": 325.58,
+      "categories": {
+        "construction": 455815,
+        "electrical": 156279,
+        "hvac": 104186,
+        "plumbing": 65116,
+        "fixtures": 325582,
+        "technology": 104186,
+        "soft_costs": 91163
+      },
+      "timeline_days": 120,
+      "variance_from_budget": 2,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor substitution required"
+      ]
+    },
+    {
+      "store_id": "Store-208",
+      "store_type": "prototype_innovation",
+      "square_footage": 4000,
+      "market": "Detroit",
+      "completion_date": "2024-04-02",
+      "total_cost": 1213834,
+      "cost_per_sqft": 303.46,
+      "categories": {
+        "construction": 424841,
+        "electrical": 145660,
+        "hvac": 97106,
+        "plumbing": 60691,
+        "fixtures": 303458,
+        "technology": 97106,
+        "soft_costs": 84968
+      },
+      "timeline_days": 96,
+      "variance_from_budget": 3,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor performance good"
+      ]
+    },
+    {
+      "store_id": "Store-209",
+      "store_type": "prototype_innovation",
+      "square_footage": 4000,
+      "market": "Columbus",
+      "completion_date": "2024-03-19",
+      "total_cost": 1322244,
+      "cost_per_sqft": 330.56,
+      "categories": {
+        "construction": 462785,
+        "electrical": 158669,
+        "hvac": 105779,
+        "plumbing": 66112,
+        "fixtures": 330561,
+        "technology": 105779,
+        "soft_costs": 92557
+      },
+      "timeline_days": 78,
+      "variance_from_budget": -3,
+      "lessons_learned": [
+        "Completed on schedule",
+        "Vendor substitution required"
+      ]
+    }
+  ]
+}

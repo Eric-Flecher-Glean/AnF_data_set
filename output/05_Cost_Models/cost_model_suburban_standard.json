@@ -1,0 +1,327 @@
+{
+  "model_version": "2.3",
+  "last_updated": "2025-03-01",
+  "base_costs": {
+    "suburban_standard_3500sqft": {
+      "store_type": "suburban_standard",
+      "square_footage": 3500,
+      "total_base_cost": 647500,
+      "cost_per_sqft": 185,
+      "breakdown": {
+        "construction": {
+          "total": 226625,
+          "per_sqft": 64.75,
+          "line_items": [
+            {
+              "item": "Demolition",
+              "unit": "sqft",
+              "quantity": 3500,
+              "unit_cost": 5.5,
+              "total": 19250
+            },
+            {
+              "item": "Framing",
+              "unit": "sqft",
+              "quantity": 3500,
+              "unit_cost": 12.0,
+              "total": 42000
+            },
+            {
+              "item": "Drywall",
+              "unit": "sqft",
+              "quantity": 7000,
+              "unit_cost": 8.5,
+              "total": 59500
+            },
+            {
+              "item": "Flooring (LVT)",
+              "unit": "sqft",
+              "quantity": 3500,
+              "unit_cost": 18.0,
+              "total": 63000
+            },
+            {
+              "item": "Ceiling",
+              "unit": "sqft",
+              "quantity": 3500,
+              "unit_cost": 7.5,
+              "total": 26250
+            },
+            {
+              "item": "Paint",
+              "unit": "sqft",
+              "quantity": 7000,
+              "unit_cost": 2.25,
+              "total": 15750
+            }
+          ]
+        },
+        "electrical": {
+          "total": 77700,
+          "per_sqft": 22.2,
+          "line_items": [
+            {
+              "item": "400A electrical panel",
+              "unit": "each",
+              "quantity": 1,
+              "unit_cost": 8500,
+              "total": 8500
+            },
+            {
+              "item": "LED lighting fixtures",
+              "unit": "each",
+              "quantity": 65,
+              "unit_cost": 412,
+              "total": 26780
+            },
+            {
+              "item": "Outlets and switches",
+              "unit": "each",
+              "quantity": 85,
+              "unit_cost": 125,
+              "total": 10625
+            },
+            {
+              "item": "Emergency lighting",
+              "unit": "each",
+              "quantity": 12,
+              "unit_cost": 385,
+              "total": 4620
+            },
+            {
+              "item": "Electrical rough-in",
+              "unit": "sqft",
+              "quantity": 3500,
+              "unit_cost": 7.5,
+              "total": 26250
+            }
+          ]
+        },
+        "hvac": {
+          "total": 51800,
+          "per_sqft": 14.8,
+          "line_items": [
+            {
+              "item": "Commercial HVAC unit (VRF)",
+              "unit": "each",
+              "quantity": 1,
+              "unit_cost": 16500,
+              "total": 16500
+            },
+            {
+              "item": "Ductwork",
+              "unit": "sqft",
+              "quantity": 3500,
+              "unit_cost": 8.5,
+              "total": 29750
+            },
+            {
+              "item": "HVAC controls",
+              "unit": "system",
+              "quantity": 1,
+              "unit_cost": 3250,
+              "total": 3250
+            },
+            {
+              "item": "Installation labor",
+              "unit": "system",
+              "quantity": 1,
+              "unit_cost": 2300,
+              "total": 2300
+            }
+          ]
+        },
+        "plumbing": {
+          "total": 32375,
+          "per_sqft": 9.25,
+          "line_items": [
+            {
+              "item": "Bathroom fixtures",
+              "unit": "set",
+              "quantity": 2,
+              "unit_cost": 2850,
+              "total": 5700
+            },
+            {
+              "item": "Water heater",
+              "unit": "each",
+              "quantity": 1,
+              "unit_cost": 1250,
+              "total": 1250
+            },
+            {
+              "item": "Water lines",
+              "unit": "lf",
+              "quantity": 280,
+              "unit_cost": 22,
+              "total": 6160
+            },
+            {
+              "item": "Drainage",
+              "unit": "lf",
+              "quantity": 280,
+              "unit_cost": 28,
+              "total": 7840
+            },
+            {
+              "item": "Plumbing labor",
+              "unit": "sqft",
+              "quantity": 3500,
+              "unit_cost": 3.25,
+              "total": 11375
+            }
+          ]
+        },
+        "fixtures": {
+          "total": 161875,
+          "per_sqft": 46.25,
+          "line_items": [
+            {
+              "item": "Wall display fixtures",
+              "unit": "lf",
+              "quantity": 320,
+              "unit_cost": 185,
+              "total": 59200
+            },
+            {
+              "item": "Floor fixtures",
+              "unit": "each",
+              "quantity": 45,
+              "unit_cost": 725,
+              "total": 32625
+            },
+            {
+              "item": "Mannequins",
+              "unit": "each",
+              "quantity": 18,
+              "unit_cost": 385,
+              "total": 6930
+            },
+            {
+              "item": "Signage package",
+              "unit": "package",
+              "quantity": 1,
+              "unit_cost": 12500,
+              "total": 12500
+            },
+            {
+              "item": "Checkout counter",
+              "unit": "lf",
+              "quantity": 24,
+              "unit_cost": 425,
+              "total": 10200
+            },
+            {
+              "item": "Dressing rooms",
+              "unit": "each",
+              "quantity": 8,
+              "unit_cost": 1850,
+              "total": 14800
+            },
+            {
+              "item": "Mirrors and accessories",
+              "unit": "package",
+              "quantity": 1,
+              "unit_cost": 8500,
+              "total": 8500
+            }
+          ]
+        },
+        "technology": {
+          "total": 51800,
+          "per_sqft": 14.8,
+          "line_items": [
+            {
+              "item": "POS system (3 terminals)",
+              "unit": "system",
+              "quantity": 1,
+              "unit_cost": 12500,
+              "total": 12500
+            },
+            {
+              "item": "Security cameras",
+              "unit": "each",
+              "quantity": 16,
+              "unit_cost": 875,
+              "total": 14000
+            },
+            {
+              "item": "WiFi infrastructure",
+              "unit": "system",
+              "quantity": 1,
+              "unit_cost": 4250,
+              "total": 4250
+            },
+            {
+              "item": "Digital displays",
+              "unit": "each",
+              "quantity": 4,
+              "unit_cost": 2150,
+              "total": 8600
+            },
+            {
+              "item": "Sound system",
+              "unit": "system",
+              "quantity": 1,
+              "unit_cost": 3850,
+              "total": 3850
+            },
+            {
+              "item": "Technology wiring",
+              "unit": "sqft",
+              "quantity": 3500,
+              "unit_cost": 2.5,
+              "total": 8750
+            }
+          ]
+        },
+        "soft_costs": {
+          "total": 45325,
+          "per_sqft": 12.95,
+          "line_items": [
+            {
+              "item": "Architectural design",
+              "unit": "project",
+              "quantity": 1,
+              "unit_cost": 15000,
+              "total": 15000
+            },
+            {
+              "item": "Engineering",
+              "unit": "project",
+              "quantity": 1,
+              "unit_cost": 8500,
+              "total": 8500
+            },
+            {
+              "item": "Permits and fees",
+              "unit": "project",
+              "quantity": 1,
+              "unit_cost": 6250,
+              "total": 6250
+            },
+            {
+              "item": "Project management",
+              "unit": "project",
+              "quantity": 1,
+              "unit_cost": 8500,
+              "total": 8500
+            },
+            {
+              "item": "Contingency (10%)",
+              "unit": "percent",
+              "quantity": 1,
+              "unit_cost": 7075,
+              "total": 7075
+            }
+          ]
+        }
+      }
+    }
+  },
+  "formulas": {
+    "regional_adjustment": "base_cost * regional_modifier",
+    "timeline_premium": "base_cost * (1 + premium_rate) where premium_rate = 0.15 for accelerated",
+    "total_cost": "sum(categories) * regional_modifier * timeline_factor"
+  }
+}

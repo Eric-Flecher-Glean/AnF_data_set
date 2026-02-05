@@ -1,0 +1,83 @@
+{
+  "template_id": "base_template_v2.3",
+  "version": "2.3",
+  "effective_date": "2025-03-01",
+  "categories": [
+    {
+      "category": "Construction",
+      "subcategories": [
+        "Demolition",
+        "Structural",
+        "Framing",
+        "Drywall",
+        "Flooring",
+        "Ceiling",
+        "Paint"
+      ]
+    },
+    {
+      "category": "Electrical",
+      "subcategories": [
+        "Electrical panel (400A standard)",
+        "LED lighting system",
+        "Outlets and switches",
+        "Emergency lighting",
+        "Technology wiring"
+      ]
+    },
+    {
+      "category": "HVAC",
+      "subcategories": [
+        "Commercial HVAC unit",
+        "Ductwork",
+        "Controls",
+        "Maintenance"
+      ]
+    },
+    {
+      "category": "Plumbing",
+      "subcategories": [
+        "Fixtures",
+        "Water lines",
+        "Drainage",
+        "Backflow prevention"
+      ]
+    },
+    {
+      "category": "Fixtures",
+      "subcategories": [
+        "Display fixtures",
+        "Shelving",
+        "Mannequins",
+        "Signage",
+        "Checkout counter"
+      ]
+    },
+    {
+      "category": "Technology",
+      "subcategories": [
+        "POS systems",
+        "Security cameras",
+        "WiFi infrastructure",
+        "Digital displays"
+      ]
+    },
+    {
+      "category": "Soft Costs",
+      "subcategories": [
+        "Design fees",
+        "Permits",
+        "Insurance",
+        "Project management",
+        "Contingency (10%)"
+      ]
+    }
+  ],
+  "specifications": {
+    "electrical_panel": "400A (updated from 200A as of v2.3)",
+    "lighting": "LED throughout",
+    "flooring": "Luxury vinyl tile (LVT)",
+    "ceiling": "9ft minimum height",
+    "hvac": "Variable refrigerant flow (VRF)"
+  }
+}

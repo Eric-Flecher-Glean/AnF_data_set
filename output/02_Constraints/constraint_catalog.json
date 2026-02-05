@@ -1,0 +1,99 @@
+{
+  "constraint_types": [
+    {
+      "type": "landlord",
+      "description": "Requirements imposed by property owner",
+      "examples": [
+        {
+          "constraint": "Approved vendor list only",
+          "impact": "May increase costs 5-15% if preferred vendors not approved",
+          "mitigation": "Negotiate vendor approval, use approved subs, price accordingly"
+        },
+        {
+          "constraint": "No structural modifications",
+          "impact": "Limits layout options, may require creative workarounds",
+          "mitigation": "Design within existing footprint, use non-structural solutions"
+        },
+        {
+          "constraint": "After-hours work required",
+          "impact": "Labor rates increase 20-30% for night/weekend shifts",
+          "mitigation": "Optimize work scheduling, frontload daytime tasks"
+        },
+        {
+          "constraint": "Noise restrictions during mall hours",
+          "impact": "Extends timeline by 15-25%, phasing complexity",
+          "mitigation": "Schedule noisy work appropriately, sound dampening"
+        }
+      ]
+    },
+    {
+      "type": "budget",
+      "description": "Financial limitations on project",
+      "examples": [
+        {
+          "constraint": "Budget cap below market rate",
+          "impact": "Requires value engineering, material substitutions",
+          "mitigation": "Phased approach, specification downgrades, vendor negotiation"
+        },
+        {
+          "constraint": "Cash flow limitations",
+          "impact": "Payment schedule affects vendor pricing",
+          "mitigation": "Negotiate extended terms, progress payments"
+        }
+      ]
+    },
+    {
+      "type": "timeline",
+      "description": "Schedule constraints and deadlines",
+      "examples": [
+        {
+          "constraint": "Accelerated schedule (8 weeks vs. 12 weeks)",
+          "impact": "Labor premium 15%, material expedite fees, overlap inefficiencies",
+          "mitigation": "Parallel work streams, premium scheduling, night shifts"
+        },
+        {
+          "constraint": "Holiday deadline",
+          "impact": "Premium labor during holiday season, reduced productivity",
+          "mitigation": "Buffer time, incentive payments, backup resources"
+        }
+      ]
+    },
+    {
+      "type": "regional",
+      "description": "Local market conditions and requirements",
+      "examples": [
+        {
+          "constraint": "Union labor required",
+          "impact": "Labor rates 8-12% higher than non-union markets",
+          "mitigation": "Build into baseline, negotiate scope efficiently"
+        },
+        {
+          "constraint": "Complex permitting jurisdiction",
+          "impact": "Extended timeline (4-6 weeks), additional fees",
+          "mitigation": "Early permit application, expediter services"
+        },
+        {
+          "constraint": "Limited local vendor pool",
+          "impact": "Reduced competition, potentially higher pricing",
+          "mitigation": "Develop regional vendor relationships, incentivize new entrants"
+        }
+      ]
+    },
+    {
+      "type": "operational",
+      "description": "Store operation requirements",
+      "examples": [
+        {
+          "constraint": "Store must remain open during remodel",
+          "impact": "Phasing required, productivity loss 20-30%",
+          "mitigation": "Night work, temporary barriers, dust control"
+        },
+        {
+          "constraint": "Minimize closure days",
+          "impact": "Compressed schedule, premium labor costs",
+          "mitigation": "Prefabrication, parallel work, extended hours"
+        }
+      ]
+    }
+  ]
+}

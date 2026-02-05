@@ -1,0 +1,11 @@
+market,state,tier,construction,electrical,hvac,plumbing,fixtures,technology,soft_costs,notes
+Columbus,OH,secondary,1.0,1.03,1.02,1.01,1.0,1.0,1.02,"Baseline market, good vendor competition"
+Cincinnati,OH,secondary,1.05,1.08,1.04,1.03,1.0,1.0,1.03,Union labor requirements increase electrical costs
+Cleveland,OH,secondary,1.04,1.06,1.03,1.02,1.0,1.0,1.03,Moderate cost market
+Pittsburgh,PA,secondary,1.07,1.09,1.05,1.04,1.02,1.0,1.05,"Higher labor costs, union presence"
+Indianapolis,IN,secondary,0.97,0.99,0.98,0.98,1.0,1.0,1.0,"Cost-effective market, good vendor availability"
+Louisville,KY,tertiary,0.94,0.96,0.95,0.95,1.0,1.0,0.98,Lower cost market
+Detroit,MI,secondary,1.08,1.12,1.06,1.05,1.0,1.0,1.06,"High union presence, regulatory complexity"
+Chicago,IL,primary,1.25,1.35,1.22,1.2,1.05,1.0,1.15,"Major urban market, high labor costs, complex permitting"
+New York,NY,primary,1.45,1.55,1.4,1.38,1.1,1.05,1.25,"Highest cost market, union mandates, complex logistics"
+San Francisco,CA,primary,1.5,1.52,1.45,1.42,1.08,1.03,1.28,"Extreme high cost, seismic requirements, permit complexity"

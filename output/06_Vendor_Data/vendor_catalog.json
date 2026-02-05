@@ -1,0 +1,205 @@
+{
+  "vendors": [
+    {
+      "vendor_id": "V001",
+      "name": "BuildRight Construction",
+      "category": "General Contractor",
+      "markets": [
+        "Columbus",
+        "Cincinnati",
+        "Cleveland",
+        "Indianapolis"
+      ],
+      "specialties": [
+        "Full store builds",
+        "Remodels",
+        "Project management"
+      ],
+      "pricing": {
+        "typical_margin": "12-15%",
+        "payment_terms": "Progress payments: 30% deposit, 40% at roughin, 30% at completion",
+        "typical_lead_time_days": 90
+      },
+      "performance": {
+        "projects_completed": 85,
+        "on_time_rate": 0.87,
+        "on_budget_rate": 0.82,
+        "quality_rating": 4.3
+      }
+    },
+    {
+      "vendor_id": "V002",
+      "name": "CoolAir Systems",
+      "category": "HVAC",
+      "markets": [
+        "All OH, IN, KY markets"
+      ],
+      "specialties": [
+        "Commercial HVAC",
+        "VRF systems",
+        "Controls"
+      ],
+      "pricing": {
+        "commercial_unit_3500sqft": 16500,
+        "volume_discount_5_units": "7%",
+        "volume_discount_10_units": "12%",
+        "payment_terms": "50% deposit, 50% on delivery",
+        "typical_lead_time_weeks": 10
+      },
+      "performance": {
+        "projects_completed": 120,
+        "on_time_rate": 0.75,
+        "on_budget_rate": 0.88,
+        "quality_rating": 4.5
+      }
+    },
+    {
+      "vendor_id": "V003",
+      "name": "TempMaster",
+      "category": "HVAC",
+      "markets": [
+        "Columbus",
+        "Cincinnati"
+      ],
+      "specialties": [
+        "Backup vendor",
+        "Competitive pricing"
+      ],
+      "pricing": {
+        "commercial_unit_3500sqft": 15000,
+        "typical_discount": "9% under primary vendor",
+        "payment_terms": "Standard net 30",
+        "typical_lead_time_weeks": 8
+      },
+      "performance": {
+        "projects_completed": 35,
+        "on_time_rate": 0.91,
+        "on_budget_rate": 0.95,
+        "quality_rating": 4.4
+      },
+      "notes": "Emerging preferred vendor based on Store-112 performance"
+    },
+    {
+      "vendor_id": "V004",
+      "name": "PowerTech Solutions",
+      "category": "Electrical",
+      "markets": [
+        "All Midwest"
+      ],
+      "specialties": [
+        "Commercial electrical",
+        "LED lighting",
+        "Technology infrastructure"
+      ],
+      "pricing": {
+        "panel_400A": 8500,
+        "led_fixture": 412,
+        "hourly_rate": 95,
+        "typical_lead_time_weeks": 6
+      },
+      "performance": {
+        "projects_completed": 95,
+        "on_time_rate": 0.89,
+        "on_budget_rate": 0.84,
+        "quality_rating": 4.6
+      }
+    },
+    {
+      "vendor_id": "V005",
+      "name": "FlowMaster Plumbing",
+      "category": "Plumbing",
+      "markets": [
+        "OH, IN, PA"
+      ],
+      "specialties": [
+        "Commercial plumbing",
+        "Fixture installation"
+      ],
+      "pricing": {
+        "hourly_rate": 85,
+        "fixture_set": 2850,
+        "typical_lead_time_weeks": 4
+      },
+      "performance": {
+        "projects_completed": 78,
+        "on_time_rate": 0.92,
+        "on_budget_rate": 0.9,
+        "quality_rating": 4.4
+      }
+    },
+    {
+      "vendor_id": "V006",
+      "name": "RetailFixtures Pro",
+      "category": "Fixtures",
+      "markets": [
+        "National"
+      ],
+      "specialties": [
+        "Custom retail fixtures",
+        "Display systems",
+        "Millwork"
+      ],
+      "pricing": {
+        "wall_system_per_lf": 185,
+        "floor_fixture": 725,
+        "mannequin": 385,
+        "typical_lead_time_weeks": 8
+      },
+      "performance": {
+        "projects_completed": 145,
+        "on_time_rate": 0.83,
+        "on_budget_rate": 0.87,
+        "quality_rating": 4.7
+      }
+    },
+    {
+      "vendor_id": "V007",
+      "name": "SmartStore Tech",
+      "category": "Technology",
+      "markets": [
+        "National"
+      ],
+      "specialties": [
+        "POS systems",
+        "Security",
+        "Digital displays"
+      ],
+      "pricing": {
+        "pos_3_terminal_system": 12500,
+        "security_camera": 875,
+        "digital_display": 2150,
+        "typical_lead_time_weeks": 6
+      },
+      "performance": {
+        "projects_completed": 110,
+        "on_time_rate": 0.88,
+        "on_budget_rate": 0.91,
+        "quality_rating": 4.5
+      }
+    },
+    {
+      "vendor_id": "V008",
+      "name": "BuildSmart Design",
+      "category": "Design/Architecture",
+      "markets": [
+        "National"
+      ],
+      "specialties": [
+        "Retail design",
+        "Store planning",
+        "Engineering"
+      ],
+      "pricing": {
+        "design_fee_3500sqft": 15000,
+        "engineering_fee": 8500,
+        "typical_lead_time_weeks": 4
+      },
+      "performance": {
+        "projects_completed": 125,
+        "on_time_rate": 0.9,
+        "on_budget_rate": 0.93,
+        "quality_rating": 4.8
+      }
+    }
+  ]
+}
