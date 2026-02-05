@@ -1,0 +1,37 @@
+meeting_type: weekly_dev_sync
+duration_minutes: 30-45
+required_participants:
+  - role: Project Manager
+  - role: Procurement Manager
+
+dialogue_flow:
+  - section: opening
+    topics:
+      - weekly_status
+      - agenda_review
+    estimated_duration_minutes: 5
+
+  - section: project_updates
+    topics:
+      - active_projects
+      - upcoming_milestones
+      - blockers
+    estimated_duration_minutes: 15
+
+  - section: resource_planning
+    topics:
+      - resource_allocation
+      - vendor_coordination
+      - budget_status
+    estimated_duration_minutes: 10
+
+  - section: action_items
+    topics:
+      - follow_ups
+      - next_week_priorities
+    estimated_duration_minutes: 5
+
+injection_points:
+  - type: project_status
+    template: "Store {store_id} is {status}"
+    required_context: [store_id, status]

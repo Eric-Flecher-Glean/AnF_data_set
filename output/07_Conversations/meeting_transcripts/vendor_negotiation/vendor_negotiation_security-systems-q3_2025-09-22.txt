@@ -1,0 +1,29 @@
+MEETING: Vendor Negotiation
+DATE: 2025-09-22
+PARTICIPANTS:
+  - Jennifer Liu (Procurement Manager) - ANF
+  - Tom Wilson (General Contractor) - BuildRight Construction
+DURATION: 00:23
+STORE/TOPIC: security-systems-q3
+---
+
+[00:00:00] Jennifer Liu: Thanks for meeting with us today. We wanted to discuss current HVAC pricing and lead times for our upcoming store builds.
+[00:01:36] Tom Wilson: Absolutely. What specific units are you looking at?
+[00:02:15] Jennifer Liu: We need commercial units for 5-7 stores over the next quarter. Current lead time is showing 10 weeks. Can you confirm that's accurate?
+[00:04:21] Tom Wilson: Yes, unfortunately we're seeing longer lead times due to supply chain constraints. It's gone from 6 weeks to 10 weeks across all our suppliers.
+[00:06:02] Jennifer Liu: That's going to impact our project timelines. What's driving the increase?
+[00:08:05] Tom Wilson: Increased demand and shipping delays from overseas suppliers. We're working with suppliers to improve this, but realistically it'll be 10 weeks for the next 2-3 months.
+[00:10:45] Jennifer Liu: Let's talk pricing. What are we looking at per unit for the commercial HVAC systems?
+[00:13:02] Tom Wilson: Current pricing is $16,500 per unit. That's up from $15,000 last quarter, about 10% increase.
+[00:14:48] Jennifer Liu: That's a significant jump. Any opportunity for volume discounting if we commit to multiple units?
+[00:16:25] Tom Wilson: For 5 or more units, we can offer 7% off, bringing it down to $15,345 per unit. If you commit to 10 units, we can go to 12%.
+[00:18:16] Jennifer Liu: Let me run the numbers on a 10-unit commitment. What about payment terms?
+[00:20:00] Tom Wilson: Standard terms are 50% deposit, 50% on delivery. For volume commitments, we can be flexible on the deposit.
+[00:20:53] Jennifer Liu: I think we can work with that. Let me discuss the volume commitment with our project team and get back to you by end of week. The $15,345 pricing with 50% deposit, 50% on delivery terms works for us if we can lock it in.
+[00:23:14] Tom Wilson: Perfect. I'll prepare a formal quote based on our discussion today.
+
+---
+TAGS: hvac-pricing, vendor-contract, lead-times
+ACTION ITEMS:
+  - Prepare formal quote based on discussion [@Tom Wilson, due: 2025-09-26]
+  - Review volume commitment with project team [@Jennifer Liu, due: 2025-09-26]

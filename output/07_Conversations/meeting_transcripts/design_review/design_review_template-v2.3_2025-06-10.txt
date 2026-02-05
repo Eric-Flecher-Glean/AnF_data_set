@@ -1,0 +1,34 @@
+MEETING: Design Review
+DATE: 2025-06-10
+PARTICIPANTS:
+  - Carlos Martinez (Design Lead) - ANF Design
+  - David Park (VP Store Development) - ANF
+  - Angela Wu (Architect) - ANF Design
+DURATION: 00:17
+STORE/TOPIC: template-v2.3
+---
+
+[00:00:00] Carlos Martinez: Thanks everyone for joining today's design review. We're here to discuss template version v2.3 and the proposed updates.
+[00:01:12] David Park: Good. What are the key changes in this version?
+[00:01:57] Carlos Martinez: The main update is to the electrical panel specification. We're moving from 200A panels to 400A panels for all new builds.
+[00:02:44] Angela Wu: This change is driven by increased HVAC and lighting load requirements. We've seen undersized panels causing issues in 3 stores over the past last quarter.
+[00:03:28] David Park: What's the cost impact of this change?
+[00:05:17] Carlos Martinez: We're looking at approximately $5,000 additional cost per store. That's about 15% increase on electrical work.
+[00:06:02] David Park: That's significant across our portfolio. But if we're seeing failures with the current spec, it's better to spec it correctly upfront. What's the timeline for rolling this out?
+[00:06:59] Carlos Martinez: We propose making this effective 2026-03-07. All projects that haven't started construction yet would use the new spec.
+[00:08:35] Angela Wu: From a technical perspective, the 400A panels panel provides sufficient capacity for future electrical loads and equipment upgrades. It future-proofs our stores for any additional electrical loads.
+[00:09:14] David Park: Makes sense. Have we validated this against building codes in all our markets?
+[00:11:52] Angela Wu: Yes, the 400A panels meets or exceeds code requirements in all markets where we operate. Some jurisdictions are actually moving toward requiring this as minimum spec.
+[00:12:27] Carlos Martinez: We also recommend updating the cost model templates to reflect this change. The 15% increase should be built into baseline estimates going forward.
+[00:13:03] David Park: Agreed. Let's move forward with template version v2.3. Make sure the update gets communicated to all project teams and update our estimating tools. When can we expect the updated documentation?
+[00:15:07] Carlos Martinez: We'll have the updated template and communication out by 2026-02-12. I'll also schedule training sessions for the project teams.
+[00:17:19] David Park: Excellent. This is exactly the kind of proactive design improvement we need. Thanks team.
+
+---
+TAGS: template-update, design-standards
+ACTION ITEMS:
+  - Distribute updated template documentation [@Carlos Martinez, due: 2025-06-13]
+  - Schedule training sessions for project teams [@Carlos Martinez, due: 2025-06-13]
+REFERENCES:
+  - Template: base_template.json version v2.3
+  - Cost Model: Updated electrical panel specification

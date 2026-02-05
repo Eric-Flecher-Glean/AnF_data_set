@@ -1,0 +1,48 @@
+meeting_type: lessons_learned
+duration_minutes: 75-90
+
+dialogue_scenarios:
+  - speaker_role: Project Manager
+    text: "Thanks everyone for joining. Let's review {store_id}'s performance. We completed this project {days_since_completion} days ago, so the data is fresh."
+
+  - speaker_role: VP Store Development
+    text: "Good timing. What are the key variances we need to understand?"
+
+  - speaker_role: Finance Analyst
+    text: "Looking at the financials, we came in ${variance:,} {direction} budget on electrical. We estimated ${electrical_estimated:,} but actual was ${electrical_actual:,}."
+
+  - speaker_role: Project Manager
+    text: "What drove that variance?"
+
+  - speaker_role: General Contractor
+    text: "We used {backup_vendor} instead of our usual contractor. They had {variance_pct:.0f}% {direction} pricing but quality was excellent."
+
+  - speaker_role: VP Store Development
+    text: "Is this a one-time variance or should we consider {backup_vendor} for our primary vendor rotation?"
+
+  - speaker_role: Project Manager
+    text: "Based on this project, I'd recommend adding them to our preferred vendor list. The {variance_pct:.0f}% cost savings could be significant across our portfolio."
+
+  - speaker_role: Finance Analyst
+    text: "From a budget perspective, {learning_financial}."
+
+  - speaker_role: General Contractor
+    text: "Operationally, {learning_operational}."
+
+  - speaker_role: Project Manager
+    text: "I'll make sure these learnings get added to our knowledge base and shared with the broader team."
+
+  - speaker_role: VP Store Development
+    text: "Excellent work team. Let's apply these insights to our upcoming projects in the Columbus and Cincinnati markets."
+
+context_requirements:
+  store_id: required
+  days_since_completion: required
+  electrical_estimated: required
+  electrical_actual: required
+  variance: required
+  variance_pct: required
+  direction: required  # "under" or "over"
+  backup_vendor: required
+  learning_financial: required
+  learning_operational: required

@@ -1,0 +1,61 @@
+{
+  "vendors": [
+    {
+      "canonical_name": "BuildRight Construction",
+      "category": "General Contractor",
+      "specialties": ["store-builds", "remodels", "commercial-construction"],
+      "markets_served": ["Columbus", "Cincinnati", "Cleveland"],
+      "typical_lead_time_weeks": 2
+    },
+    {
+      "canonical_name": "CoolAir Systems",
+      "category": "HVAC",
+      "specialties": ["commercial-units", "installation", "service"],
+      "markets_served": ["Columbus", "Cincinnati", "Cleveland", "Dayton"],
+      "typical_lead_time_weeks": 8
+    },
+    {
+      "canonical_name": "TempMaster",
+      "category": "HVAC",
+      "specialties": ["commercial-units", "installation"],
+      "markets_served": ["Columbus", "Cincinnati"],
+      "typical_lead_time_weeks": 6,
+      "notes": "Backup vendor, 15% premium but faster delivery"
+    },
+    {
+      "canonical_name": "PowerTech Solutions",
+      "category": "Electrical",
+      "specialties": ["panel-upgrades", "commercial-wiring", "permits"],
+      "markets_served": ["Columbus", "Cincinnati", "Cleveland"],
+      "typical_lead_time_weeks": 3
+    },
+    {
+      "canonical_name": "Bright Electric",
+      "category": "Electrical",
+      "specialties": ["commercial-wiring", "panel-installation"],
+      "markets_served": ["Columbus"],
+      "typical_lead_time_weeks": 4
+    },
+    {
+      "canonical_name": "Midwest Lighting Co",
+      "category": "Lighting",
+      "specialties": ["commercial-fixtures", "LED-installation"],
+      "markets_served": ["Columbus", "Cincinnati", "Indianapolis"],
+      "typical_lead_time_weeks": 6
+    },
+    {
+      "canonical_name": "Premier Interiors",
+      "category": "Interior",
+      "specialties": ["fixtures", "millwork", "flooring"],
+      "markets_served": ["Columbus", "Cincinnati", "Cleveland"],
+      "typical_lead_time_weeks": 10
+    },
+    {
+      "canonical_name": "Urban Build Supply",
+      "category": "Materials",
+      "specialties": ["general-materials", "lumber", "drywall"],
+      "markets_served": ["Columbus", "Cincinnati"],
+      "typical_lead_time_weeks": 2
+    }
+  ]
+}

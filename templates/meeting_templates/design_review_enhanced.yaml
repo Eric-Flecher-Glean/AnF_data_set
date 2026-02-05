@@ -1,0 +1,60 @@
+meeting_type: design_review
+duration_minutes: 60-90
+
+dialogue_scenarios:
+  - speaker_role: Design Lead
+    text: "Thanks everyone for joining today's design review. We're here to discuss template version {template_version} and the proposed updates."
+
+  - speaker_role: VP Store Development
+    text: "Good. What are the key changes in this version?"
+
+  - speaker_role: Design Lead
+    text: "The main update is to the electrical panel specification. We're moving from {old_spec} to {new_spec} for all new builds."
+
+  - speaker_role: Architect
+    text: "This change is driven by increased HVAC and lighting load requirements. We've seen undersized panels causing issues in {problem_count} stores over the past {time_period}."
+
+  - speaker_role: VP Store Development
+    text: "What's the cost impact of this change?"
+
+  - speaker_role: Design Lead
+    text: "We're looking at approximately ${cost_increase:,} additional cost per store. That's about {cost_increase_pct}% increase on electrical work."
+
+  - speaker_role: VP Store Development
+    text: "That's significant across our portfolio. But if we're seeing failures with the current spec, it's better to spec it correctly upfront. What's the timeline for rolling this out?"
+
+  - speaker_role: Design Lead
+    text: "We propose making this effective {effective_date}. All projects that haven't started construction yet would use the new spec."
+
+  - speaker_role: Architect
+    text: "From a technical perspective, the {new_spec} panel provides {technical_benefit}. It future-proofs our stores for any additional electrical loads."
+
+  - speaker_role: VP Store Development
+    text: "Makes sense. Have we validated this against building codes in all our markets?"
+
+  - speaker_role: Architect
+    text: "Yes, the {new_spec} meets or exceeds code requirements in all markets where we operate. Some jurisdictions are actually moving toward requiring this as minimum spec."
+
+  - speaker_role: Design Lead
+    text: "We also recommend updating the cost model templates to reflect this change. The {cost_increase_pct}% increase should be built into baseline estimates going forward."
+
+  - speaker_role: VP Store Development
+    text: "Agreed. Let's move forward with template version {template_version}. Make sure the update gets communicated to all project teams and update our estimating tools. When can we expect the updated documentation?"
+
+  - speaker_role: Design Lead
+    text: "We'll have the updated template and communication out by {communication_date}. I'll also schedule training sessions for the project teams."
+
+  - speaker_role: VP Store Development
+    text: "Excellent. This is exactly the kind of proactive design improvement we need. Thanks team."
+
+context_requirements:
+  template_version: required  # e.g., "v2.3"
+  old_spec: required  # e.g., "200A panels"
+  new_spec: required  # e.g., "400A panels"
+  problem_count: required  # Number of stores with issues
+  time_period: required  # e.g., "last quarter"
+  cost_increase: required  # Dollar amount per store
+  cost_increase_pct: required  # Percentage increase
+  effective_date: required  # When it takes effect
+  technical_benefit: required  # Why it's better
+  communication_date: required  # When docs will be ready

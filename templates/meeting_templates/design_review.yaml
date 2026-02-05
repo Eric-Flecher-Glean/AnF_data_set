@@ -1,0 +1,39 @@
+meeting_type: design_review
+duration_minutes: 60-90
+required_participants:
+  - role: Design Lead
+  - role: Architect
+  - role: VP Store Development
+
+dialogue_flow:
+  - section: opening
+    topics:
+      - agenda_review
+      - template_version_review
+    estimated_duration_minutes: 5
+
+  - section: template_changes
+    topics:
+      - proposed_updates
+      - rationale
+      - impact_analysis
+    estimated_duration_minutes: 25
+
+  - section: standards_discussion
+    topics:
+      - design_standards
+      - quality_requirements
+      - compliance_issues
+    estimated_duration_minutes: 20
+
+  - section: approval
+    topics:
+      - decision_making
+      - implementation_plan
+      - rollout_timeline
+    estimated_duration_minutes: 15
+
+injection_points:
+  - type: template_update
+    template: "Template v{version} updates {section} from {old_value} to {new_value}"
+    required_context: [version, section, old_value, new_value]

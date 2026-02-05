@@ -1,0 +1,44 @@
+meeting_type: lessons_learned
+duration_minutes: 75-90
+required_participants:
+  - role: Project Manager
+  - role: General Contractor
+  - role: VP Store Development
+  - role: Finance Analyst
+
+dialogue_flow:
+  - section: opening
+    topics:
+      - project_overview
+      - timeline_review
+    estimated_duration_minutes: 10
+
+  - section: cost_variances
+    topics:
+      - budget_vs_actual
+      - variance_analysis
+      - root_causes
+    estimated_duration_minutes: 25
+
+  - section: timeline_review
+    topics:
+      - schedule_performance
+      - delays_and_causes
+      - critical_path_issues
+    estimated_duration_minutes: 15
+
+  - section: key_learnings
+    topics:
+      - what_went_well
+      - what_could_improve
+      - recommendations
+    estimated_duration_minutes: 20
+
+injection_points:
+  - type: cost_variance
+    template: "We estimated ${estimated:,} but actual came in at ${actual:,}"
+    required_context: [estimated, actual]
+
+  - type: lesson
+    template: "Key learning: {lesson_description}"
+    required_context: [lesson_description]

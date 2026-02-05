@@ -1,0 +1,79 @@
+meeting_type: site_visit_debrief
+duration_minutes: 60-90
+required_participants:
+  - role: Project Manager
+  - role: General Contractor
+  - role: Store Manager
+    optional: true
+
+dialogue_flow:
+  - section: opening
+    topics:
+      - agenda_review
+      - site_visit_recap
+    estimated_duration_minutes: 5
+
+  - section: findings
+    topics:
+      - structural_observations
+      - electrical_findings
+      - hvac_assessment
+      - constraint_discoveries
+    estimated_duration_minutes: 20
+
+  - section: cost_discussion
+    topics:
+      - cost_estimates
+      - historical_comparisons
+      - regional_modifiers
+      - variance_drivers
+    estimated_duration_minutes: 15
+
+  - section: constraints
+    topics:
+      - landlord_restrictions
+      - permit_requirements
+      - union_requirements
+      - supply_chain_constraints
+    estimated_duration_minutes: 10
+
+  - section: action_items
+    topics:
+      - estimate_updates
+      - constraint_documentation
+      - vendor_outreach
+      - scheduling_coordination
+    estimated_duration_minutes: 10
+
+injection_points:
+  - type: historical_cost_reference
+    template: "Based on {historical_store}, we saw ${historical_cost:,} for {category}"
+    required_context: [historical_store, historical_cost, category]
+
+  - type: constraint_discovery
+    template: "The landlord requires {constraint_detail}"
+    required_context: [constraint_detail]
+
+  - type: regional_modifier
+    template: "{market} shows {modifier}x for {category} due to {reason}"
+    required_context: [market, modifier, category, reason]
+
+  - type: cost_breakdown
+    template: "We're looking at ${labor:,} for labor, ${materials:,} for materials, and ${permits:,} for permits and inspections"
+    required_context: [labor, materials, permits]
+
+variations:
+  - name: standard
+    tone: collaborative
+    cost_variance: low
+    constraint_count: 1-2
+
+  - name: high_cost
+    tone: concerned
+    cost_variance: high
+    constraint_count: 2-3
+
+  - name: smooth
+    tone: positive
+    cost_variance: none
+    constraint_count: 0-1

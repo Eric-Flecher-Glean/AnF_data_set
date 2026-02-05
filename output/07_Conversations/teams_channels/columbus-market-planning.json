@@ -1,0 +1,4375 @@
+{
+  "channel": "columbus-market-planning",
+  "threads": [
+    {
+      "thread_id": "cmp_20251211_770",
+      "date": "2025-12-11",
+      "participants": [
+        {
+          "name": "Sarah Chen",
+          "role": "Project Manager",
+          "team": "ANF Store Development"
+        },
+        {
+          "name": "Tom Wilson",
+          "role": "General Contractor",
+          "team": "BuildRight Construction"
+        },
+        {
+          "name": "Jennifer Liu",
+          "role": "Procurement Manager",
+          "team": "ANF"
+        }
+      ],
+      "messages": [
+        {
+          "timestamp": "2025-12-11 09:00:00",
+          "author": "Sarah Chen",
+          "role": "Project Manager",
+          "text": "FYI - Store #Store-191 came in $15K under budget on electrical work. Worth understanding what drove that variance.",
+          "reactions": [
+            {
+              "emoji": "\ud83d\ude2c",
+              "count": 2
+            },
+            {
+              "emoji": "\u2705",
+              "count": 3
+            },
+            {
+              "emoji": "\ud83d\ude4f",
+              "count": 3
+            },
+            {
+              "emoji": "\ud83d\ude2c",
+              "count": 3
+            },
+            {
+              "emoji": "\ud83d\udc4d",
+              "count": 3
+            }
+          ],
+          "tags": [
+            "cost",
+            "Store-191"
+          ]
+        },
+        {
+          "timestamp": "2025-12-11 09:40:00",
+          "author": "Tom Wilson",
+          "role": "General Contractor",
+          "text": "We used the backup vendor TempMaster who had better pricing than our usual contractor. Quality was good, no issues.",
+          "reactions": [],
+          "tags": [
+            "Store-191"
+          ]
+        },
+        {
+          "timestamp": "2025-12-11 11:40:00",
+          "author": "Jennifer Liu",
+          "role": "Procurement Manager",
+          "text": "Interesting. Is TempMaster someone we should add to our primary vendor rotation?",
+          "reactions": [
+            {
+              "emoji": "\ud83d\udca1",
+              "count": 1
+            },
+            {
+              "emoji": "\ud83d\ude4f",
+              "count": 2
+            }
+          ],
+          "tags": [
+            "Store-191"
+          ]
+        },
+        {
+          "timestamp": "2025-12-11 14:11:00",
+          "author": "Sarah Chen",
+          "role": "Project Manager",
+          "text": "I'd recommend it. They were responsive, delivered on time, and pricing was 12% lower than our standard rate.",
+          "reactions": [
+            {
+              "emoji": "\ud83d\udc4d",
+              "count": 4
+            }
+          ],
+          "tags": [
+            "Store-191"
+          ]
+        },
+        {
+          "timestamp": "2025-12-11 16:44:00",
+          "author": "Tom Wilson",
+          "role": "General Contractor",
+          "text": "Let me reach out to them about establishing a preferred vendor relationship. Could generate savings across our portfolio.",
+          "reactions": [
+            {
+              "emoji": "\ud83d\ude2c",
+              "count": 2
+            },
+            {
+              "emoji": "\ud83d\ude4f",
+              "count": 1
+            }
+          ],
+          "tags": [
+            "Store-191"
+          ]
+        }
+      ],
+      "summary": "Discussed cost variance on completed store. Identified backup vendor with better pricing for potential preferred vendor status.",
+      "action_items": [
+        {
+          "description": "Let me reach out to them about establishing a preferred vendor relationship. Could generate savings ",
+          "owner": "Tom Wilson",
+          "due_date": null,
+          "status": "open"
+        }
+      ],
+      "references": {
+        "stores": [
+          "Store-191"
+        ],
+        "vendors": [],
+        "meetings": [],
+        "structured_data": [
+          {
+            "source": "03_Historical_Projects",
+            "file": "historical_projects.csv",
+            "field": "Store-191"
+          }
+        ]
+      }
+    },
+    {
+      "thread_id": "cmp_20260109_095",
+      "date": "2026-01-09",
+      "participants": [
+        {
+          "name": "Sarah Chen",
+          "role": "Project Manager",
+          "team": "ANF Store Development"
+        },
+        {
+          "name": "Tom Wilson",
+          "role": "General Contractor",
+          "team": "BuildRight Construction"
+        },
+        {
+          "name": "Jennifer Liu",
+          "role": "Procurement Manager",
+          "team": "ANF"
+        }
+      ],
+      "messages": [
+        {
+          "timestamp": "2026-01-09 09:00:00",
+          "author": "Sarah Chen",
+          "role": "Project Manager",
+          "text": "FYI - Store #Store-189 came in $15K under budget on electrical work. Worth understanding what drove that variance.",
+          "reactions": [
+            {
+              "emoji": "\ud83d\ude2c",
+              "count": 4
+            },
+            {
+              "emoji": "\ud83d\udc4d",
+              "count": 1
+            },
+            {
+              "emoji": "\ud83d\ude2c",
+              "count": 4
+            },
+            {
+              "emoji": "\ud83d\udca1",
+              "count": 3
+            }
+          ],
+          "tags": [
+            "cost",
+            "Store-189"
+          ]
+        },
+        {
+          "timestamp": "2026-01-09 11:07:00",
+          "author": "Tom Wilson",
+          "role": "General Contractor",
+          "text": "We used the backup vendor TempMaster who had better pricing than our usual contractor. Quality was good, no issues.",
+          "reactions": [],
+          "tags": [
+            "Store-189"
+          ]
+        },
+        {
+          "timestamp": "2026-01-09 11:29:00",
+          "author": "Jennifer Liu",
+          "role": "Procurement Manager",
+          "text": "Interesting. Is TempMaster someone we should add to our primary vendor rotation?",
+          "reactions": [],
+          "tags": [
+            "Store-189"
+          ]
+        },
+        {
+          "timestamp": "2026-01-09 13:25:00",
+          "author": "Sarah Chen",
+          "role": "Project Manager",
+          "text": "I'd recommend it. They were responsive, delivered on time, and pricing was 12% lower than our standard rate.",
+          "reactions": [
+            {
+              "emoji": "\ud83d\ude2c",
+              "count": 4
+            },
+            {
+              "emoji": "\ud83d\ude2c",
+              "count": 1
+            },
+            {
+              "emoji": "\ud83d\udca1",
+              "count": 3
+            },
+            {
+              "emoji": "\ud83d\udca1",
+              "count": 1
+            },
+            {
+              "emoji": "\ud83d\udca1",
+              "count": 1
+            }
+          ],
+          "tags": [
+            "Store-189"
+          ]
+        }
+      ],
+      "summary": "Discussed cost variance on completed store. Identified backup vendor with better pricing for potential preferred vendor status.",
+      "action_items": [],
+      "references": {
+        "stores": [
+          "Store-189"
+        ],
+        "vendors": [],
+        "meetings": [],
+        "structured_data": [
+          {
+            "source": "03_Historical_Projects",
+            "file": "historical_projects.csv",
+            "field": "Store-189"
+          }
+        ]
+      }
+    },
+    {
+      "thread_id": "cmp_20251212_282",
+      "date": "2025-12-12",
+      "participants": [
+        {
+          "name": "Sarah Chen",
+          "role": "Project Manager",
+          "team": "ANF Store Development"
+        },
+        {
+          "name": "Tom Wilson",
+          "role": "General Contractor",
+          "team": "BuildRight Construction"
+        },
+        {
+          "name": "Jennifer Liu",
+          "role": "Procurement Manager",
+          "team": "ANF"
+        }
+      ],
+      "messages": [
+        {
+          "timestamp": "2025-12-12 09:00:00",
+          "author": "Sarah Chen",
+          "role": "Project Manager",
+          "text": "FYI - Store #Store-190 came in $15K under budget on electrical work. Worth understanding what drove that variance.",
+          "reactions": [
+            {
+              "emoji": "\ud83d\udc4d",
+              "count": 1
+            },
+            {
+              "emoji": "\ud83d\udca1",
+              "count": 2
+            },
+            {
+              "emoji": "\ud83d\udc4d",
+              "count": 2
+            },
+            {
+              "emoji": "\ud83d\udc4f",
+              "count": 1
+            }
+          ],
+          "tags": [
+            "cost",
+            "Store-190"
+          ]
+        },
+        {
+          "timestamp": "2025-12-12 10:11:00",
+          "author": "Tom Wilson",
+          "role": "General Contractor",
+          "text": "We used the backup vendor TempMaster who had better pricing than our usual contractor. Quality was good, no issues.",
+          "reactions": [],
+          "tags": [
+            "Store-190"
+          ]
+        },
+        {
+          "timestamp": "2025-12-12 12:47:00",
+          "author": "Jennifer Liu",
+          "role": "Procurement Manager",
+          "text": "Interesting. Is TempMaster someone we should add to our primary vendor rotation?",
+          "reactions": [],
+          "tags": [
+            "Store-190"
+          ]
+        },
+        {
+          "timestamp": "2025-12-12 14:17:00",
+          "author": "Sarah Chen",
+          "role": "Project Manager",
+          "text": "I'd recommend it. They were responsive, delivered on time, and pricing was 12% lower than our standard rate.",
+          "reactions": [],
+          "tags": [
+            "Store-190"
+          ]
+        },
+        {
+          "timestamp": "2025-12-12 16:38:00",
+          "author": "Tom Wilson",
+          "role": "General Contractor",
+          "text": "Let me reach out to them about establishing a preferred vendor relationship. Could generate savings across our portfolio.",
+          "reactions": [
+            {
+              "emoji": "\ud83d\ude2c",
+              "count": 2
+            },
+            {
+              "emoji": "\ud83d\udca1",
+              "count": 2
+            },
+            {
+              "emoji": "\ud83d\udca1",
+              "count": 3
+            }
+          ],
+          "tags": [
+            "Store-190"
+          ]
+        }
+      ],
+      "summary": "Discussed cost variance on completed store. Identified backup vendor with better pricing for potential preferred vendor status.",
+      "action_items": [
+        {
+          "description": "Let me reach out to them about establishing a preferred vendor relationship. Could generate savings ",
+          "owner": "Tom Wilson",
+          "due_date": null,
+          "status": "open"
+        }
+      ],
+      "references": {
+        "stores": [
+          "Store-190"
+        ],
+        "vendors": [],
+        "meetings": [],
+        "structured_data": [
+          {
+            "source": "03_Historical_Projects",
+            "file": "historical_projects.csv",
+            "field": "Store-190"
+          }
+        ]
+      }
+    },
+    {
+      "thread_id": "cmp_20251104_900",
+      "date": "2025-11-04",
+      "participants": [
+        {
+          "name": "Sarah Chen",
+          "role": "Project Manager",
+          "team": "ANF Store Development"
+        },
+        {
+          "name": "Tom Wilson",
+          "role": "General Contractor",
+          "team": "BuildRight Construction"
+        },
+        {
+          "name": "Jennifer Liu",
+          "role": "Procurement Manager",
+          "team": "ANF"
+        },
+        {
+          "name": "Mike Rodriguez",
+          "role": "Store Manager",
+          "team": "ANF Store #217"
+        }
+      ],
+      "messages": [
+        {
+          "timestamp": "2025-11-04 09:00:00",
+          "author": "Sarah Chen",
+          "role": "Project Manager",
+          "text": "Update on Store-230.",
+          "reactions": [
+            {
+              "emoji": "\ud83d\ude4f",
+              "count": 3
+            },
+            {
+              "emoji": "\ud83d\ude4f",
+              "count": 2
+            },
+            {
+              "emoji": "\ud83d\udc4f",
+              "count": 3
+            }
+          ],
+          "tags": [
+            "Store-230"
+          ]
+        },
+        {
+          "timestamp": "2025-11-04 10:23:00",
+          "author": "Tom Wilson",
+          "role": "General Contractor",
+          "text": "Thanks for the info.",
+          "reactions": [
+            {
+              "emoji": "\ud83d\udc4f",
+              "count": 2
+            }
+          ],
+          "tags": [
+            "Store-230"
+          ]
+        },
+        {
+          "timestamp": "2025-11-04 12:01:00",
+          "author": "Jennifer Liu",
+          "role": "Procurement Manager",
+          "text": "Let me follow up on that.",
+          "reactions": [],
+          "tags": [
+            "Store-230"
+          ]
+        }
+      ],
+      "summary": "Discussion with 3 messages.",
+      "action_items": [
+        {
+          "description": "Let me follow up on that.",
+          "owner": "Jennifer Liu",
+          "due_date": null,
+          "status": "open"
+        }
+      ],
+      "references": {
+        "stores": [
+          "Store-230"
+        ],
+        "vendors": [],
+        "meetings": [],
+        "structured_data": [
+          {
+            "source": "03_Historical_Projects",
+            "file": "historical_projects.csv",
+            "field": "Store-230"
+          }
+        ]
+      }
+    },
+    {
+      "thread_id": "cmp_20250910_300",
+      "date": "2025-09-10",
+      "participants": [
+        {
+          "name": "Sarah Chen",
+          "role": "Project Manager",
+          "team": "ANF Store Development"
+        },
+        {
+          "name": "Tom Wilson",
+          "role": "General Contractor",
+          "team": "BuildRight Construction"
+        },
+        {
+          "name": "Jennifer Liu",
+          "role": "Procurement Manager",
+          "team": "ANF"
+        },
+        {
+          "name": "Mike Rodriguez",
+          "role": "Store Manager",
+          "team": "ANF Store #217"
+        }
+      ],
+      "messages": [
+        {
+          "timestamp": "2025-09-10 09:00:00",
+          "author": "Sarah Chen",
+          "role": "Project Manager",
+          "text": "Update on Store-236.",
+          "reactions": [
+            {
+              "emoji": "\ud83d\ude2c",
+              "count": 3
+            },
+            {
+              "emoji": "\u2705",
+              "count": 3
+            },
+            {
+              "emoji": "\ud83d\udc4f",
+              "count": 2
+            },
+            {
+              "emoji": "\ud83d\udc4d",
+              "count": 2
+            },
+            {
+              "emoji": "\ud83d\ude4f",
+              "count": 1
+            }
+          ],
+          "tags": [
+            "Store-236"
+          ]
+        },
+        {
+          "timestamp": "2025-09-10 11:06:00",
+          "author": "Tom Wilson",
+          "role": "General Contractor",
+          "text": "Thanks for the info.",
+          "reactions": [
+            {
+              "emoji": "\ud83d\udc4f",
+              "count": 2
+            },
+            {
+              "emoji": "\u2705",
+              "count": 2
+            },
+            {
+              "emoji": "\ud83d\udca1",
+              "count": 1
+            }
+          ],
+          "tags": [
+            "Store-236"
+          ]
+        },
+        {
+          "timestamp": "2025-09-10 13:59:00",
+          "author": "Jennifer Liu",
+          "role": "Procurement Manager",
+          "text": "Let me follow up on that.",
+          "reactions": [
+            {
+              "emoji": "\ud83d\ude2c",
+              "count": 3
+            },
+            {
+              "emoji": "\ud83d\udc4f",
+              "count": 4
+            },
+            {
+              "emoji": "\ud83d\udc4d",
+              "count": 4
+            },
+            {
+              "emoji": "\ud83d\ude2c",
+              "count": 2
+            },
+            {
+              "emoji": "\ud83d\ude2c",
+              "count": 4
+            }
+          ],
+          "tags": [
+            "Store-236"
+          ]
+        }
+      ],
+      "summary": "Discussion with 3 messages.",
+      "action_items": [
+        {
+          "description": "Let me follow up on that.",
+          "owner": "Jennifer Liu",
+          "due_date": null,
+          "status": "open"
+        }
+      ],
+      "references": {
+        "stores": [
+          "Store-236"
+        ],
+        "vendors": [],
+        "meetings": [],
+        "structured_data": [
+          {
+            "source": "03_Historical_Projects",
+            "file": "historical_projects.csv",
+            "field": "Store-236"
+          }
+        ]
+      }
+    },
+    {
+      "thread_id": "cmp_20251106_504",
+      "date": "2025-11-06",
+      "participants": [
+        {
+          "name": "Sarah Chen",
+          "role": "Project Manager",
+          "team": "ANF Store Development"
+        },
+        {
+          "name": "Tom Wilson",
+          "role": "General Contractor",
+          "team": "BuildRight Construction"
+        },
+        {
+          "name": "Jennifer Liu",
+          "role": "Procurement Manager",
+          "team": "ANF"
+        },
+        {
+          "name": "Mike Rodriguez",
+          "role": "Store Manager",
+          "team": "ANF Store #217"
+        }
+      ],
+      "messages": [
+        {
+          "timestamp": "2025-11-06 09:00:00",
+          "author": "Sarah Chen",
+          "role": "Project Manager",
+          "text": "Update on Store-235.",
+          "reactions": [
+            {
+              "emoji": "\ud83d\ude2c",
+              "count": 3
+            },
+            {
+              "emoji": "\u2705",
+              "count": 2
+            },
+            {
+              "emoji": "\ud83d\udc4d",
+              "count": 1
+            }
+          ],
+          "tags": [
+            "Store-235"
+          ]
+        },
+        {
+          "timestamp": "2025-11-06 10:06:00",
+          "author": "Tom Wilson",
+          "role": "General Contractor",
+          "text": "Thanks for the info.",
+          "reactions": [
+            {
+              "emoji": "\ud83d\ude4f",
+              "count": 3
+            },
+            {
+              "emoji": "\ud83d\ude4f",
+              "count": 4
+            }
+          ],
+          "tags": [
+            "Store-235"
+          ]
+        },
+        {
+          "timestamp": "2025-11-06 12:00:00",
+          "author": "Jennifer Liu",
+          "role": "Procurement Manager",
+          "text": "Let me follow up on that.",
+          "reactions": [
+            {
+              "emoji": "\ud83d\ude2c",
+              "count": 1
+            },
+            {
+              "emoji": "\ud83d\udca1",
+              "count": 4
+            },
+            {
+              "emoji": "\ud83d\udc4f",
+              "count": 2
+            }
+          ],
+          "tags": [
+            "Store-235"
+          ]
+        }
+      ],
+      "summary": "Discussion with 3 messages.",
+      "action_items": [
+        {
+          "description": "Let me follow up on that.",
+          "owner": "Jennifer Liu",
+          "due_date": null,
+          "status": "open"
+        }
+      ],
+      "references": {
+        "stores": [
+          "Store-235"
+        ],
+        "vendors": [],
+        "meetings": [],
+        "structured_data": [
+          {
+            "source": "03_Historical_Projects",
+            "file": "historical_projects.csv",
+            "field": "Store-235"
+          }
+        ]
+      }
+    },
+    {
+      "thread_id": "cmp_20260107_281",
+      "date": "2026-01-07",
+      "participants": [
+        {
+          "name": "Sarah Chen",
+          "role": "Project Manager",
+          "team": "ANF Store Development"
+        },
+        {
+          "name": "Tom Wilson",
+          "role": "General Contractor",
+          "team": "BuildRight Construction"
+        },
+        {
+          "name": "Jennifer Liu",
+          "role": "Procurement Manager",
+          "team": "ANF"
+        },
+        {
+          "name": "Mike Rodriguez",
+          "role": "Store Manager",
+          "team": "ANF Store #217"
+        }
+      ],
+      "messages": [
+        {
+          "timestamp": "2026-01-07 09:00:00",
+          "author": "Sarah Chen",
+          "role": "Project Manager",
+          "text": "Update on Store-234.",
+          "reactions": [
+            {
+              "emoji": "\ud83d\ude2c",
+              "count": 3
+            },
+            {
+              "emoji": "\u2705",
+              "count": 3
+            },
+            {
+              "emoji": "\ud83d\udc4f",
+              "count": 1
+            }
+          ],
+          "tags": [
+            "Store-234"
+          ]
+        },
+        {
+          "timestamp": "2026-01-07 09:33:00",
+          "author": "Tom Wilson",
+          "role": "General Contractor",
+          "text": "Thanks for the info.",
+          "reactions": [
+            {
+              "emoji": "\ud83d\udc4f",
+              "count": 2
+            },
+            {
+              "emoji": "\u2705",
+              "count": 3
+            }
+          ],
+          "tags": [
+            "Store-234"
+          ]
+        },
+        {
+          "timestamp": "2026-01-07 10:37:00",
+          "author": "Jennifer Liu",
+          "role": "Procurement Manager",
+          "text": "Let me follow up on that.",
+          "reactions": [
+            {
+              "emoji": "\ud83d\ude4f",
+              "count": 1
+            },
+            {
+              "emoji": "\u2705",
+              "count": 2
+            },
+            {
+              "emoji": "\ud83d\ude2c",
+              "count": 3
+            }
+          ],
+          "tags": [
+            "Store-234"
+          ]
+        }
+      ],
+      "summary": "Discussion with 3 messages.",
+      "action_items": [
+        {
+          "description": "Let me follow up on that.",
+          "owner": "Jennifer Liu",
+          "due_date": null,
+          "status": "open"
+        }
+      ],
+      "references": {
+        "stores": [
+          "Store-234"
+        ],
+        "vendors": [],
+        "meetings": [],
+        "structured_data": [
+          {
+            "source": "03_Historical_Projects",
+            "file": "historical_projects.csv",
+            "field": "Store-234"
+          }
+        ]
+      }
+    },
+    {
+      "thread_id": "cmp_20250929_760",
+      "date": "2025-09-29",
+      "participants": [
+        {
+          "name": "Sarah Chen",
+          "role": "Project Manager",
+          "team": "ANF Store Development"
+        },
+        {
+          "name": "Tom Wilson",
+          "role": "General Contractor",
+          "team": "BuildRight Construction"
+        },
+        {
+          "name": "Jennifer Liu",
+          "role": "Procurement Manager",
+          "team": "ANF"
+        },
+        {
+          "name": "Mike Rodriguez",
+          "role": "Store Manager",
+          "team": "ANF Store #217"
+        }
+      ],
+      "messages": [
+        {
+          "timestamp": "2025-09-29 09:00:00",
+          "author": "Sarah Chen",
+          "role": "Project Manager",
+          "text": "Update on Store-247.",
+          "reactions": [
+            {
+              "emoji": "\ud83d\ude4f",
+              "count": 4
+            },
+            {
+              "emoji": "\ud83d\udc4d",
+              "count": 1
+            },
+            {
+              "emoji": "\ud83d\ude2c",
+              "count": 4
+            },
+            {
+              "emoji": "\u2705",
+              "count": 4
+            },
+            {
+              "emoji": "\ud83d\ude2c",
+              "count": 3
+            }
+          ],
+          "tags": [
+            "Store-247"
+          ]
+        },
+        {
+          "timestamp": "2025-09-29 11:22:00",
+          "author": "Tom Wilson",
+          "role": "General Contractor",
+          "text": "Thanks for the info.",
+          "reactions": [
+            {
+              "emoji": "\ud83d\ude4f",
+              "count": 3
+            },
+            {
+              "emoji": "\u2705",
+              "count": 1
+            },
+            {
+              "emoji": "\ud83d\ude4f",
+              "count": 2
+            }
+          ],
+          "tags": [
+            "Store-247"
+          ]
+        },
+        {
+          "timestamp": "2025-09-29 13:39:00",
+          "author": "Jennifer Liu",
+          "role": "Procurement Manager",
+          "text": "Let me follow up on that.",
+          "reactions": [
+            {
+              "emoji": "\u2705",
+              "count": 3
+            },
+            {
+              "emoji": "\ud83d\ude2c",
+              "count": 4
+            },
+            {
+              "emoji": "\ud83d\udc4f",
+              "count": 2
+            },
+            {
+              "emoji": "\u2705",
+              "count": 1
+            }
+          ],
+          "tags": [
+            "Store-247"
+          ]
+        }
+      ],
+      "summary": "Discussion with 3 messages.",
+      "action_items": [
+        {
+          "description": "Let me follow up on that.",
+          "owner": "Jennifer Liu",
+          "due_date": null,
+          "status": "open"
+        }
+      ],
+      "references": {
+        "stores": [
+          "Store-247"
+        ],
+        "vendors": [],
+        "meetings": [],
+        "structured_data": [
+          {
+            "source": "03_Historical_Projects",
+            "file": "historical_projects.csv",
+            "field": "Store-247"
+          }
+        ]
+      }
+    },
+    {
+      "thread_id": "cmp_20251121_964",
+      "date": "2025-11-21",
+      "participants": [
+        {
+          "name": "Sarah Chen",
+          "role": "Project Manager",
+          "team": "ANF Store Development"
+        },
+        {
+          "name": "Tom Wilson",
+          "role": "General Contractor",
+          "team": "BuildRight Construction"
+        },
+        {
+          "name": "Jennifer Liu",
+          "role": "Procurement Manager",
+          "team": "ANF"
+        },
+        {
+          "name": "Mike Rodriguez",
+          "role": "Store Manager",
+          "team": "ANF Store #217"
+        }
+      ],
+      "messages": [
+        {
+          "timestamp": "2025-11-21 09:00:00",
+          "author": "Sarah Chen",
+          "role": "Project Manager",
+          "text": "Update on Store-203.",
+          "reactions": [
+            {
+              "emoji": "\ud83d\udc4f",
+              "count": 3
+            },
+            {
+              "emoji": "\ud83d\udc4d",
+              "count": 1
+            },
+            {
+              "emoji": "\ud83d\ude4f",
+              "count": 4
+            },
+            {
+              "emoji": "\ud83d\ude4f",
+              "count": 1
+            }
+          ],
+          "tags": [
+            "Store-203"
+          ]
+        },
+        {
+          "timestamp": "2025-11-21 11:17:00",
+          "author": "Tom Wilson",
+          "role": "General Contractor",
+          "text": "Thanks for the info.",
+          "reactions": [
+            {
+              "emoji": "\ud83d\udca1",
+              "count": 2
+            },
+            {
+              "emoji": "\ud83d\udca1",
+              "count": 1
+            }
+          ],
+          "tags": [
+            "Store-203"
+          ]
+        },
+        {
+          "timestamp": "2025-11-21 12:22:00",
+          "author": "Jennifer Liu",
+          "role": "Procurement Manager",
+          "text": "Let me follow up on that.",
+          "reactions": [],
+          "tags": [
+            "Store-203"
+          ]
+        }
+      ],
+      "summary": "Discussion with 3 messages.",
+      "action_items": [
+        {
+          "description": "Let me follow up on that.",
+          "owner": "Jennifer Liu",
+          "due_date": null,
+          "status": "open"
+        }
+      ],
+      "references": {
+        "stores": [
+          "Store-203"
+        ],
+        "vendors": [],
+        "meetings": [],
+        "structured_data": [
+          {
+            "source": "03_Historical_Projects",
+            "file": "historical_projects.csv",
+            "field": "Store-203"
+          }
+        ]
+      }
+    },
+    {
+      "thread_id": "cmp_20251113_424",
+      "date": "2025-11-13",
+      "participants": [
+        {
+          "name": "Sarah Chen",
+          "role": "Project Manager",
+          "team": "ANF Store Development"
+        },
+        {
+          "name": "Tom Wilson",
+          "role": "General Contractor",
+          "team": "BuildRight Construction"
+        },
+        {
+          "name": "Jennifer Liu",
+          "role": "Procurement Manager",
+          "team": "ANF"
+        },
+        {
+          "name": "Mike Rodriguez",
+          "role": "Store Manager",
+          "team": "ANF Store #217"
+        }
+      ],
+      "messages": [
+        {
+          "timestamp": "2025-11-13 09:00:00",
+          "author": "Sarah Chen",
+          "role": "Project Manager",
+          "text": "Update on Store-233.",
+          "reactions": [
+            {
+              "emoji": "\u2705",
+              "count": 3
+            },
+            {
+              "emoji": "\ud83d\ude4f",
+              "count": 3
+            },
+            {
+              "emoji": "\ud83d\ude4f",
+              "count": 2
+            },
+            {
+              "emoji": "\ud83d\ude2c",
+              "count": 4
+            },
+            {
+              "emoji": "\u2705",
+              "count": 1
+            }
+          ],
+          "tags": [
+            "Store-233"
+          ]
+        },
+        {
+          "timestamp": "2025-11-13 11:16:00",
+          "author": "Tom Wilson",
+          "role": "General Contractor",
+          "text": "Thanks for the info.",
+          "reactions": [
+            {
+              "emoji": "\ud83d\ude2c",
+              "count": 2
+            },
+            {
+              "emoji": "\ud83d\udca1",
+              "count": 4
+            }
+          ],
+          "tags": [
+            "Store-233"
+          ]
+        },
+        {
+          "timestamp": "2025-11-13 11:51:00",
+          "author": "Jennifer Liu",
+          "role": "Procurement Manager",
+          "text": "Let me follow up on that.",
+          "reactions": [
+            {
+              "emoji": "\ud83d\udc4f",
+              "count": 4
+            },
+            {
+              "emoji": "\ud83d\ude2c",
+              "count": 3
+            }
+          ],
+          "tags": [
+            "Store-233"
+          ]
+        }
+      ],
+      "summary": "Discussion with 3 messages.",
+      "action_items": [
+        {
+          "description": "Let me follow up on that.",
+          "owner": "Jennifer Liu",
+          "due_date": null,
+          "status": "open"
+        }
+      ],
+      "references": {
+        "stores": [
+          "Store-233"
+        ],
+        "vendors": [],
+        "meetings": [],
+        "structured_data": [
+          {
+            "source": "03_Historical_Projects",
+            "file": "historical_projects.csv",
+            "field": "Store-233"
+          }
+        ]
+      }
+    },
+    {
+      "thread_id": "cmp_20251208_392",
+      "date": "2025-12-08",
+      "participants": [
+        {
+          "name": "Sarah Chen",
+          "role": "Project Manager",
+          "team": "ANF Store Development"
+        },
+        {
+          "name": "Tom Wilson",
+          "role": "General Contractor",
+          "team": "BuildRight Construction"
+        },
+        {
+          "name": "Jennifer Liu",
+          "role": "Procurement Manager",
+          "team": "ANF"
+        },
+        {
+          "name": "Mike Rodriguez",
+          "role": "Store Manager",
+          "team": "ANF Store #217"
+        }
+      ],
+      "messages": [
+        {
+          "timestamp": "2025-12-08 09:00:00",
+          "author": "Sarah Chen",
+          "role": "Project Manager",
+          "text": "Update on Store-244.",
+          "reactions": [
+            {
+              "emoji": "\u2705",
+              "count": 4
+            },
+            {
+              "emoji": "\ud83d\ude2c",
+              "count": 4
+            },
+            {
+              "emoji": "\ud83d\ude2c",
+              "count": 2
+            },
+            {
+              "emoji": "\ud83d\udc4f",
+              "count": 1
+            },
+            {
+              "emoji": "\u2705",
+              "count": 3
+            }
+          ],
+          "tags": [
+            "Store-244"
+          ]
+        },
+        {
+          "timestamp": "2025-12-08 10:42:00",
+          "author": "Tom Wilson",
+          "role": "General Contractor",
+          "text": "Thanks for the info.",
+          "reactions": [],
+          "tags": [
+            "Store-244"
+          ]
+        },
+        {
+          "timestamp": "2025-12-08 11:35:00",
+          "author": "Jennifer Liu",
+          "role": "Procurement Manager",
+          "text": "Let me follow up on that.",
+          "reactions": [
+            {
+              "emoji": "\ud83d\ude4f",
+              "count": 1
+            },
+            {
+              "emoji": "\ud83d\udc4d",
+              "count": 1
+            },
+            {
+              "emoji": "\ud83d\ude4f",
+              "count": 1
+            }
+          ],
+          "tags": [
+            "Store-244"
+          ]
+        }
+      ],
+      "summary": "Discussion with 3 messages.",
+      "action_items": [
+        {
+          "description": "Let me follow up on that.",
+          "owner": "Jennifer Liu",
+          "due_date": null,
+          "status": "open"
+        }
+      ],
+      "references": {
+        "stores": [
+          "Store-244"
+        ],
+        "vendors": [],
+        "meetings": [],
+        "structured_data": [
+          {
+            "source": "03_Historical_Projects",
+            "file": "historical_projects.csv",
+            "field": "Store-244"
+          }
+        ]
+      }
+    },
+    {
+      "thread_id": "cmp_20250918_308",
+      "date": "2025-09-18",
+      "participants": [
+        {
+          "name": "Sarah Chen",
+          "role": "Project Manager",
+          "team": "ANF Store Development"
+        },
+        {
+          "name": "Tom Wilson",
+          "role": "General Contractor",
+          "team": "BuildRight Construction"
+        },
+        {
+          "name": "Jennifer Liu",
+          "role": "Procurement Manager",
+          "team": "ANF"
+        },
+        {
+          "name": "Mike Rodriguez",
+          "role": "Store Manager",
+          "team": "ANF Store #217"
+        }
+      ],
+      "messages": [
+        {
+          "timestamp": "2025-09-18 09:00:00",
+          "author": "Sarah Chen",
+          "role": "Project Manager",
+          "text": "Update on Store-203.",
+          "reactions": [
+            {
+              "emoji": "\ud83d\ude2c",
+              "count": 3
+            },
+            {
+              "emoji": "\ud83d\ude4f",
+              "count": 3
+            },
+            {
+              "emoji": "\ud83d\ude4f",
+              "count": 1
+            },
+            {
+              "emoji": "\ud83d\udca1",
+              "count": 1
+            },
+            {
+              "emoji": "\ud83d\udc4f",
+              "count": 1
+            }
+          ],
+          "tags": [
+            "Store-203"
+          ]
+        },
+        {
+          "timestamp": "2025-09-18 10:11:00",
+          "author": "Tom Wilson",
+          "role": "General Contractor",
+          "text": "Thanks for the info.",
+          "reactions": [],
+          "tags": [
+            "Store-203"
+          ]
+        },
+        {
+          "timestamp": "2025-09-18 12:29:00",
+          "author": "Jennifer Liu",
+          "role": "Procurement Manager",
+          "text": "Let me follow up on that.",
+          "reactions": [
+            {
+              "emoji": "\ud83d\udc4f",
+              "count": 3
+            }
+          ],
+          "tags": [
+            "Store-203"
+          ]
+        }
+      ],
+      "summary": "Discussion with 3 messages.",
+      "action_items": [
+        {
+          "description": "Let me follow up on that.",
+          "owner": "Jennifer Liu",
+          "due_date": null,
+          "status": "open"
+        }
+      ],
+      "references": {
+        "stores": [
+          "Store-203"
+        ],
+        "vendors": [],
+        "meetings": [],
+        "structured_data": [
+          {
+            "source": "03_Historical_Projects",
+            "file": "historical_projects.csv",
+            "field": "Store-203"
+          }
+        ]
+      }
+    },
+    {
+      "thread_id": "cmp_20251123_178",
+      "date": "2025-11-23",
+      "participants": [
+        {
+          "name": "Sarah Chen",
+          "role": "Project Manager",
+          "team": "ANF Store Development"
+        },
+        {
+          "name": "Tom Wilson",
+          "role": "General Contractor",
+          "team": "BuildRight Construction"
+        },
+        {
+          "name": "Jennifer Liu",
+          "role": "Procurement Manager",
+          "team": "ANF"
+        },
+        {
+          "name": "Mike Rodriguez",
+          "role": "Store Manager",
+          "team": "ANF Store #217"
+        }
+      ],
+      "messages": [
+        {
+          "timestamp": "2025-11-23 09:00:00",
+          "author": "Sarah Chen",
+          "role": "Project Manager",
+          "text": "Update on Store-203.",
+          "reactions": [
+            {
+              "emoji": "\ud83d\udc4f",
+              "count": 2
+            },
+            {
+              "emoji": "\ud83d\udc4d",
+              "count": 4
+            },
+            {
+              "emoji": "\u2705",
+              "count": 3
+            }
+          ],
+          "tags": [
+            "Store-203"
+          ]
+        },
+        {
+          "timestamp": "2025-11-23 10:21:00",
+          "author": "Tom Wilson",
+          "role": "General Contractor",
+          "text": "Thanks for the info.",
+          "reactions": [
+            {
+              "emoji": "\ud83d\udc4f",
+              "count": 2
+            },
+            {
+              "emoji": "\ud83d\udc4f",
+              "count": 4
+            }
+          ],
+          "tags": [
+            "Store-203"
+          ]
+        },
+        {
+          "timestamp": "2025-11-23 12:53:00",
+          "author": "Jennifer Liu",
+          "role": "Procurement Manager",
+          "text": "Let me follow up on that.",
+          "reactions": [
+            {
+              "emoji": "\ud83d\udc4d",
+              "count": 1
+            },
+            {
+              "emoji": "\ud83d\udca1",
+              "count": 3
+            },
+            {
+              "emoji": "\ud83d\udca1",
+              "count": 1
+            }
+          ],
+          "tags": [
+            "Store-203"
+          ]
+        }
+      ],
+      "summary": "Discussion with 3 messages.",
+      "action_items": [
+        {
+          "description": "Let me follow up on that.",
+          "owner": "Jennifer Liu",
+          "due_date": null,
+          "status": "open"
+        }
+      ],
+      "references": {
+        "stores": [
+          "Store-203"
+        ],
+        "vendors": [],
+        "meetings": [],
+        "structured_data": [
+          {
+            "source": "03_Historical_Projects",
+            "file": "historical_projects.csv",
+            "field": "Store-203"
+          }
+        ]
+      }
+    },
+    {
+      "thread_id": "cmp_20251129_852",
+      "date": "2025-11-29",
+      "participants": [
+        {
+          "name": "Sarah Chen",
+          "role": "Project Manager",
+          "team": "ANF Store Development"
+        },
+        {
+          "name": "Tom Wilson",
+          "role": "General Contractor",
+          "team": "BuildRight Construction"
+        },
+        {
+          "name": "Jennifer Liu",
+          "role": "Procurement Manager",
+          "team": "ANF"
+        },
+        {
+          "name": "Mike Rodriguez",
+          "role": "Store Manager",
+          "team": "ANF Store #217"
+        }
+      ],
+      "messages": [
+        {
+          "timestamp": "2025-11-29 09:00:00",
+          "author": "Sarah Chen",
+          "role": "Project Manager",
+          "text": "Update on Store-250.",
+          "reactions": [
+            {
+              "emoji": "\ud83d\udc4f",
+              "count": 4
+            },
+            {
+              "emoji": "\ud83d\udc4f",
+              "count": 1
+            },
+            {
+              "emoji": "\ud83d\udca1",
+              "count": 3
+            },
+            {
+              "emoji": "\ud83d\udc4f",
+              "count": 4
+            },
+            {
+              "emoji": "\ud83d\ude4f",
+              "count": 3
+            }
+          ],
+          "tags": [
+            "Store-250"
+          ]
+        },
+        {
+          "timestamp": "2025-11-29 09:35:00",
+          "author": "Tom Wilson",
+          "role": "General Contractor",
+          "text": "Thanks for the info.",
+          "reactions": [],
+          "tags": [
+            "Store-250"
+          ]
+        },
+        {
+          "timestamp": "2025-11-29 12:19:00",
+          "author": "Jennifer Liu",
+          "role": "Procurement Manager",
+          "text": "Let me follow up on that.",
+          "reactions": [],
+          "tags": [
+            "Store-250"
+          ]
+        }
+      ],
+      "summary": "Discussion with 3 messages.",
+      "action_items": [
+        {
+          "description": "Let me follow up on that.",
+          "owner": "Jennifer Liu",
+          "due_date": null,
+          "status": "open"
+        }
+      ],
+      "references": {
+        "stores": [
+          "Store-250"
+        ],
+        "vendors": [],
+        "meetings": [],
+        "structured_data": [
+          {
+            "source": "03_Historical_Projects",
+            "file": "historical_projects.csv",
+            "field": "Store-250"
+          }
+        ]
+      }
+    },
+    {
+      "thread_id": "cmp_20250214_647",
+      "date": "2025-02-14",
+      "participants": [
+        {
+          "name": "Sarah Chen",
+          "role": "Project Manager",
+          "team": "ANF Store Development"
+        },
+        {
+          "name": "Tom Wilson",
+          "role": "General Contractor",
+          "team": "BuildRight Construction"
+        },
+        {
+          "name": "Jennifer Liu",
+          "role": "Procurement Manager",
+          "team": "ANF"
+        },
+        {
+          "name": "Mike Rodriguez",
+          "role": "Store Manager",
+          "team": "ANF Store #217"
+        }
+      ],
+      "messages": [
+        {
+          "timestamp": "2025-02-14 09:00:00",
+          "author": "Sarah Chen",
+          "role": "Project Manager",
+          "text": "Update on Store-159.",
+          "reactions": [
+            {
+              "emoji": "\ud83d\udc4f",
+              "count": 3
+            },
+            {
+              "emoji": "\ud83d\udc4f",
+              "count": 1
+            },
+            {
+              "emoji": "\ud83d\udc4f",
+              "count": 3
+            },
+            {
+              "emoji": "\ud83d\ude4f",
+              "count": 1
+            },
+            {
+              "emoji": "\u2705",
+              "count": 4
+            }
+          ],
+          "tags": [
+            "Store-159"
+          ]
+        },
+        {
+          "timestamp": "2025-02-14 10:34:00",
+          "author": "Tom Wilson",
+          "role": "General Contractor",
+          "text": "Thanks for the info.",
+          "reactions": [
+            {
+              "emoji": "\ud83d\udca1",
+              "count": 2
+            },
+            {
+              "emoji": "\ud83d\ude2c",
+              "count": 4
+            },
+            {
+              "emoji": "\ud83d\udca1",
+              "count": 2
+            }
+          ],
+          "tags": [
+            "Store-159"
+          ]
+        },
+        {
+          "timestamp": "2025-02-14 12:50:00",
+          "author": "Jennifer Liu",
+          "role": "Procurement Manager",
+          "text": "Let me follow up on that.",
+          "reactions": [
+            {
+              "emoji": "\ud83d\ude2c",
+              "count": 3
+            }
+          ],
+          "tags": [
+            "Store-159"
+          ]
+        }
+      ],
+      "summary": "Discussion with 3 messages.",
+      "action_items": [
+        {
+          "description": "Let me follow up on that.",
+          "owner": "Jennifer Liu",
+          "due_date": null,
+          "status": "open"
+        }
+      ],
+      "references": {
+        "stores": [
+          "Store-159"
+        ],
+        "vendors": [],
+        "meetings": [],
+        "structured_data": [
+          {
+            "source": "03_Historical_Projects",
+            "file": "historical_projects.csv",
+            "field": "Store-159"
+          }
+        ]
+      }
+    },
+    {
+      "thread_id": "cmp_20250706_286",
+      "date": "2025-07-06",
+      "participants": [
+        {
+          "name": "Sarah Chen",
+          "role": "Project Manager",
+          "team": "ANF Store Development"
+        },
+        {
+          "name": "Tom Wilson",
+          "role": "General Contractor",
+          "team": "BuildRight Construction"
+        },
+        {
+          "name": "Jennifer Liu",
+          "role": "Procurement Manager",
+          "team": "ANF"
+        },
+        {
+          "name": "Mike Rodriguez",
+          "role": "Store Manager",
+          "team": "ANF Store #217"
+        }
+      ],
+      "messages": [
+        {
+          "timestamp": "2025-07-06 09:00:00",
+          "author": "Sarah Chen",
+          "role": "Project Manager",
+          "text": "Update on Store-240.",
+          "reactions": [
+            {
+              "emoji": "\ud83d\ude4f",
+              "count": 4
+            },
+            {
+              "emoji": "\ud83d\ude2c",
+              "count": 1
+            },
+            {
+              "emoji": "\ud83d\udc4f",
+              "count": 3
+            },
+            {
+              "emoji": "\ud83d\ude2c",
+              "count": 4
+            },
+            {
+              "emoji": "\ud83d\ude2c",
+              "count": 1
+            }
+          ],
+          "tags": [
+            "Store-240"
+          ]
+        },
+        {
+          "timestamp": "2025-07-06 09:48:00",
+          "author": "Tom Wilson",
+          "role": "General Contractor",
+          "text": "Thanks for the info.",
+          "reactions": [
+            {
+              "emoji": "\u2705",
+              "count": 1
+            },
+            {
+              "emoji": "\ud83d\ude2c",
+              "count": 3
+            }
+          ],
+          "tags": [
+            "Store-240"
+          ]
+        },
+        {
+          "timestamp": "2025-07-06 10:59:00",
+          "author": "Jennifer Liu",
+          "role": "Procurement Manager",
+          "text": "Let me follow up on that.",
+          "reactions": [
+            {
+              "emoji": "\ud83d\udca1",
+              "count": 3
+            },
+            {
+              "emoji": "\ud83d\ude4f",
+              "count": 3
+            }
+          ],
+          "tags": [
+            "Store-240"
+          ]
+        }
+      ],
+      "summary": "Discussion with 3 messages.",
+      "action_items": [
+        {
+          "description": "Let me follow up on that.",
+          "owner": "Jennifer Liu",
+          "due_date": null,
+          "status": "open"
+        }
+      ],
+      "references": {
+        "stores": [
+          "Store-240"
+        ],
+        "vendors": [],
+        "meetings": [],
+        "structured_data": [
+          {
+            "source": "03_Historical_Projects",
+            "file": "historical_projects.csv",
+            "field": "Store-240"
+          }
+        ]
+      }
+    },
+    {
+      "thread_id": "cmp_20251217_919",
+      "date": "2025-12-17",
+      "participants": [
+        {
+          "name": "Sarah Chen",
+          "role": "Project Manager",
+          "team": "ANF Store Development"
+        },
+        {
+          "name": "Tom Wilson",
+          "role": "General Contractor",
+          "team": "BuildRight Construction"
+        },
+        {
+          "name": "Jennifer Liu",
+          "role": "Procurement Manager",
+          "team": "ANF"
+        },
+        {
+          "name": "Mike Rodriguez",
+          "role": "Store Manager",
+          "team": "ANF Store #217"
+        }
+      ],
+      "messages": [
+        {
+          "timestamp": "2025-12-17 09:00:00",
+          "author": "Sarah Chen",
+          "role": "Project Manager",
+          "text": "Update on Store-113.",
+          "reactions": [
+            {
+              "emoji": "\ud83d\udc4f",
+              "count": 2
+            },
+            {
+              "emoji": "\u2705",
+              "count": 2
+            },
+            {
+              "emoji": "\ud83d\ude2c",
+              "count": 1
+            }
+          ],
+          "tags": [
+            "Store-113"
+          ]
+        },
+        {
+          "timestamp": "2025-12-17 10:51:00",
+          "author": "Tom Wilson",
+          "role": "General Contractor",
+          "text": "Thanks for the info.",
+          "reactions": [],
+          "tags": [
+            "Store-113"
+          ]
+        },
+        {
+          "timestamp": "2025-12-17 11:17:00",
+          "author": "Jennifer Liu",
+          "role": "Procurement Manager",
+          "text": "Let me follow up on that.",
+          "reactions": [
+            {
+              "emoji": "\ud83d\udc4f",
+              "count": 1
+            },
+            {
+              "emoji": "\u2705",
+              "count": 1
+            }
+          ],
+          "tags": [
+            "Store-113"
+          ]
+        }
+      ],
+      "summary": "Discussion with 3 messages.",
+      "action_items": [
+        {
+          "description": "Let me follow up on that.",
+          "owner": "Jennifer Liu",
+          "due_date": null,
+          "status": "open"
+        }
+      ],
+      "references": {
+        "stores": [
+          "Store-113"
+        ],
+        "vendors": [],
+        "meetings": [],
+        "structured_data": [
+          {
+            "source": "03_Historical_Projects",
+            "file": "historical_projects.csv",
+            "field": "Store-113"
+          }
+        ]
+      }
+    },
+    {
+      "thread_id": "cmp_20260114_626",
+      "date": "2026-01-14",
+      "participants": [
+        {
+          "name": "Sarah Chen",
+          "role": "Project Manager",
+          "team": "ANF Store Development"
+        },
+        {
+          "name": "Tom Wilson",
+          "role": "General Contractor",
+          "team": "BuildRight Construction"
+        },
+        {
+          "name": "Jennifer Liu",
+          "role": "Procurement Manager",
+          "team": "ANF"
+        },
+        {
+          "name": "Mike Rodriguez",
+          "role": "Store Manager",
+          "team": "ANF Store #217"
+        }
+      ],
+      "messages": [
+        {
+          "timestamp": "2026-01-14 09:00:00",
+          "author": "Sarah Chen",
+          "role": "Project Manager",
+          "text": "Update on Store-103.",
+          "reactions": [
+            {
+              "emoji": "\ud83d\ude4f",
+              "count": 1
+            },
+            {
+              "emoji": "\ud83d\udc4d",
+              "count": 3
+            },
+            {
+              "emoji": "\ud83d\udc4f",
+              "count": 1
+            },
+            {
+              "emoji": "\ud83d\udca1",
+              "count": 3
+            },
+            {
+              "emoji": "\ud83d\ude2c",
+              "count": 3
+            }
+          ],
+          "tags": [
+            "Store-103"
+          ]
+        },
+        {
+          "timestamp": "2026-01-14 10:24:00",
+          "author": "Tom Wilson",
+          "role": "General Contractor",
+          "text": "Thanks for the info.",
+          "reactions": [
+            {
+              "emoji": "\ud83d\ude2c",
+              "count": 1
+            },
+            {
+              "emoji": "\ud83d\ude2c",
+              "count": 3
+            }
+          ],
+          "tags": [
+            "Store-103"
+          ]
+        },
+        {
+          "timestamp": "2026-01-14 12:31:00",
+          "author": "Jennifer Liu",
+          "role": "Procurement Manager",
+          "text": "Let me follow up on that.",
+          "reactions": [
+            {
+              "emoji": "\ud83d\udc4f",
+              "count": 1
+            }
+          ],
+          "tags": [
+            "Store-103"
+          ]
+        }
+      ],
+      "summary": "Discussion with 3 messages.",
+      "action_items": [
+        {
+          "description": "Let me follow up on that.",
+          "owner": "Jennifer Liu",
+          "due_date": null,
+          "status": "open"
+        }
+      ],
+      "references": {
+        "stores": [
+          "Store-103"
+        ],
+        "vendors": [],
+        "meetings": [],
+        "structured_data": [
+          {
+            "source": "03_Historical_Projects",
+            "file": "historical_projects.csv",
+            "field": "Store-103"
+          }
+        ]
+      }
+    },
+    {
+      "thread_id": "cmp_20251203_030",
+      "date": "2025-12-03",
+      "participants": [
+        {
+          "name": "Sarah Chen",
+          "role": "Project Manager",
+          "team": "ANF Store Development"
+        },
+        {
+          "name": "Tom Wilson",
+          "role": "General Contractor",
+          "team": "BuildRight Construction"
+        },
+        {
+          "name": "Jennifer Liu",
+          "role": "Procurement Manager",
+          "team": "ANF"
+        },
+        {
+          "name": "Mike Rodriguez",
+          "role": "Store Manager",
+          "team": "ANF Store #217"
+        }
+      ],
+      "messages": [
+        {
+          "timestamp": "2025-12-03 09:00:00",
+          "author": "Sarah Chen",
+          "role": "Project Manager",
+          "text": "Update on Store-161.",
+          "reactions": [
+            {
+              "emoji": "\u2705",
+              "count": 4
+            },
+            {
+              "emoji": "\ud83d\udca1",
+              "count": 3
+            },
+            {
+              "emoji": "\ud83d\ude4f",
+              "count": 1
+            },
+            {
+              "emoji": "\u2705",
+              "count": 4
+            }
+          ],
+          "tags": [
+            "Store-161"
+          ]
+        },
+        {
+          "timestamp": "2025-12-03 09:43:00",
+          "author": "Tom Wilson",
+          "role": "General Contractor",
+          "text": "Thanks for the info.",
+          "reactions": [],
+          "tags": [
+            "Store-161"
+          ]
+        },
+        {
+          "timestamp": "2025-12-03 10:20:00",
+          "author": "Jennifer Liu",
+          "role": "Procurement Manager",
+          "text": "Let me follow up on that.",
+          "reactions": [
+            {
+              "emoji": "\u2705",
+              "count": 2
+            },
+            {
+              "emoji": "\ud83d\ude4f",
+              "count": 3
+            },
+            {
+              "emoji": "\u2705",
+              "count": 1
+            }
+          ],
+          "tags": [
+            "Store-161"
+          ]
+        }
+      ],
+      "summary": "Discussion with 3 messages.",
+      "action_items": [
+        {
+          "description": "Let me follow up on that.",
+          "owner": "Jennifer Liu",
+          "due_date": null,
+          "status": "open"
+        }
+      ],
+      "references": {
+        "stores": [
+          "Store-161"
+        ],
+        "vendors": [],
+        "meetings": [],
+        "structured_data": [
+          {
+            "source": "03_Historical_Projects",
+            "file": "historical_projects.csv",
+            "field": "Store-161"
+          }
+        ]
+      }
+    },
+    {
+      "thread_id": "cmp_20251121_845",
+      "date": "2025-11-21",
+      "participants": [
+        {
+          "name": "Sarah Chen",
+          "role": "Project Manager",
+          "team": "ANF Store Development"
+        },
+        {
+          "name": "Tom Wilson",
+          "role": "General Contractor",
+          "team": "BuildRight Construction"
+        },
+        {
+          "name": "Jennifer Liu",
+          "role": "Procurement Manager",
+          "team": "ANF"
+        },
+        {
+          "name": "Mike Rodriguez",
+          "role": "Store Manager",
+          "team": "ANF Store #217"
+        }
+      ],
+      "messages": [
+        {
+          "timestamp": "2025-11-21 09:00:00",
+          "author": "Sarah Chen",
+          "role": "Project Manager",
+          "text": "Update on Store-170.",
+          "reactions": [
+            {
+              "emoji": "\ud83d\ude4f",
+              "count": 1
+            },
+            {
+              "emoji": "\ud83d\ude4f",
+              "count": 4
+            },
+            {
+              "emoji": "\u2705",
+              "count": 4
+            }
+          ],
+          "tags": [
+            "Store-170"
+          ]
+        },
+        {
+          "timestamp": "2025-11-21 10:45:00",
+          "author": "Tom Wilson",
+          "role": "General Contractor",
+          "text": "Thanks for the info.",
+          "reactions": [],
+          "tags": [
+            "Store-170"
+          ]
+        },
+        {
+          "timestamp": "2025-11-21 11:46:00",
+          "author": "Jennifer Liu",
+          "role": "Procurement Manager",
+          "text": "Let me follow up on that.",
+          "reactions": [
+            {
+              "emoji": "\ud83d\ude2c",
+              "count": 3
+            },
+            {
+              "emoji": "\ud83d\udca1",
+              "count": 1
+            },
+            {
+              "emoji": "\ud83d\ude4f",
+              "count": 2
+            },
+            {
+              "emoji": "\ud83d\udc4d",
+              "count": 3
+            }
+          ],
+          "tags": [
+            "Store-170"
+          ]
+        }
+      ],
+      "summary": "Discussion with 3 messages.",
+      "action_items": [
+        {
+          "description": "Let me follow up on that.",
+          "owner": "Jennifer Liu",
+          "due_date": null,
+          "status": "open"
+        }
+      ],
+      "references": {
+        "stores": [
+          "Store-170"
+        ],
+        "vendors": [],
+        "meetings": [],
+        "structured_data": [
+          {
+            "source": "03_Historical_Projects",
+            "file": "historical_projects.csv",
+            "field": "Store-170"
+          }
+        ]
+      }
+    },
+    {
+      "thread_id": "cmp_20250414_428",
+      "date": "2025-04-14",
+      "participants": [
+        {
+          "name": "Sarah Chen",
+          "role": "Project Manager",
+          "team": "ANF Store Development"
+        },
+        {
+          "name": "Tom Wilson",
+          "role": "General Contractor",
+          "team": "BuildRight Construction"
+        },
+        {
+          "name": "Jennifer Liu",
+          "role": "Procurement Manager",
+          "team": "ANF"
+        },
+        {
+          "name": "Mike Rodriguez",
+          "role": "Store Manager",
+          "team": "ANF Store #217"
+        }
+      ],
+      "messages": [
+        {
+          "timestamp": "2025-04-14 09:00:00",
+          "author": "Sarah Chen",
+          "role": "Project Manager",
+          "text": "Update on Store-237.",
+          "reactions": [
+            {
+              "emoji": "\ud83d\udc4d",
+              "count": 4
+            },
+            {
+              "emoji": "\ud83d\udca1",
+              "count": 3
+            },
+            {
+              "emoji": "\ud83d\ude4f",
+              "count": 3
+            },
+            {
+              "emoji": "\ud83d\udc4d",
+              "count": 4
+            },
+            {
+              "emoji": "\ud83d\udc4d",
+              "count": 2
+            }
+          ],
+          "tags": [
+            "Store-237"
+          ]
+        },
+        {
+          "timestamp": "2025-04-14 11:59:00",
+          "author": "Tom Wilson",
+          "role": "General Contractor",
+          "text": "Thanks for the info.",
+          "reactions": [
+            {
+              "emoji": "\u2705",
+              "count": 2
+            }
+          ],
+          "tags": [
+            "Store-237"
+          ]
+        },
+        {
+          "timestamp": "2025-04-14 13:46:00",
+          "author": "Jennifer Liu",
+          "role": "Procurement Manager",
+          "text": "Let me follow up on that.",
+          "reactions": [
+            {
+              "emoji": "\ud83d\ude2c",
+              "count": 3
+            },
+            {
+              "emoji": "\ud83d\udc4d",
+              "count": 3
+            }
+          ],
+          "tags": [
+            "Store-237"
+          ]
+        }
+      ],
+      "summary": "Discussion with 3 messages.",
+      "action_items": [
+        {
+          "description": "Let me follow up on that.",
+          "owner": "Jennifer Liu",
+          "due_date": null,
+          "status": "open"
+        }
+      ],
+      "references": {
+        "stores": [
+          "Store-237"
+        ],
+        "vendors": [],
+        "meetings": [],
+        "structured_data": [
+          {
+            "source": "03_Historical_Projects",
+            "file": "historical_projects.csv",
+            "field": "Store-237"
+          }
+        ]
+      }
+    },
+    {
+      "thread_id": "cmp_20251212_425",
+      "date": "2025-12-12",
+      "participants": [
+        {
+          "name": "Sarah Chen",
+          "role": "Project Manager",
+          "team": "ANF Store Development"
+        },
+        {
+          "name": "Tom Wilson",
+          "role": "General Contractor",
+          "team": "BuildRight Construction"
+        },
+        {
+          "name": "Jennifer Liu",
+          "role": "Procurement Manager",
+          "team": "ANF"
+        },
+        {
+          "name": "Mike Rodriguez",
+          "role": "Store Manager",
+          "team": "ANF Store #217"
+        }
+      ],
+      "messages": [
+        {
+          "timestamp": "2025-12-12 09:00:00",
+          "author": "Sarah Chen",
+          "role": "Project Manager",
+          "text": "Update on Store-249.",
+          "reactions": [
+            {
+              "emoji": "\ud83d\udc4d",
+              "count": 2
+            },
+            {
+              "emoji": "\ud83d\ude2c",
+              "count": 3
+            },
+            {
+              "emoji": "\u2705",
+              "count": 1
+            }
+          ],
+          "tags": [
+            "Store-249"
+          ]
+        },
+        {
+          "timestamp": "2025-12-12 11:44:00",
+          "author": "Tom Wilson",
+          "role": "General Contractor",
+          "text": "Thanks for the info.",
+          "reactions": [],
+          "tags": [
+            "Store-249"
+          ]
+        },
+        {
+          "timestamp": "2025-12-12 13:23:00",
+          "author": "Jennifer Liu",
+          "role": "Procurement Manager",
+          "text": "Let me follow up on that.",
+          "reactions": [
+            {
+              "emoji": "\ud83d\udca1",
+              "count": 4
+            },
+            {
+              "emoji": "\ud83d\ude4f",
+              "count": 1
+            },
+            {
+              "emoji": "\ud83d\udca1",
+              "count": 3
+            },
+            {
+              "emoji": "\ud83d\ude4f",
+              "count": 3
+            },
+            {
+              "emoji": "\ud83d\ude4f",
+              "count": 2
+            }
+          ],
+          "tags": [
+            "Store-249"
+          ]
+        }
+      ],
+      "summary": "Discussion with 3 messages.",
+      "action_items": [
+        {
+          "description": "Let me follow up on that.",
+          "owner": "Jennifer Liu",
+          "due_date": null,
+          "status": "open"
+        }
+      ],
+      "references": {
+        "stores": [
+          "Store-249"
+        ],
+        "vendors": [],
+        "meetings": [],
+        "structured_data": [
+          {
+            "source": "03_Historical_Projects",
+            "file": "historical_projects.csv",
+            "field": "Store-249"
+          }
+        ]
+      }
+    },
+    {
+      "thread_id": "cmp_20251119_342",
+      "date": "2025-11-19",
+      "participants": [
+        {
+          "name": "Sarah Chen",
+          "role": "Project Manager",
+          "team": "ANF Store Development"
+        },
+        {
+          "name": "Tom Wilson",
+          "role": "General Contractor",
+          "team": "BuildRight Construction"
+        },
+        {
+          "name": "Jennifer Liu",
+          "role": "Procurement Manager",
+          "team": "ANF"
+        },
+        {
+          "name": "Mike Rodriguez",
+          "role": "Store Manager",
+          "team": "ANF Store #217"
+        }
+      ],
+      "messages": [
+        {
+          "timestamp": "2025-11-19 09:00:00",
+          "author": "Sarah Chen",
+          "role": "Project Manager",
+          "text": "Update on Store-170.",
+          "reactions": [
+            {
+              "emoji": "\ud83d\udc4d",
+              "count": 2
+            },
+            {
+              "emoji": "\u2705",
+              "count": 4
+            },
+            {
+              "emoji": "\ud83d\ude2c",
+              "count": 4
+            }
+          ],
+          "tags": [
+            "Store-170"
+          ]
+        },
+        {
+          "timestamp": "2025-11-19 11:39:00",
+          "author": "Tom Wilson",
+          "role": "General Contractor",
+          "text": "Thanks for the info.",
+          "reactions": [
+            {
+              "emoji": "\ud83d\ude2c",
+              "count": 3
+            },
+            {
+              "emoji": "\ud83d\udca1",
+              "count": 3
+            },
+            {
+              "emoji": "\ud83d\udca1",
+              "count": 4
+            }
+          ],
+          "tags": [
+            "Store-170"
+          ]
+        },
+        {
+          "timestamp": "2025-11-19 13:55:00",
+          "author": "Jennifer Liu",
+          "role": "Procurement Manager",
+          "text": "Let me follow up on that.",
+          "reactions": [
+            {
+              "emoji": "\ud83d\udc4d",
+              "count": 4
+            }
+          ],
+          "tags": [
+            "Store-170"
+          ]
+        }
+      ],
+      "summary": "Discussion with 3 messages.",
+      "action_items": [
+        {
+          "description": "Let me follow up on that.",
+          "owner": "Jennifer Liu",
+          "due_date": null,
+          "status": "open"
+        }
+      ],
+      "references": {
+        "stores": [
+          "Store-170"
+        ],
+        "vendors": [],
+        "meetings": [],
+        "structured_data": [
+          {
+            "source": "03_Historical_Projects",
+            "file": "historical_projects.csv",
+            "field": "Store-170"
+          }
+        ]
+      }
+    },
+    {
+      "thread_id": "cmp_20250827_206",
+      "date": "2025-08-27",
+      "participants": [
+        {
+          "name": "Sarah Chen",
+          "role": "Project Manager",
+          "team": "ANF Store Development"
+        },
+        {
+          "name": "Tom Wilson",
+          "role": "General Contractor",
+          "team": "BuildRight Construction"
+        },
+        {
+          "name": "Jennifer Liu",
+          "role": "Procurement Manager",
+          "team": "ANF"
+        },
+        {
+          "name": "Mike Rodriguez",
+          "role": "Store Manager",
+          "team": "ANF Store #217"
+        }
+      ],
+      "messages": [
+        {
+          "timestamp": "2025-08-27 09:00:00",
+          "author": "Sarah Chen",
+          "role": "Project Manager",
+          "text": "Update on Store-230.",
+          "reactions": [
+            {
+              "emoji": "\u2705",
+              "count": 1
+            },
+            {
+              "emoji": "\ud83d\ude2c",
+              "count": 4
+            },
+            {
+              "emoji": "\ud83d\udca1",
+              "count": 2
+            },
+            {
+              "emoji": "\ud83d\udca1",
+              "count": 4
+            },
+            {
+              "emoji": "\ud83d\ude2c",
+              "count": 4
+            }
+          ],
+          "tags": [
+            "Store-230"
+          ]
+        },
+        {
+          "timestamp": "2025-08-27 11:39:00",
+          "author": "Tom Wilson",
+          "role": "General Contractor",
+          "text": "Thanks for the info.",
+          "reactions": [],
+          "tags": [
+            "Store-230"
+          ]
+        },
+        {
+          "timestamp": "2025-08-27 12:29:00",
+          "author": "Jennifer Liu",
+          "role": "Procurement Manager",
+          "text": "Let me follow up on that.",
+          "reactions": [
+            {
+              "emoji": "\ud83d\udca1",
+              "count": 2
+            },
+            {
+              "emoji": "\ud83d\udca1",
+              "count": 3
+            },
+            {
+              "emoji": "\ud83d\udc4d",
+              "count": 2
+            }
+          ],
+          "tags": [
+            "Store-230"
+          ]
+        }
+      ],
+      "summary": "Discussion with 3 messages.",
+      "action_items": [
+        {
+          "description": "Let me follow up on that.",
+          "owner": "Jennifer Liu",
+          "due_date": null,
+          "status": "open"
+        }
+      ],
+      "references": {
+        "stores": [
+          "Store-230"
+        ],
+        "vendors": [],
+        "meetings": [],
+        "structured_data": [
+          {
+            "source": "03_Historical_Projects",
+            "file": "historical_projects.csv",
+            "field": "Store-230"
+          }
+        ]
+      }
+    },
+    {
+      "thread_id": "cmp_20250819_802",
+      "date": "2025-08-19",
+      "participants": [
+        {
+          "name": "Sarah Chen",
+          "role": "Project Manager",
+          "team": "ANF Store Development"
+        },
+        {
+          "name": "Tom Wilson",
+          "role": "General Contractor",
+          "team": "BuildRight Construction"
+        },
+        {
+          "name": "Jennifer Liu",
+          "role": "Procurement Manager",
+          "team": "ANF"
+        },
+        {
+          "name": "Mike Rodriguez",
+          "role": "Store Manager",
+          "team": "ANF Store #217"
+        }
+      ],
+      "messages": [
+        {
+          "timestamp": "2025-08-19 09:00:00",
+          "author": "Sarah Chen",
+          "role": "Project Manager",
+          "text": "Update on Store-184.",
+          "reactions": [
+            {
+              "emoji": "\u2705",
+              "count": 4
+            },
+            {
+              "emoji": "\ud83d\udc4f",
+              "count": 1
+            },
+            {
+              "emoji": "\u2705",
+              "count": 3
+            }
+          ],
+          "tags": [
+            "Store-184"
+          ]
+        },
+        {
+          "timestamp": "2025-08-19 10:29:00",
+          "author": "Tom Wilson",
+          "role": "General Contractor",
+          "text": "Thanks for the info.",
+          "reactions": [
+            {
+              "emoji": "\ud83d\ude2c",
+              "count": 3
+            },
+            {
+              "emoji": "\ud83d\udc4f",
+              "count": 4
+            }
+          ],
+          "tags": [
+            "Store-184"
+          ]
+        },
+        {
+          "timestamp": "2025-08-19 10:54:00",
+          "author": "Jennifer Liu",
+          "role": "Procurement Manager",
+          "text": "Let me follow up on that.",
+          "reactions": [
+            {
+              "emoji": "\ud83d\udc4f",
+              "count": 3
+            }
+          ],
+          "tags": [
+            "Store-184"
+          ]
+        }
+      ],
+      "summary": "Discussion with 3 messages.",
+      "action_items": [
+        {
+          "description": "Let me follow up on that.",
+          "owner": "Jennifer Liu",
+          "due_date": null,
+          "status": "open"
+        }
+      ],
+      "references": {
+        "stores": [
+          "Store-184"
+        ],
+        "vendors": [],
+        "meetings": [],
+        "structured_data": [
+          {
+            "source": "03_Historical_Projects",
+            "file": "historical_projects.csv",
+            "field": "Store-184"
+          }
+        ]
+      }
+    },
+    {
+      "thread_id": "cmp_20250219_615",
+      "date": "2025-02-19",
+      "participants": [
+        {
+          "name": "Sarah Chen",
+          "role": "Project Manager",
+          "team": "ANF Store Development"
+        },
+        {
+          "name": "Tom Wilson",
+          "role": "General Contractor",
+          "team": "BuildRight Construction"
+        },
+        {
+          "name": "Jennifer Liu",
+          "role": "Procurement Manager",
+          "team": "ANF"
+        },
+        {
+          "name": "Mike Rodriguez",
+          "role": "Store Manager",
+          "team": "ANF Store #217"
+        }
+      ],
+      "messages": [
+        {
+          "timestamp": "2025-02-19 09:00:00",
+          "author": "Sarah Chen",
+          "role": "Project Manager",
+          "text": "Update on Store-138.",
+          "reactions": [
+            {
+              "emoji": "\ud83d\udca1",
+              "count": 1
+            },
+            {
+              "emoji": "\ud83d\udca1",
+              "count": 2
+            },
+            {
+              "emoji": "\ud83d\udca1",
+              "count": 3
+            },
+            {
+              "emoji": "\ud83d\udc4f",
+              "count": 1
+            }
+          ],
+          "tags": [
+            "Store-138"
+          ]
+        },
+        {
+          "timestamp": "2025-02-19 11:58:00",
+          "author": "Tom Wilson",
+          "role": "General Contractor",
+          "text": "Thanks for the info.",
+          "reactions": [
+            {
+              "emoji": "\ud83d\ude4f",
+              "count": 1
+            },
+            {
+              "emoji": "\ud83d\udc4f",
+              "count": 1
+            },
+            {
+              "emoji": "\u2705",
+              "count": 3
+            }
+          ],
+          "tags": [
+            "Store-138"
+          ]
+        },
+        {
+          "timestamp": "2025-02-19 13:06:00",
+          "author": "Jennifer Liu",
+          "role": "Procurement Manager",
+          "text": "Let me follow up on that.",
+          "reactions": [
+            {
+              "emoji": "\ud83d\ude2c",
+              "count": 2
+            },
+            {
+              "emoji": "\ud83d\udc4d",
+              "count": 3
+            }
+          ],
+          "tags": [
+            "Store-138"
+          ]
+        }
+      ],
+      "summary": "Discussion with 3 messages.",
+      "action_items": [
+        {
+          "description": "Let me follow up on that.",
+          "owner": "Jennifer Liu",
+          "due_date": null,
+          "status": "open"
+        }
+      ],
+      "references": {
+        "stores": [
+          "Store-138"
+        ],
+        "vendors": [],
+        "meetings": [],
+        "structured_data": [
+          {
+            "source": "03_Historical_Projects",
+            "file": "historical_projects.csv",
+            "field": "Store-138"
+          }
+        ]
+      }
+    },
+    {
+      "thread_id": "cmp_20251107_853",
+      "date": "2025-11-07",
+      "participants": [
+        {
+          "name": "Sarah Chen",
+          "role": "Project Manager",
+          "team": "ANF Store Development"
+        },
+        {
+          "name": "Tom Wilson",
+          "role": "General Contractor",
+          "team": "BuildRight Construction"
+        },
+        {
+          "name": "Jennifer Liu",
+          "role": "Procurement Manager",
+          "team": "ANF"
+        },
+        {
+          "name": "Mike Rodriguez",
+          "role": "Store Manager",
+          "team": "ANF Store #217"
+        }
+      ],
+      "messages": [
+        {
+          "timestamp": "2025-11-07 09:00:00",
+          "author": "Sarah Chen",
+          "role": "Project Manager",
+          "text": "Update on Store-132.",
+          "reactions": [
+            {
+              "emoji": "\ud83d\ude4f",
+              "count": 1
+            },
+            {
+              "emoji": "\u2705",
+              "count": 2
+            },
+            {
+              "emoji": "\ud83d\udc4f",
+              "count": 3
+            },
+            {
+              "emoji": "\ud83d\udc4d",
+              "count": 1
+            },
+            {
+              "emoji": "\u2705",
+              "count": 2
+            }
+          ],
+          "tags": [
+            "Store-132"
+          ]
+        },
+        {
+          "timestamp": "2025-11-07 10:13:00",
+          "author": "Tom Wilson",
+          "role": "General Contractor",
+          "text": "Thanks for the info.",
+          "reactions": [],
+          "tags": [
+            "Store-132"
+          ]
+        },
+        {
+          "timestamp": "2025-11-07 11:36:00",
+          "author": "Jennifer Liu",
+          "role": "Procurement Manager",
+          "text": "Let me follow up on that.",
+          "reactions": [
+            {
+              "emoji": "\ud83d\udca1",
+              "count": 2
+            },
+            {
+              "emoji": "\ud83d\udc4d",
+              "count": 3
+            },
+            {
+              "emoji": "\ud83d\udca1",
+              "count": 2
+            },
+            {
+              "emoji": "\ud83d\udca1",
+              "count": 3
+            }
+          ],
+          "tags": [
+            "Store-132"
+          ]
+        }
+      ],
+      "summary": "Discussion with 3 messages.",
+      "action_items": [
+        {
+          "description": "Let me follow up on that.",
+          "owner": "Jennifer Liu",
+          "due_date": null,
+          "status": "open"
+        }
+      ],
+      "references": {
+        "stores": [
+          "Store-132"
+        ],
+        "vendors": [],
+        "meetings": [],
+        "structured_data": [
+          {
+            "source": "03_Historical_Projects",
+            "file": "historical_projects.csv",
+            "field": "Store-132"
+          }
+        ]
+      }
+    },
+    {
+      "thread_id": "cmp_20250318_770",
+      "date": "2025-03-18",
+      "participants": [
+        {
+          "name": "Sarah Chen",
+          "role": "Project Manager",
+          "team": "ANF Store Development"
+        },
+        {
+          "name": "Tom Wilson",
+          "role": "General Contractor",
+          "team": "BuildRight Construction"
+        },
+        {
+          "name": "Jennifer Liu",
+          "role": "Procurement Manager",
+          "team": "ANF"
+        },
+        {
+          "name": "Mike Rodriguez",
+          "role": "Store Manager",
+          "team": "ANF Store #217"
+        }
+      ],
+      "messages": [
+        {
+          "timestamp": "2025-03-18 09:00:00",
+          "author": "Sarah Chen",
+          "role": "Project Manager",
+          "text": "Update on Store-207.",
+          "reactions": [
+            {
+              "emoji": "\ud83d\ude2c",
+              "count": 1
+            },
+            {
+              "emoji": "\ud83d\ude4f",
+              "count": 3
+            },
+            {
+              "emoji": "\ud83d\udc4f",
+              "count": 4
+            }
+          ],
+          "tags": [
+            "Store-207"
+          ]
+        },
+        {
+          "timestamp": "2025-03-18 11:37:00",
+          "author": "Tom Wilson",
+          "role": "General Contractor",
+          "text": "Thanks for the info.",
+          "reactions": [],
+          "tags": [
+            "Store-207"
+          ]
+        },
+        {
+          "timestamp": "2025-03-18 14:30:00",
+          "author": "Jennifer Liu",
+          "role": "Procurement Manager",
+          "text": "Let me follow up on that.",
+          "reactions": [
+            {
+              "emoji": "\u2705",
+              "count": 4
+            },
+            {
+              "emoji": "\ud83d\ude4f",
+              "count": 2
+            },
+            {
+              "emoji": "\ud83d\ude2c",
+              "count": 1
+            },
+            {
+              "emoji": "\ud83d\ude2c",
+              "count": 2
+            }
+          ],
+          "tags": [
+            "Store-207"
+          ]
+        }
+      ],
+      "summary": "Discussion with 3 messages.",
+      "action_items": [
+        {
+          "description": "Let me follow up on that.",
+          "owner": "Jennifer Liu",
+          "due_date": null,
+          "status": "open"
+        }
+      ],
+      "references": {
+        "stores": [
+          "Store-207"
+        ],
+        "vendors": [],
+        "meetings": [],
+        "structured_data": [
+          {
+            "source": "03_Historical_Projects",
+            "file": "historical_projects.csv",
+            "field": "Store-207"
+          }
+        ]
+      }
+    },
+    {
+      "thread_id": "cmp_20250831_071",
+      "date": "2025-08-31",
+      "participants": [
+        {
+          "name": "Sarah Chen",
+          "role": "Project Manager",
+          "team": "ANF Store Development"
+        },
+        {
+          "name": "Tom Wilson",
+          "role": "General Contractor",
+          "team": "BuildRight Construction"
+        },
+        {
+          "name": "Jennifer Liu",
+          "role": "Procurement Manager",
+          "team": "ANF"
+        },
+        {
+          "name": "Mike Rodriguez",
+          "role": "Store Manager",
+          "team": "ANF Store #217"
+        }
+      ],
+      "messages": [
+        {
+          "timestamp": "2025-08-31 09:00:00",
+          "author": "Sarah Chen",
+          "role": "Project Manager",
+          "text": "Update on Store-143.",
+          "reactions": [
+            {
+              "emoji": "\ud83d\udc4f",
+              "count": 3
+            },
+            {
+              "emoji": "\ud83d\udca1",
+              "count": 3
+            },
+            {
+              "emoji": "\u2705",
+              "count": 2
+            },
+            {
+              "emoji": "\u2705",
+              "count": 3
+            },
+            {
+              "emoji": "\ud83d\udc4d",
+              "count": 2
+            }
+          ],
+          "tags": [
+            "Store-143"
+          ]
+        },
+        {
+          "timestamp": "2025-08-31 10:07:00",
+          "author": "Tom Wilson",
+          "role": "General Contractor",
+          "text": "Thanks for the info.",
+          "reactions": [
+            {
+              "emoji": "\ud83d\udca1",
+              "count": 2
+            },
+            {
+              "emoji": "\ud83d\udc4f",
+              "count": 3
+            }
+          ],
+          "tags": [
+            "Store-143"
+          ]
+        },
+        {
+          "timestamp": "2025-08-31 11:14:00",
+          "author": "Jennifer Liu",
+          "role": "Procurement Manager",
+          "text": "Let me follow up on that.",
+          "reactions": [
+            {
+              "emoji": "\ud83d\udc4d",
+              "count": 4
+            },
+            {
+              "emoji": "\ud83d\ude2c",
+              "count": 3
+            },
+            {
+              "emoji": "\ud83d\udc4d",
+              "count": 4
+            },
+            {
+              "emoji": "\u2705",
+              "count": 1
+            }
+          ],
+          "tags": [
+            "Store-143"
+          ]
+        }
+      ],
+      "summary": "Discussion with 3 messages.",
+      "action_items": [
+        {
+          "description": "Let me follow up on that.",
+          "owner": "Jennifer Liu",
+          "due_date": null,
+          "status": "open"
+        }
+      ],
+      "references": {
+        "stores": [
+          "Store-143"
+        ],
+        "vendors": [],
+        "meetings": [],
+        "structured_data": [
+          {
+            "source": "03_Historical_Projects",
+            "file": "historical_projects.csv",
+            "field": "Store-143"
+          }
+        ]
+      }
+    },
+    {
+      "thread_id": "cmp_20250913_798",
+      "date": "2025-09-13",
+      "participants": [
+        {
+          "name": "Sarah Chen",
+          "role": "Project Manager",
+          "team": "ANF Store Development"
+        },
+        {
+          "name": "Tom Wilson",
+          "role": "General Contractor",
+          "team": "BuildRight Construction"
+        },
+        {
+          "name": "Jennifer Liu",
+          "role": "Procurement Manager",
+          "team": "ANF"
+        },
+        {
+          "name": "Mike Rodriguez",
+          "role": "Store Manager",
+          "team": "ANF Store #217"
+        }
+      ],
+      "messages": [
+        {
+          "timestamp": "2025-09-13 09:00:00",
+          "author": "Sarah Chen",
+          "role": "Project Manager",
+          "text": "Update on Store-203.",
+          "reactions": [
+            {
+              "emoji": "\ud83d\ude4f",
+              "count": 1
+            },
+            {
+              "emoji": "\ud83d\udca1",
+              "count": 3
+            },
+            {
+              "emoji": "\ud83d\udc4d",
+              "count": 2
+            }
+          ],
+          "tags": [
+            "Store-203"
+          ]
+        },
+        {
+          "timestamp": "2025-09-13 11:25:00",
+          "author": "Tom Wilson",
+          "role": "General Contractor",
+          "text": "Thanks for the info.",
+          "reactions": [],
+          "tags": [
+            "Store-203"
+          ]
+        },
+        {
+          "timestamp": "2025-09-13 14:05:00",
+          "author": "Jennifer Liu",
+          "role": "Procurement Manager",
+          "text": "Let me follow up on that.",
+          "reactions": [
+            {
+              "emoji": "\u2705",
+              "count": 1
+            }
+          ],
+          "tags": [
+            "Store-203"
+          ]
+        }
+      ],
+      "summary": "Discussion with 3 messages.",
+      "action_items": [
+        {
+          "description": "Let me follow up on that.",
+          "owner": "Jennifer Liu",
+          "due_date": null,
+          "status": "open"
+        }
+      ],
+      "references": {
+        "stores": [
+          "Store-203"
+        ],
+        "vendors": [],
+        "meetings": [],
+        "structured_data": [
+          {
+            "source": "03_Historical_Projects",
+            "file": "historical_projects.csv",
+            "field": "Store-203"
+          }
+        ]
+      }
+    },
+    {
+      "thread_id": "cmp_20250617_899",
+      "date": "2025-06-17",
+      "participants": [
+        {
+          "name": "Sarah Chen",
+          "role": "Project Manager",
+          "team": "ANF Store Development"
+        },
+        {
+          "name": "Tom Wilson",
+          "role": "General Contractor",
+          "team": "BuildRight Construction"
+        },
+        {
+          "name": "Jennifer Liu",
+          "role": "Procurement Manager",
+          "team": "ANF"
+        },
+        {
+          "name": "Mike Rodriguez",
+          "role": "Store Manager",
+          "team": "ANF Store #217"
+        }
+      ],
+      "messages": [
+        {
+          "timestamp": "2025-06-17 09:00:00",
+          "author": "Sarah Chen",
+          "role": "Project Manager",
+          "text": "Update on Store-201.",
+          "reactions": [
+            {
+              "emoji": "\ud83d\udca1",
+              "count": 4
+            },
+            {
+              "emoji": "\ud83d\ude4f",
+              "count": 4
+            },
+            {
+              "emoji": "\u2705",
+              "count": 1
+            },
+            {
+              "emoji": "\ud83d\udca1",
+              "count": 4
+            },
+            {
+              "emoji": "\ud83d\udc4f",
+              "count": 2
+            }
+          ],
+          "tags": [
+            "Store-201"
+          ]
+        },
+        {
+          "timestamp": "2025-06-17 11:03:00",
+          "author": "Tom Wilson",
+          "role": "General Contractor",
+          "text": "Thanks for the info.",
+          "reactions": [
+            {
+              "emoji": "\ud83d\ude4f",
+              "count": 2
+            },
+            {
+              "emoji": "\ud83d\udca1",
+              "count": 4
+            }
+          ],
+          "tags": [
+            "Store-201"
+          ]
+        },
+        {
+          "timestamp": "2025-06-17 12:32:00",
+          "author": "Jennifer Liu",
+          "role": "Procurement Manager",
+          "text": "Let me follow up on that.",
+          "reactions": [],
+          "tags": [
+            "Store-201"
+          ]
+        }
+      ],
+      "summary": "Discussion with 3 messages.",
+      "action_items": [
+        {
+          "description": "Let me follow up on that.",
+          "owner": "Jennifer Liu",
+          "due_date": null,
+          "status": "open"
+        }
+      ],
+      "references": {
+        "stores": [
+          "Store-201"
+        ],
+        "vendors": [],
+        "meetings": [],
+        "structured_data": [
+          {
+            "source": "03_Historical_Projects",
+            "file": "historical_projects.csv",
+            "field": "Store-201"
+          }
+        ]
+      }
+    },
+    {
+      "thread_id": "cmp_20250601_016",
+      "date": "2025-06-01",
+      "participants": [
+        {
+          "name": "Sarah Chen",
+          "role": "Project Manager",
+          "team": "ANF Store Development"
+        },
+        {
+          "name": "Tom Wilson",
+          "role": "General Contractor",
+          "team": "BuildRight Construction"
+        },
+        {
+          "name": "Jennifer Liu",
+          "role": "Procurement Manager",
+          "team": "ANF"
+        },
+        {
+          "name": "Mike Rodriguez",
+          "role": "Store Manager",
+          "team": "ANF Store #217"
+        }
+      ],
+      "messages": [
+        {
+          "timestamp": "2025-06-01 09:00:00",
+          "author": "Sarah Chen",
+          "role": "Project Manager",
+          "text": "Update on Store-180.",
+          "reactions": [
+            {
+              "emoji": "\u2705",
+              "count": 1
+            },
+            {
+              "emoji": "\ud83d\udca1",
+              "count": 4
+            },
+            {
+              "emoji": "\ud83d\udc4f",
+              "count": 2
+            },
+            {
+              "emoji": "\ud83d\ude4f",
+              "count": 1
+            },
+            {
+              "emoji": "\ud83d\ude2c",
+              "count": 1
+            }
+          ],
+          "tags": [
+            "Store-180"
+          ]
+        },
+        {
+          "timestamp": "2025-06-01 10:51:00",
+          "author": "Tom Wilson",
+          "role": "General Contractor",
+          "text": "Thanks for the info.",
+          "reactions": [
+            {
+              "emoji": "\ud83d\udc4d",
+              "count": 4
+            },
+            {
+              "emoji": "\u2705",
+              "count": 4
+            }
+          ],
+          "tags": [
+            "Store-180"
+          ]
+        },
+        {
+          "timestamp": "2025-06-01 11:19:00",
+          "author": "Jennifer Liu",
+          "role": "Procurement Manager",
+          "text": "Let me follow up on that.",
+          "reactions": [
+            {
+              "emoji": "\ud83d\ude4f",
+              "count": 2
+            },
+            {
+              "emoji": "\ud83d\ude2c",
+              "count": 3
+            },
+            {
+              "emoji": "\ud83d\ude4f",
+              "count": 2
+            }
+          ],
+          "tags": [
+            "Store-180"
+          ]
+        }
+      ],
+      "summary": "Discussion with 3 messages.",
+      "action_items": [
+        {
+          "description": "Let me follow up on that.",
+          "owner": "Jennifer Liu",
+          "due_date": null,
+          "status": "open"
+        }
+      ],
+      "references": {
+        "stores": [
+          "Store-180"
+        ],
+        "vendors": [],
+        "meetings": [],
+        "structured_data": [
+          {
+            "source": "03_Historical_Projects",
+            "file": "historical_projects.csv",
+            "field": "Store-180"
+          }
+        ]
+      }
+    },
+    {
+      "thread_id": "cmp_20250821_064",
+      "date": "2025-08-21",
+      "participants": [
+        {
+          "name": "Sarah Chen",
+          "role": "Project Manager",
+          "team": "ANF Store Development"
+        },
+        {
+          "name": "Tom Wilson",
+          "role": "General Contractor",
+          "team": "BuildRight Construction"
+        },
+        {
+          "name": "Jennifer Liu",
+          "role": "Procurement Manager",
+          "team": "ANF"
+        },
+        {
+          "name": "Mike Rodriguez",
+          "role": "Store Manager",
+          "team": "ANF Store #217"
+        }
+      ],
+      "messages": [
+        {
+          "timestamp": "2025-08-21 09:00:00",
+          "author": "Sarah Chen",
+          "role": "Project Manager",
+          "text": "Update on Store-240.",
+          "reactions": [
+            {
+              "emoji": "\ud83d\ude2c",
+              "count": 4
+            },
+            {
+              "emoji": "\ud83d\udca1",
+              "count": 3
+            },
+            {
+              "emoji": "\u2705",
+              "count": 4
+            }
+          ],
+          "tags": [
+            "Store-240"
+          ]
+        },
+        {
+          "timestamp": "2025-08-21 10:34:00",
+          "author": "Tom Wilson",
+          "role": "General Contractor",
+          "text": "Thanks for the info.",
+          "reactions": [],
+          "tags": [
+            "Store-240"
+          ]
+        },
+        {
+          "timestamp": "2025-08-21 11:53:00",
+          "author": "Jennifer Liu",
+          "role": "Procurement Manager",
+          "text": "Let me follow up on that.",
+          "reactions": [],
+          "tags": [
+            "Store-240"
+          ]
+        }
+      ],
+      "summary": "Discussion with 3 messages.",
+      "action_items": [
+        {
+          "description": "Let me follow up on that.",
+          "owner": "Jennifer Liu",
+          "due_date": null,
+          "status": "open"
+        }
+      ],
+      "references": {
+        "stores": [
+          "Store-240"
+        ],
+        "vendors": [],
+        "meetings": [],
+        "structured_data": [
+          {
+            "source": "03_Historical_Projects",
+            "file": "historical_projects.csv",
+            "field": "Store-240"
+          }
+        ]
+      }
+    },
+    {
+      "thread_id": "cmp_20250318_887",
+      "date": "2025-03-18",
+      "participants": [
+        {
+          "name": "Sarah Chen",
+          "role": "Project Manager",
+          "team": "ANF Store Development"
+        },
+        {
+          "name": "Tom Wilson",
+          "role": "General Contractor",
+          "team": "BuildRight Construction"
+        },
+        {
+          "name": "Jennifer Liu",
+          "role": "Procurement Manager",
+          "team": "ANF"
+        },
+        {
+          "name": "Mike Rodriguez",
+          "role": "Store Manager",
+          "team": "ANF Store #217"
+        }
+      ],
+      "messages": [
+        {
+          "timestamp": "2025-03-18 09:00:00",
+          "author": "Sarah Chen",
+          "role": "Project Manager",
+          "text": "Update on Store-133.",
+          "reactions": [
+            {
+              "emoji": "\ud83d\udc4d",
+              "count": 1
+            },
+            {
+              "emoji": "\ud83d\udca1",
+              "count": 4
+            },
+            {
+              "emoji": "\ud83d\ude4f",
+              "count": 2
+            },
+            {
+              "emoji": "\ud83d\ude4f",
+              "count": 2
+            }
+          ],
+          "tags": [
+            "Store-133"
+          ]
+        },
+        {
+          "timestamp": "2025-03-18 10:20:00",
+          "author": "Tom Wilson",
+          "role": "General Contractor",
+          "text": "Thanks for the info.",
+          "reactions": [
+            {
+              "emoji": "\ud83d\ude2c",
+              "count": 2
+            },
+            {
+              "emoji": "\u2705",
+              "count": 1
+            }
+          ],
+          "tags": [
+            "Store-133"
+          ]
+        },
+        {
+          "timestamp": "2025-03-18 12:33:00",
+          "author": "Jennifer Liu",
+          "role": "Procurement Manager",
+          "text": "Let me follow up on that.",
+          "reactions": [
+            {
+              "emoji": "\ud83d\udca1",
+              "count": 1
+            },
+            {
+              "emoji": "\ud83d\udc4d",
+              "count": 3
+            },
+            {
+              "emoji": "\ud83d\udca1",
+              "count": 2
+            }
+          ],
+          "tags": [
+            "Store-133"
+          ]
+        }
+      ],
+      "summary": "Discussion with 3 messages.",
+      "action_items": [
+        {
+          "description": "Let me follow up on that.",
+          "owner": "Jennifer Liu",
+          "due_date": null,
+          "status": "open"
+        }
+      ],
+      "references": {
+        "stores": [
+          "Store-133"
+        ],
+        "vendors": [],
+        "meetings": [],
+        "structured_data": [
+          {
+            "source": "03_Historical_Projects",
+            "file": "historical_projects.csv",
+            "field": "Store-133"
+          }
+        ]
+      }
+    },
+    {
+      "thread_id": "cmp_20250713_934",
+      "date": "2025-07-13",
+      "participants": [
+        {
+          "name": "Sarah Chen",
+          "role": "Project Manager",
+          "team": "ANF Store Development"
+        },
+        {
+          "name": "Tom Wilson",
+          "role": "General Contractor",
+          "team": "BuildRight Construction"
+        },
+        {
+          "name": "Jennifer Liu",
+          "role": "Procurement Manager",
+          "team": "ANF"
+        },
+        {
+          "name": "Mike Rodriguez",
+          "role": "Store Manager",
+          "team": "ANF Store #217"
+        }
+      ],
+      "messages": [
+        {
+          "timestamp": "2025-07-13 09:00:00",
+          "author": "Sarah Chen",
+          "role": "Project Manager",
+          "text": "Update on Store-171.",
+          "reactions": [
+            {
+              "emoji": "\ud83d\udca1",
+              "count": 4
+            },
+            {
+              "emoji": "\ud83d\udc4d",
+              "count": 4
+            },
+            {
+              "emoji": "\ud83d\udc4f",
+              "count": 3
+            },
+            {
+              "emoji": "\ud83d\udc4f",
+              "count": 3
+            }
+          ],
+          "tags": [
+            "Store-171"
+          ]
+        },
+        {
+          "timestamp": "2025-07-13 09:36:00",
+          "author": "Tom Wilson",
+          "role": "General Contractor",
+          "text": "Thanks for the info.",
+          "reactions": [
+            {
+              "emoji": "\ud83d\ude4f",
+              "count": 2
+            },
+            {
+              "emoji": "\ud83d\ude2c",
+              "count": 3
+            }
+          ],
+          "tags": [
+            "Store-171"
+          ]
+        },
+        {
+          "timestamp": "2025-07-13 10:43:00",
+          "author": "Jennifer Liu",
+          "role": "Procurement Manager",
+          "text": "Let me follow up on that.",
+          "reactions": [],
+          "tags": [
+            "Store-171"
+          ]
+        }
+      ],
+      "summary": "Discussion with 3 messages.",
+      "action_items": [
+        {
+          "description": "Let me follow up on that.",
+          "owner": "Jennifer Liu",
+          "due_date": null,
+          "status": "open"
+        }
+      ],
+      "references": {
+        "stores": [
+          "Store-171"
+        ],
+        "vendors": [],
+        "meetings": [],
+        "structured_data": [
+          {
+            "source": "03_Historical_Projects",
+            "file": "historical_projects.csv",
+            "field": "Store-171"
+          }
+        ]
+      }
+    },
+    {
+      "thread_id": "cmp_20250330_734",
+      "date": "2025-03-30",
+      "participants": [
+        {
+          "name": "Sarah Chen",
+          "role": "Project Manager",
+          "team": "ANF Store Development"
+        },
+        {
+          "name": "Tom Wilson",
+          "role": "General Contractor",
+          "team": "BuildRight Construction"
+        },
+        {
+          "name": "Jennifer Liu",
+          "role": "Procurement Manager",
+          "team": "ANF"
+        },
+        {
+          "name": "Mike Rodriguez",
+          "role": "Store Manager",
+          "team": "ANF Store #217"
+        }
+      ],
+      "messages": [
+        {
+          "timestamp": "2025-03-30 09:00:00",
+          "author": "Sarah Chen",
+          "role": "Project Manager",
+          "text": "Update on Store-157.",
+          "reactions": [
+            {
+              "emoji": "\u2705",
+              "count": 2
+            },
+            {
+              "emoji": "\ud83d\udca1",
+              "count": 3
+            },
+            {
+              "emoji": "\ud83d\udc4d",
+              "count": 3
+            }
+          ],
+          "tags": [
+            "Store-157"
+          ]
+        },
+        {
+          "timestamp": "2025-03-30 09:52:00",
+          "author": "Tom Wilson",
+          "role": "General Contractor",
+          "text": "Thanks for the info.",
+          "reactions": [
+            {
+              "emoji": "\ud83d\udc4d",
+              "count": 2
+            },
+            {
+              "emoji": "\u2705",
+              "count": 2
+            },
+            {
+              "emoji": "\ud83d\udc4f",
+              "count": 2
+            }
+          ],
+          "tags": [
+            "Store-157"
+          ]
+        },
+        {
+          "timestamp": "2025-03-30 11:12:00",
+          "author": "Jennifer Liu",
+          "role": "Procurement Manager",
+          "text": "Let me follow up on that.",
+          "reactions": [
+            {
+              "emoji": "\ud83d\udca1",
+              "count": 2
+            },
+            {
+              "emoji": "\ud83d\udc4f",
+              "count": 3
+            }
+          ],
+          "tags": [
+            "Store-157"
+          ]
+        }
+      ],
+      "summary": "Discussion with 3 messages.",
+      "action_items": [
+        {
+          "description": "Let me follow up on that.",
+          "owner": "Jennifer Liu",
+          "due_date": null,
+          "status": "open"
+        }
+      ],
+      "references": {
+        "stores": [
+          "Store-157"
+        ],
+        "vendors": [],
+        "meetings": [],
+        "structured_data": [
+          {
+            "source": "03_Historical_Projects",
+            "file": "historical_projects.csv",
+            "field": "Store-157"
+          }
+        ]
+      }
+    },
+    {
+      "thread_id": "cmp_20250526_167",
+      "date": "2025-05-26",
+      "participants": [
+        {
+          "name": "Sarah Chen",
+          "role": "Project Manager",
+          "team": "ANF Store Development"
+        },
+        {
+          "name": "Tom Wilson",
+          "role": "General Contractor",
+          "team": "BuildRight Construction"
+        },
+        {
+          "name": "Jennifer Liu",
+          "role": "Procurement Manager",
+          "team": "ANF"
+        },
+        {
+          "name": "Mike Rodriguez",
+          "role": "Store Manager",
+          "team": "ANF Store #217"
+        }
+      ],
+      "messages": [
+        {
+          "timestamp": "2025-05-26 09:00:00",
+          "author": "Sarah Chen",
+          "role": "Project Manager",
+          "text": "Update on Store-137.",
+          "reactions": [
+            {
+              "emoji": "\u2705",
+              "count": 2
+            },
+            {
+              "emoji": "\u2705",
+              "count": 1
+            },
+            {
+              "emoji": "\ud83d\udca1",
+              "count": 1
+            },
+            {
+              "emoji": "\ud83d\udc4d",
+              "count": 1
+            }
+          ],
+          "tags": [
+            "Store-137"
+          ]
+        },
+        {
+          "timestamp": "2025-05-26 11:59:00",
+          "author": "Tom Wilson",
+          "role": "General Contractor",
+          "text": "Thanks for the info.",
+          "reactions": [],
+          "tags": [
+            "Store-137"
+          ]
+        },
+        {
+          "timestamp": "2025-05-26 14:21:00",
+          "author": "Jennifer Liu",
+          "role": "Procurement Manager",
+          "text": "Let me follow up on that.",
+          "reactions": [
+            {
+              "emoji": "\ud83d\ude2c",
+              "count": 4
+            },
+            {
+              "emoji": "\ud83d\ude4f",
+              "count": 1
+            }
+          ],
+          "tags": [
+            "Store-137"
+          ]
+        }
+      ],
+      "summary": "Discussion with 3 messages.",
+      "action_items": [
+        {
+          "description": "Let me follow up on that.",
+          "owner": "Jennifer Liu",
+          "due_date": null,
+          "status": "open"
+        }
+      ],
+      "references": {
+        "stores": [
+          "Store-137"
+        ],
+        "vendors": [],
+        "meetings": [],
+        "structured_data": [
+          {
+            "source": "03_Historical_Projects",
+            "file": "historical_projects.csv",
+            "field": "Store-137"
+          }
+        ]
+      }
+    },
+    {
+      "thread_id": "cmp_20250306_987",
+      "date": "2025-03-06",
+      "participants": [
+        {
+          "name": "Sarah Chen",
+          "role": "Project Manager",
+          "team": "ANF Store Development"
+        },
+        {
+          "name": "Tom Wilson",
+          "role": "General Contractor",
+          "team": "BuildRight Construction"
+        },
+        {
+          "name": "Jennifer Liu",
+          "role": "Procurement Manager",
+          "team": "ANF"
+        },
+        {
+          "name": "Mike Rodriguez",
+          "role": "Store Manager",
+          "team": "ANF Store #217"
+        }
+      ],
+      "messages": [
+        {
+          "timestamp": "2025-03-06 09:00:00",
+          "author": "Sarah Chen",
+          "role": "Project Manager",
+          "text": "Update on Store-158.",
+          "reactions": [
+            {
+              "emoji": "\ud83d\udca1",
+              "count": 3
+            },
+            {
+              "emoji": "\u2705",
+              "count": 4
+            },
+            {
+              "emoji": "\ud83d\udca1",
+              "count": 2
+            }
+          ],
+          "tags": [
+            "Store-158"
+          ]
+        },
+        {
+          "timestamp": "2025-03-06 11:22:00",
+          "author": "Tom Wilson",
+          "role": "General Contractor",
+          "text": "Thanks for the info.",
+          "reactions": [],
+          "tags": [
+            "Store-158"
+          ]
+        },
+        {
+          "timestamp": "2025-03-06 14:11:00",
+          "author": "Jennifer Liu",
+          "role": "Procurement Manager",
+          "text": "Let me follow up on that.",
+          "reactions": [
+            {
+              "emoji": "\ud83d\ude2c",
+              "count": 2
+            },
+            {
+              "emoji": "\ud83d\ude4f",
+              "count": 4
+            },
+            {
+              "emoji": "\ud83d\ude2c",
+              "count": 2
+            },
+            {
+              "emoji": "\ud83d\udc4d",
+              "count": 1
+            },
+            {
+              "emoji": "\ud83d\udc4f",
+              "count": 3
+            }
+          ],
+          "tags": [
+            "Store-158"
+          ]
+        }
+      ],
+      "summary": "Discussion with 3 messages.",
+      "action_items": [
+        {
+          "description": "Let me follow up on that.",
+          "owner": "Jennifer Liu",
+          "due_date": null,
+          "status": "open"
+        }
+      ],
+      "references": {
+        "stores": [
+          "Store-158"
+        ],
+        "vendors": [],
+        "meetings": [],
+        "structured_data": [
+          {
+            "source": "03_Historical_Projects",
+            "file": "historical_projects.csv",
+            "field": "Store-158"
+          }
+        ]
+      }
+    }
+  ]
+}

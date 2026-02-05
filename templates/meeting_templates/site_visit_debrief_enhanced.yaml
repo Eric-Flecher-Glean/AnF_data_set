@@ -1,0 +1,58 @@
+meeting_type: site_visit_debrief
+duration_minutes: 60-90
+
+dialogue_scenarios:
+  - speaker_role: Project Manager
+    text: "Thanks for joining. Let's dive into yesterday's site visit findings for {store_id}. Tom, what did you discover?"
+
+  - speaker_role: General Contractor
+    text: "The electrical panel is significantly undersized for the new HVAC and lighting requirements. We're looking at a full panel upgrade to 400A. Based on what we did at {historical_store}, I'm estimating around ${cost:,} for the electrical work."
+
+  - speaker_role: Store Manager
+    text: "That's going to push us over our initial budget. {historical_store} came in at ${historical_cost:,} for similar work, right? Can we match that?"
+
+  - speaker_role: General Contractor
+    text: "{historical_store} was in the Columbus market where labor rates are lower. We're in {market} here, and we're seeing {modifier_pct}% higher labor costs this year due to {modifier_reason}."
+
+  - speaker_role: Project Manager
+    text: "Let me verify that against our regional modifiers... Yes, I'm seeing {market} at {modifier}x for electrical work. Tom, does your ${cost:,} estimate include that adjustment?"
+
+  - speaker_role: General Contractor
+    text: "Correct, that's with the {modifier}x modifier applied. Also, I should mention the landlord has a requirement that all electrical work must use vendors from their approved list. That limits our negotiation flexibility."
+
+  - speaker_role: Project Manager
+    text: "That's a new constraint I wasn't aware of. I'll need to document this as a store-specific constraint."
+
+  - speaker_role: General Contractor
+    text: "The good news is that our usual electrical subcontractor, PowerTech Solutions, is on their approved list. But we can't shop around for better pricing like we normally would."
+
+  - speaker_role: Project Manager
+    text: "Understood. Can you provide a detailed breakdown of the ${cost:,} estimate?"
+
+  - speaker_role: General Contractor
+    text: "Sure. We're looking at ${labor:,} for labor at {market} rates, ${materials:,} for the panel and materials, and ${permits:,} for permits and inspections."
+
+  - speaker_role: Project Manager
+    text: "That breakdown helps. Given the constraint and the regional factors, I think ${cost:,} is reasonable. From an operational perspective, how disruptive will this work be?"
+
+  - speaker_role: Store Manager
+    text: "We'll need to close the store for at least two days for the panel swap. Can we schedule that during our lowest traffic period?"
+
+  - speaker_role: General Contractor
+    text: "Typically we'd do electrical work mid-week. I'd recommend Tuesday-Wednesday to minimize customer impact."
+
+  - speaker_role: Project Manager
+    text: "I'll coordinate with scheduling. Let me capture the action items: I'll update the cost estimate to include the ${cost:,} electrical upgrade, add the landlord vendor constraint to our constraints database, and work with you on scheduling the downtime."
+
+context_requirements:
+  store_id: required
+  historical_store: required
+  cost: required  # Main electrical cost estimate
+  historical_cost: required  # Cost from reference store
+  market: required  # Cincinnati, Columbus, etc.
+  modifier: required  # 1.08, 1.05, etc.
+  modifier_pct: required  # 8, 5, etc.
+  modifier_reason: required  # "union contracts", "higher demand", etc.
+  labor: required  # Labor cost component
+  materials: required  # Materials cost component
+  permits: required  # Permits cost component

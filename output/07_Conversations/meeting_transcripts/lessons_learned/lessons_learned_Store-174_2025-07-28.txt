@@ -1,0 +1,31 @@
+MEETING: Lessons Learned
+DATE: 2025-07-28
+PARTICIPANTS:
+  - Sarah Chen (Project Manager) - ANF Store Development
+  - David Park (VP Store Development) - ANF
+  - Lisa Thompson (Finance Analyst) - ANF Finance
+  - Tom Wilson (General Contractor) - BuildRight Construction
+DURATION: 00:18
+STORE/TOPIC: Store-174
+---
+
+[00:00:00] Sarah Chen: Thanks everyone for joining. Let's review Store-174's performance. We completed this project 45 days ago, so the data is fresh.
+[00:02:18] David Park: Good timing. What are the key variances we need to understand?
+[00:02:49] Lisa Thompson: Looking at the financials, we came in $-3,000 under budget on electrical. We estimated $35,000 but actual was $32,000.
+[00:05:46] Sarah Chen: What drove that variance?
+[00:08:16] Tom Wilson: We used TempMaster instead of our usual contractor. They had 9% under pricing but quality was excellent.
+[00:08:58] David Park: Is this a one-time variance or should we consider TempMaster for our primary vendor rotation?
+[00:10:18] Sarah Chen: Based on this project, I'd recommend adding them to our preferred vendor list. The 9% cost savings could be significant across our portfolio.
+[00:12:53] Lisa Thompson: From a budget perspective, this saved us $3,000 and shows backup vendors can offer better value.
+[00:14:54] Tom Wilson: Operationally, we should always get quotes from at least two contractors.
+[00:16:11] Sarah Chen: I'll make sure these learnings get added to our knowledge base and shared with the broader team.
+[00:18:08] David Park: Excellent work team. Let's apply these insights to our upcoming projects in the Columbus and Cincinnati markets.
+
+---
+TAGS: lessons-learned, Store-174, cost-variance
+ACTION ITEMS:
+  - Add learnings to knowledge base [@Sarah Chen, due: 2025-08-01]
+  - Share insights with broader team [@Sarah Chen, due: 2025-08-01]
+REFERENCES:
+  - Historical Store: Store-174 (electrical variance analysis)
+  - Vendor: TempMaster (backup vendor with better pricing)

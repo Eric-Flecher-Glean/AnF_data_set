@@ -1,0 +1,27 @@
+MEETING: Weekly Dev Sync
+DATE: 2025-11-03
+PARTICIPANTS:
+  - Sarah Chen (Project Manager) - ANF Store Development
+  - Jennifer Liu (Procurement Manager) - ANF
+DURATION: 00:24
+STORE/TOPIC: San-Francisco-Market
+---
+
+[00:00:00] Sarah Chen: Good morning. Let's run through this week's project status. We have 12 active stores in development.
+[00:01:43] Jennifer Liu: I'll start with procurement updates. We're seeing lead time increases from our primary HVAC vendor - up to 10 weeks now.
+[00:03:59] Sarah Chen: That impacts 3 stores in our current pipeline. Do we have mitigation options?
+[00:05:55] Jennifer Liu: We can use our backup vendor, but that comes with a 15% cost premium. For critical timeline projects, it might be worth it.
+[00:07:21] Sarah Chen: Let's evaluate on a case-by-case basis. Store-217 is time-sensitive, so let's plan for the backup vendor there.
+[00:09:24] Jennifer Liu: Noted. I'll reach out to them this week.
+[00:11:25] Sarah Chen: On budget status, how are we tracking for the month?
+[00:14:22] Jennifer Liu: We're running 3% under budget across active projects. Most of that is due to favorable vendor pricing on recent contracts.
+[00:16:20] Sarah Chen: Understood. Let's make sure we're capturing those learnings for future estimates. Any blockers I should be aware of?
+[00:19:14] Jennifer Liu: Waiting on permit approval for Store-215 - should be resolved by end of week
+[00:20:49] Sarah Chen: I'll work on unblocking that. For next week's priorities, we need to finalize estimates for 4 new stores and complete site visits for 2 others.
+[00:22:13] Jennifer Liu: I'll make sure we have vendor availability confirmed for those site visits.
+[00:24:51] Sarah Chen: Perfect. Let's connect offline if any urgent issues come up. Thanks everyone.
+
+---
+TAGS: project-status, weekly-sync
+ACTION ITEMS:
+  - Confirm vendor availability for site visits [@Jennifer Liu, due: 2025-11-07]

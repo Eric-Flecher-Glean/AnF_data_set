@@ -1,0 +1,57 @@
+{
+  "meeting_timing_rules": {
+    "site_visit_debrief": {
+      "relative_to": "estimate_deadline",
+      "offset_days": -14,
+      "description": "Site visit occurs 2 weeks before estimate is due"
+    },
+    "vendor_negotiation": {
+      "relative_to": "material_order_date",
+      "offset_days": -10,
+      "description": "Vendor negotiations occur 10 days before material order"
+    },
+    "lessons_learned": {
+      "relative_to": "project_completion",
+      "offset_days": 45,
+      "description": "Lessons learned meeting 45 days after project completion"
+    },
+    "design_review": {
+      "schedule": "quarterly",
+      "fixed_dates": ["01-15", "04-15", "07-15", "10-15"],
+      "description": "Design reviews occur quarterly on fixed dates"
+    },
+    "weekly_dev_sync": {
+      "schedule": "weekly",
+      "day_of_week": "Monday",
+      "description": "Weekly development syncs every Monday"
+    }
+  },
+  "teams_thread_timing_rules": {
+    "meeting_followup": {
+      "relative_to": "meeting_date",
+      "offset_days_min": 0,
+      "offset_days_max": 1,
+      "description": "Teams follow-up same day or next day after meeting"
+    },
+    "supply_chain_update": {
+      "relative_to": "project_estimate_date",
+      "offset_days_min": -28,
+      "offset_days_max": -14,
+      "description": "Supply chain updates occur 2-4 weeks before project estimate"
+    },
+    "decision_thread": {
+      "span_days_min": 2,
+      "span_days_max": 5,
+      "description": "Decision threads typically span 2-5 days"
+    }
+  },
+  "historical_reference_rules": {
+    "lessons_learned_only_references_completed": true,
+    "max_reference_age_months": 12,
+    "description": "Only reference completed projects within last 12 months"
+  },
+  "lead_time_calculation_rules": {
+    "availability_date": "update_date + lead_time_weeks",
+    "project_must_start_after_availability": true
+  }
+}

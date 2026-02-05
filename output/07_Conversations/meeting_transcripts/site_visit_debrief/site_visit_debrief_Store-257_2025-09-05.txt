@@ -1,0 +1,33 @@
+MEETING: Site Visit Debrief
+DATE: 2025-09-05
+PARTICIPANTS:
+  - Sarah Chen (Project Manager) - ANF Store Development
+  - Tom Wilson (General Contractor) - BuildRight Construction
+  - Mike Rodriguez (Store Manager) - ANF
+DURATION: 00:23
+STORE/TOPIC: Store-257
+---
+
+[00:00:00] Sarah Chen: Thanks for joining. Let's dive into yesterday's site visit findings for Store-257. Tom, what did you discover?
+[00:02:09] Tom Wilson: The electrical panel is significantly undersized for the new HVAC and lighting requirements. We're looking at a full panel upgrade to 400A. Based on what we did at Store-245, I'm estimating around $35,000 for the electrical work.
+[00:02:46] Mike Rodriguez: That's going to push us over our initial budget. Store-245 came in at $32,000 for similar work, right? Can we match that?
+[00:05:39] Tom Wilson: Store-245 was in the Columbus market where labor rates are lower. We're in Cincinnati here, and we're seeing 8% higher labor costs this year due to union contracts.
+[00:08:08] Sarah Chen: Let me verify that against our regional modifiers... Yes, I'm seeing Cincinnati at 1.08x for electrical work. Tom, does your $35,000 estimate include that adjustment?
+[00:09:07] Tom Wilson: Correct, that's with the 1.08x modifier applied. Also, I should mention the landlord has a requirement that all electrical work must use vendors from their approved list. That limits our negotiation flexibility.
+[00:11:22] Sarah Chen: That's a new constraint I wasn't aware of. I'll need to document this as a store-specific constraint.
+[00:13:45] Tom Wilson: The good news is that our usual electrical subcontractor, PowerTech Solutions, is on their approved list. But we can't shop around for better pricing like we normally would.
+[00:14:32] Sarah Chen: Understood. Can you provide a detailed breakdown of the $35,000 estimate?
+[00:17:16] Tom Wilson: Sure. We're looking at $15,000 for labor at Cincinnati rates, $18,000 for the panel and materials, and $2,000 for permits and inspections.
+[00:18:40] Sarah Chen: That breakdown helps. Given the constraint and the regional factors, I think $35,000 is reasonable. From an operational perspective, how disruptive will this work be?
+[00:20:52] Mike Rodriguez: We'll need to close the store for at least two days for the panel swap. Can we schedule that during our lowest traffic period?
+[00:22:44] Tom Wilson: Typically we'd do electrical work mid-week. I'd recommend Tuesday-Wednesday to minimize customer impact.
+[00:23:53] Sarah Chen: I'll coordinate with scheduling. Let me capture the action items: I'll update the cost estimate to include the $35,000 electrical upgrade, add the landlord vendor constraint to our constraints database, and work with you on scheduling the downtime.
+
+---
+TAGS: site-constraints, Store-257, electrical-upgrade, Store-245
+ACTION ITEMS:
+  - Update cost estimate with electrical upgrade [@Sarah Chen, due: 2025-09-12]
+  - Add landlord vendor constraint to constraints database [@Sarah Chen, due: 2025-09-12]
+REFERENCES:
+  - Historical Store: Store-245 (electrical: $32,000 actual)
+  - Regional Modifier: regional_modifiers.csv (Cincinnati electrical: 1.08x)

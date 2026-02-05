@@ -1,0 +1,17 @@
+# Data Generation Requirements
+
+# Core dependencies
+pandas>=2.0.0
+pyyaml>=6.0
+python-dateutil>=2.8.2
+
+# Optional: For validation and testing
+pytest>=7.4.0
+pytest-cov>=4.1.0
+
+# Optional: For enhanced data generation
+faker>=19.0.0  # For generating realistic fake data
+numpy>=1.24.0  # For statistical variations
+
+# Optional: For integration with external systems
+requests>=2.31.0  # For API calls if needed

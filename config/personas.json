@@ -1,0 +1,132 @@
+{
+  "participants": [
+    {
+      "name": "Sarah Chen",
+      "role": "Project Manager",
+      "team": "ANF Store Development",
+      "authority_weight": 0.9,
+      "expertise": ["scheduling", "budgeting", "vendor-management"],
+      "voice_profile": "data-driven, collaborative, solution-focused",
+      "email": "sarah.chen",
+      "characteristic_phrases": [
+        "Let me check the numbers",
+        "What does the data show",
+        "We need to validate that against",
+        "I'll coordinate with",
+        "Based on the historical data"
+      ]
+    },
+    {
+      "name": "Tom Wilson",
+      "role": "General Contractor",
+      "team": "BuildRight Construction",
+      "authority_weight": 0.85,
+      "expertise": ["construction", "cost-estimation", "timelines"],
+      "voice_profile": "cost-focused, risk-aware, detail-oriented",
+      "email": "tom.wilson",
+      "characteristic_phrases": [
+        "Based on what we did at",
+        "We're looking at around",
+        "That's going to be a problem",
+        "The landlord requires",
+        "We're seeing"
+      ]
+    },
+    {
+      "name": "Jennifer Liu",
+      "role": "Procurement Manager",
+      "team": "ANF",
+      "authority_weight": 0.8,
+      "expertise": ["vendor-relations", "supply-chain", "pricing"],
+      "voice_profile": "strategic, relationship-oriented, proactive",
+      "email": "jennifer.liu",
+      "characteristic_phrases": [
+        "I can reach out to",
+        "Our primary vendor",
+        "Just notified me",
+        "Lead times",
+        "Pricing is"
+      ]
+    },
+    {
+      "name": "Mike Rodriguez",
+      "role": "Store Manager",
+      "team": "ANF Store #217",
+      "authority_weight": 0.6,
+      "expertise": ["store-operations", "customer-experience"],
+      "voice_profile": "practical, customer-focused, operational",
+      "email": "mike.rodriguez",
+      "characteristic_phrases": [
+        "From an operational perspective",
+        "Customer impact",
+        "Store traffic",
+        "That's going to push us",
+        "Can we match"
+      ]
+    },
+    {
+      "name": "David Park",
+      "role": "VP Store Development",
+      "team": "ANF",
+      "authority_weight": 1.0,
+      "expertise": ["strategy", "portfolio-management", "resource-allocation"],
+      "voice_profile": "strategic, decisive, big-picture",
+      "email": "david.park",
+      "characteristic_phrases": [
+        "What's the portfolio impact",
+        "Is this a trend",
+        "I'm comfortable approving",
+        "Let's move forward with",
+        "Strategic implications"
+      ]
+    },
+    {
+      "name": "Lisa Thompson",
+      "role": "Finance Analyst",
+      "team": "ANF Finance",
+      "authority_weight": 0.75,
+      "expertise": ["financial-analysis", "budgeting", "variance-reporting"],
+      "voice_profile": "analytical, detail-oriented, numbers-focused",
+      "email": "lisa.thompson",
+      "characteristic_phrases": [
+        "The variance shows",
+        "From a budget perspective",
+        "Worth understanding",
+        "ROI on",
+        "Cost model"
+      ]
+    },
+    {
+      "name": "Carlos Martinez",
+      "role": "Design Lead",
+      "team": "ANF Design",
+      "authority_weight": 0.85,
+      "expertise": ["design-standards", "architecture", "templates"],
+      "voice_profile": "detail-oriented, standards-focused, quality-driven",
+      "email": "carlos.martinez",
+      "characteristic_phrases": [
+        "The template calls for",
+        "Design standards",
+        "From a design perspective",
+        "Quality requirements",
+        "Spec requires"
+      ]
+    },
+    {
+      "name": "Angela Wu",
+      "role": "Architect",
+      "team": "ANF Design",
+      "authority_weight": 0.8,
+      "expertise": ["architecture", "building-codes", "design"],
+      "voice_profile": "technical, code-focused, systematic",
+      "email": "angela.wu",
+      "characteristic_phrases": [
+        "Building code requires",
+        "Structurally",
+        "The specs show",
+        "From an engineering perspective",
+        "Code compliance"
+      ]
+    }
+  ]
+}

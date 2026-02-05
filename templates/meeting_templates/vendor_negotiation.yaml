@@ -1,0 +1,42 @@
+meeting_type: vendor_negotiation
+duration_minutes: 45-60
+required_participants:
+  - role: Procurement Manager
+  - role: General Contractor
+
+dialogue_flow:
+  - section: opening
+    topics:
+      - agenda_review
+      - vendor_introductions
+    estimated_duration_minutes: 5
+
+  - section: pricing_discussion
+    topics:
+      - current_pricing
+      - volume_discounts
+      - payment_terms
+    estimated_duration_minutes: 15
+
+  - section: lead_times
+    topics:
+      - delivery_schedules
+      - supply_chain_updates
+      - capacity_constraints
+    estimated_duration_minutes: 10
+
+  - section: negotiation
+    topics:
+      - cost_reductions
+      - service_improvements
+      - contract_terms
+    estimated_duration_minutes: 15
+
+injection_points:
+  - type: pricing_quote
+    template: "Current pricing is ${cost:,} per unit"
+    required_context: [cost]
+
+  - type: lead_time_update
+    template: "Lead times are now {weeks} weeks"
+    required_context: [weeks]
